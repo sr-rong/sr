@@ -5,7 +5,7 @@ var rule={
     模板:'首图2',
     // host:'http://6d.zzdacou.cn',
     host:'https://6d.zzdacou.com',
-    // url:'/whole/fyclass_______0_id_fypage.html',
+    // url:'/whole/fyclass_0_id_fypage.html',
     url:'/whole/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'_{{fl.area}}_{{fl.class}}_{{fl.lang}}_{{fl.year}}___0_{{fl.by}}__fypage',
