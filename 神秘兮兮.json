@@ -56,7 +56,7 @@
 
 {"key":"荐片","name":"🔪荐片┃磁力","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
-{"key":"六度","name":"🏕六度|TV","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/六度.js"},
+{"key":"六度","name":"🏕六度｜TV","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/六度.js"},
 
 {"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
 
