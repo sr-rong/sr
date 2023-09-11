@@ -20,7 +20,7 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key":"电影盒子","name":"📽电影┃盒子","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影盒子.json","jar":"./jar/XYQTVBox.jar"},
+{"key":"电影盒子","name":"📽电影┃盒子","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影盒子.json","jar":"./jar/xyqq.jar"},
 
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
