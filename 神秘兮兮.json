@@ -19,8 +19,6 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},0
 
-{"key":"电影盒子","name":"📽电影┃盒子","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影盒子.json","jar":"./jar/xyq.jar"},0
-
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
