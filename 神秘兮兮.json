@@ -23,7 +23,7 @@
 
 {"key":"奈飞中文","name":"📽奈飞┃中文","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/奈飞中文.json","jar":"./jar/xyq.jar"},
 
-{"key":"鸭奈飞影视","name":"鸭奈飞┃","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/鸭奈飞影视.json","jar":"./jar/xyq.jar"},
+{"key":"鸭奈飞影视","name":"🦆鸭奈飞┃影视","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/鸭奈飞影视.json","jar":"./jar/xyq.jar"},
 
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
