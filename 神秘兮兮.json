@@ -27,9 +27,9 @@
 
 {"key":"花猪TV[V2]","name":"🐷花猪┃TV","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/花猪影视.js"},
 
-{"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
+{"key":"酷客影院","name":"🗿酷客┃TV","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/酷客影院.js"},
 
-{"key":"奈飞中文","name":"📽奈飞┃中文","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/奈飞中文.json","jar":"./jar/xyq.jar"},
+{"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"宝仙HD","name":"🎁宝仙┃HD","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/宝仙HD.json","jar":"./jar/xyq.jar"},
 
