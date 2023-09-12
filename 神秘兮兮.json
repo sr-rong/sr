@@ -21,6 +21,8 @@
 
 {"key":"8号影院","name":"♾8号┃影院","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/8号影院.js"},
 
+{"key":"爱看","name":"♥爱看┃蓝光","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
+
 {"key":"UM电影[V2]","name":"🧲UM┃电影","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
