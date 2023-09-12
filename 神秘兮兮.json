@@ -25,7 +25,7 @@
 
 {"key":"宝仙HD","name":"🎁宝仙┃HD","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/宝仙HD.json","jar":"./jar/xyq.jar"},
 
-{"key":"人人影视PRO","name":"人人┃影视","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/人人影视PRO.json","jar":"./jar/xyq.jar"},
+{"key":"人人影视PRO","name":"👯人人┃影视","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/人人影视PRO.json","jar":"./jar/xyq.jar"},
 
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
