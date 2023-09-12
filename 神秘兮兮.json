@@ -17,6 +17,8 @@
 
 {"key":"优酷","name":"👖优酷┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 
+{"key":"360影视","name":"⭕360┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
+
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
