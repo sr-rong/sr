@@ -25,7 +25,7 @@
 
 {"key":"UM电影[V2]","name":"🧲UM┃电影","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
-{"key":"花猪[V2]","name":"🐷花猪┃TV","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/花猪.js"},
+{"key":"花猪[V2]","name":"🐷花猪┃TV","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/花猪影视.js"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
@@ -34,8 +34,6 @@
 {"key":"宝仙HD","name":"🎁宝仙┃HD","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/宝仙HD.json","jar":"./jar/xyq.jar"},
 
 {"key":"人人影视PRO","name":"👯人人┃影视","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/人人影视PRO.json","jar":"./jar/xyq.jar"},
-
-{"key": "csp_淘剧影视","name": "💖淘剧┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
 
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
