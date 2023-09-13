@@ -27,6 +27,8 @@
 
 {"key":"爱看影院","name":"🌹爱看┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/爱看影院.js"},
 
+{"key":"孜然影视","name":"🔥孜然┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/孜然影视.json"},
+
 {"key":"UM电影[V2]","name":"🧲UM┃电影","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
 {"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
@@ -50,8 +52,6 @@
 {"key": "csp_热播","name": "🥞热播┃之家","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
 {"key": "csp_农民","name": "🏌农民┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/农民影视.json"},
-
-{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 
