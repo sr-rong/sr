@@ -25,7 +25,7 @@
 
 {"key":"爱看","name":"♥爱看┃蓝光","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 
-{"key":"爱看影院","name":"爱看┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/爱看影院.js"},
+{"key":"爱看影院","name":"🌹爱看┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/爱看影院.js"},
 
 {"key":"UM电影[V2]","name":"🧲UM┃电影","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
