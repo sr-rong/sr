@@ -88,7 +88,7 @@
 
 {"key":"来米影视","name":"🌾来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
-{"key":"Paper","name":"📝纸条┃搜索","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=533321a1c9e744ea827b0b45cccc91e4","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Paper","name":"📝纸条┃搜索","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=1e4eb9cbf7a54de4ab1e48a39d89ee631e4eb9cbf7a54de4ab1e48a39d89ee63","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_Hdhive_影巢","name":"🦜影巢┃云搜","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/ali.jar"},
 
