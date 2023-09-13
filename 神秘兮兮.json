@@ -88,10 +88,6 @@
 
 {"key":"速度","name":"🚙速度┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
-{"key":"A8影视","name":"🎱A8┃影视", "type":3,"api":"csp_AppYs", "searchable":1, "quickSearch": 1, "filterable":1,"ext":"https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
-
-{"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
-
 {"key":"来米影视","name":"🌾来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
 {"key": "csp_Hdhive_影巢","name":"🦜影巢┃云搜","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/ali.jar"},
