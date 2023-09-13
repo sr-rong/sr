@@ -44,14 +44,6 @@
 
 {"key": "csp_热播","name": "🥞热播┃之家","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
-{"key": "csp_淘剧","name": "淘剧┃影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧.json"},
-
-{"key": "csp_毛驴","name": "🐴毛驴┃TV","type": 3,"api": "csp_XBPQ","ext":"./json/毛驴.json"},
-
-{"key": "csp_xBPQ_奇优","name": "🤴奇优┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/奇优.json"},
-
-{"key": "csp_圣城","name": "🏠圣城┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/圣城影视.json"},
-
 {"key": "csp_农民","name": "🏌农民┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/农民影视.json"},
 
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
