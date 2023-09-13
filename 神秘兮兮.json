@@ -39,9 +39,19 @@
 
 {"key":"人人影视PRO","name":"👯人人┃影视","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/人人影视PRO.json","jar":"./jar/xyq.jar"},
 
-{"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
+{"key": "csp_热播","name": "🥞热播┃之家","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
-{"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
+{"key": "csp_淘剧","name": "淘剧┃影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧.json"},
+
+{"key": "csp_毛驴","name": "🐴毛驴┃TV","type": 3,"api": "csp_XBPQ","ext":"./json/毛驴.json"},
+
+{"key": "csp_xBPQ_奇优","name": "🤴奇优┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/奇优.json"},
+
+{"key": "csp_圣城","name": "🏠圣城┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/圣城影视.json"},
+
+{"key": "csp_农民","name": "🏌农民┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/农民影视.json"},
+
+{"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
@@ -65,19 +75,19 @@
 
 {"key": "小鹿","name": "🦌小鹿┃影视","type": 3,"api": "csp_XBPQ","ext":"./json/小鹿.json"},
 
-{"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
+{"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"},
 
 {"key":"ytyb","name":"🐰野兔┃云播","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list"},
 
-{"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
-
-{"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
+{"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"}, 
 
 {"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
 {"key": "csp_XBPQ_6V","name": "🤙新6V┃磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/新6V.json"},
 
 {"key": "csp_厂长","name": "🍎主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
+
+{"key":"csp_Voflix","name":"🧶Vof┃lix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/voflix.json"},
 
 {"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
@@ -86,6 +96,10 @@
 {"key":"六度","name":"🏕六度｜TV","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/六度.js"},
 
 {"key":"ddys","name":"⛳低端｜影视","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
+
+{"key":"速度","name":"🚙速度┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
+
+{"key":"A8影视","name":"🎱A8┃影视", "type":3,"api":"csp_AppYs", "searchable":1, "quickSearch": 1, "filterable":1,"ext":"https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
 {"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
 
