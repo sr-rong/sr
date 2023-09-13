@@ -35,6 +35,8 @@
 
 {"key":"歪片星球","name":"🌕歪片┃星球","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/歪片星球.js"},
 
+{"key":"快看","name":"快看┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
+
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"宝仙HD","name":"🎁宝仙┃HD","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/宝仙HD.json","jar":"./jar/xyq.jar"},
