@@ -29,6 +29,8 @@
 
 {"key":"UM电影[V2]","name":"🧲UM┃电影","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
+{"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
+
 {"key":"花猪TV[V2]","name":"🐷花猪┃TV","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/花猪影视.js"},
 
 {"key":"酷客影院","name":"🗿酷客┃TV","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/酷客影院.js"},
