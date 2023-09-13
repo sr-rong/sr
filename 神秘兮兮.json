@@ -46,11 +46,7 @@
 
 {"key": "csp_农民","name": "🏌农民┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/农民影视.json"},
 
-{"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
-
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
-
-{"key": "大鹏","name": "🔌大鹏┃视界","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.jialiangos.com/api.php/app/"},
 
 {"key": "qq2k","name": "🏵QQ┃2K","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
