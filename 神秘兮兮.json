@@ -33,9 +33,9 @@
 
 {"key":"酷客影院","name":"🗿酷客┃TV","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/酷客影院.js"},
 
-{"key":"南瓜影视","name":"🍈南瓜┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
+{"key":"南瓜影视","name":"🍈南瓜┃影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
 
-{"key":"歪片星球","name":"🌕歪片┃星球","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/歪片星球.js"},
+{"key":"歪片星球","name":"🌕歪片┃星球","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/歪片星球.js"},
 
 {"key":"快看","name":"🛬快看┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
