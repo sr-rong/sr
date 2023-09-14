@@ -37,7 +37,7 @@
 
 {"key":"快看","name":"🛬快看┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
-{"key":"007","name":"👣特工┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/007.js"},
+{"key":"007","name":"👣特工┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/007影视.js"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
