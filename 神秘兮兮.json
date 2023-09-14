@@ -25,7 +25,7 @@
 
 {"key":"爱看","name":"♥爱看┃蓝光","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 
-{"key":"奇珍异兽","name":"🦥奇珍┃tv","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
+{"key":"奇珍异兽","name":"🦥奇珍┃tv","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 
 {"key":"UM电影[V2]","name":"🧲UM┃电影","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
@@ -37,11 +37,11 @@
 
 {"key":"歪片星球","name":"🌕歪片┃星球","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/歪片星球.js"},
 
-{"key":"快看","name":"🛬快看┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
+{"key":"快看","name":"🛬快看┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
-{"key":"007","name":"特工影视┃直播","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/007影视.js"},
+{"key":"007","name":"特工影视┃直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/007影视.js"},
 
-{"key":"新视觉影视","name":"👁视觉┃TV","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/新视觉影视.js"},
+{"key":"新视觉影视","name":"👁视觉┃TV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新视觉影视.js"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
