@@ -11,7 +11,7 @@
 
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"tengxun","name":"⭐腾讯┃4K","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
+{"key":"tengxun","name":"⭐腾讯┃4K","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
 {"key":"厂长资源","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
 
@@ -25,7 +25,7 @@
 
 {"key":"爱看","name":"♥爱看┃蓝光","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 
-{"key":"奇珍异兽","name":"🦥奇珍┃tv","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
+{"key":"奇珍异兽","name":"🦥奇珍┃tv","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 
 {"key":"UM电影[V2]","name":"🧲UM┃电影","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
@@ -37,11 +37,11 @@
 
 {"key":"歪片星球","name":"🌕歪片┃星球","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/歪片星球.js"},
 
-{"key":"快看","name":"🛬快看┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
+{"key":"快看","name":"🛬快看┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
-{"key":"007","name":"特工影视┃直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/007影视.js"},
+{"key":"007","name":"特工影视┃直播","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/007影视.js"},
 
-{"key":"新视觉影视","name":"👁视觉┃TV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新视觉影视.js"},
+{"key":"新视觉影视","name":"👁视觉┃TV","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/新视觉影视.js"},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
@@ -67,15 +67,15 @@
 
 {"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
 
-{"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
+{"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext": "./json/虎虎.json"},
 
-{"key": "小鹿","name": "🦌小鹿┃影视","type": 3,"api": "csp_XBPQ","ext":"./json/小鹿.json"},
+{"key": "小鹿","name": "🦌小鹿┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/小鹿.json"},
 
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"},
 
-{"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"}, 
+{"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext": "./json/萌猫.json"}, 
 
-{"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
+{"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext": "./json/素白白.json"},
 
 {"key": "csp_XBPQ_6V","name": "🤙新6V┃磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/新6V.json"},
 
@@ -83,13 +83,13 @@
 
 {"key":"csp_Voflix","name":"🧶Vof┃lix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/voflix.json"},
 
-{"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
+{"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./js/tengxun.js"},
 
-{"key":"荐片","name":"🔪荐片┃磁力","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
+{"key":"荐片","name":"🔪荐片┃磁力","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
-{"key":"六度","name":"🏕六度｜TV","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/六度.js"},
+{"key":"六度","name":"🏕六度｜TV","type":3,"playerType":1,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/六度.js"},
 
-{"key":"ddys","name":"⛳低端｜影视","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
+{"key":"ddys","name":"⛳低端｜影视","type":3,"playerType":1,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/ddys.js"},
 
 {"key":"速度","name":"🚙速度┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
