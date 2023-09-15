@@ -45,8 +45,6 @@
 
 {"key":"新视觉影视","name":"👁视觉┃TV","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/新视觉影视.js"},
 
-{"key":"6v","name":"🤘6V┃磁力","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
-
 {"key":"宝仙HD","name":"🎁宝仙┃HD","type":3,"searchable": 1,"api":"csp_XYQHiker","playerType":"1","ext":"./json/宝仙HD.json","jar":"./jar/xyq.jar"},
 
 {"key":"人人影视PRO","name":"👯人人┃影视","type":3,"searchable": 1,"api":"csp_XYQHiker","playerType":"1","ext":"./json/人人影视PRO.json","jar":"./jar/xyq.jar"},
@@ -95,7 +93,9 @@
 
 {"key":"来米影视","name":"🌾来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
-{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
+{"key":"电影港","name":"💫电影港┃磁力","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
+
+{"key":"6v","name":"🤘6V┃磁力","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"Paper","name":"📝纸条┃搜索","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=4a9e1b203ac1496f96aa931ae6e6f696","searchable":1,"quickSearch":1,"filterable":1},
 
