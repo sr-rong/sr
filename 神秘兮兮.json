@@ -13,8 +13,6 @@
 
 {"key":"tengxun","name":"⭐腾讯┃4K","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
-{"key":"厂长资源","name":"👷厂长┃在线","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
-
 {"key":"腾云驾雾","name":"☁腾云┃驾雾","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 
 {"key":"优酷","name":"👖优酷┃影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
@@ -120,6 +118,8 @@
 {"name": "解析聚合","type": 3,"url": "Demo"},
 
 {"name": "web聚合","type": 3,"url": "Web"},
+
+{"name":"-爱酷-","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
