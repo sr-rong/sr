@@ -73,8 +73,6 @@
 
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext": "./json/萌猫.json"}, 
 
-{"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext": "./json/素白白.json"},
-
 {"key": "csp_XBPQ_6V","name": "🤙新6V┃磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/新6V.json"},
 
 {"key": "csp_厂长","name": "🍎主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
