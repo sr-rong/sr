@@ -25,6 +25,8 @@
 
 {"key":"爱看","name":"♥爱看┃蓝光","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 
+{"key":"BD影视","name":"🅱哔嘀┃影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/BD影视.js"},
+
 {"key":"小狗影院","name":"🐶小狗┃TV","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/小狗影院.js"},
 
 {"key":"奇珍异兽","name":"🧰奇珍┃tv","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
