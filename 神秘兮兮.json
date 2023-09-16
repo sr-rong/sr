@@ -83,6 +83,8 @@
 
 {"key":"csp_Voflix","name":"🧶Vof┃lix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/voflix.json"},
 
+{"key": "素白","name": "🪧素素┃白白","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
+
 {"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./js/tengxun.js"},
 
 {"key":"荐片","name":"🔪荐片┃磁力","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
