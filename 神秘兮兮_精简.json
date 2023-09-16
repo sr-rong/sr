@@ -7,13 +7,9 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
-
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"tengxun","name":"⭐腾讯┃4K","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
-
-{"key":"厂长资源","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
 
 {"key":"腾云驾雾","name":"☁腾云┃驾雾","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 
@@ -21,21 +17,9 @@
 
 {"key":"360影视","name":"⭕360┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 
-{"key":"8号影院","name":"♾8号┃影院","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/8号影院.js"},
-
 {"key":"爱看","name":"♥爱看┃蓝光","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 
-{"key":"爱看影院","name":"🌹爱看┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/爱看影院.js"},
-
-{"key":"007","name":"👣特工影视┃直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/007影视.js"},
-
-{"key":"孜然影视","name":"♥孜然┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/孜然影视.js"},
-
 {"key":"UM电影[V2]","name":"🧲UM┃电影","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
-
-{"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
-
-{"key":"花猪TV[V2]","name":"🐷花猪┃TV","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/花猪影视.js"},
 
 {"key":"酷客影院","name":"🗿酷客┃TV","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/酷客影院.js"},
 
@@ -72,8 +56,6 @@
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"},
 
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"}, 
-
-{"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
 {"key": "csp_XBPQ_6V","name": "🤙新6V┃磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/新6V.json"},
 
