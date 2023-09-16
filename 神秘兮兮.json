@@ -37,13 +37,9 @@
 
 {"key":"宝仙HD","name":"🎁SR┃宝仙HD","type":3,"searchable": 1,"api":"csp_XYQHiker","playerType":"1","ext":"./json/宝仙HD.json","jar":"./jar/xyq.jar"},
 
-{"key":"奇珍异兽","name":"🧰SR┃奇珍tv","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
-
 {"key":"UM电影[V2]","name":"🧲SR┃UM电影","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
 {"key":"酷客影院","name":"🗿SR┃酷客TV","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/酷客影院.js"},
-
-{"key":"南瓜影视","name":"🍈SR┃南瓜影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
 
 {"key":"歪片星球","name":"🌕SR┃歪片星球","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/歪片星球.js"},
 
@@ -78,6 +74,10 @@
 {"key":"来米影视","name":"🌾SR┃来米影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
 {"key":"电影港","name":"💫SR┃电影港磁力","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
+
+{"key":"奇珍异兽","name":"🧰SR┃奇珍tv","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
+
+{"key":"南瓜影视","name":"🍈SR┃南瓜影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
 
 {"key":"Paper","name":"📝SR┃纸条搜索","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=4a9e1b203ac1496f96aa931ae6e6f696","searchable":1,"quickSearch":1,"filterable":1},
 
