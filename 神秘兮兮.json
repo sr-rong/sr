@@ -129,6 +129,8 @@
 
 {"name": "🎯VIP1", "type": 1, "url": "https://hd.396pay.cn/api/?key=WYfoc47cVuA6xeED4H&url=", "ext": { "flag": [ "JHA", "JHB", "mmal"] }},
 
+{"name": "꧔ꦿ᭄💞沈秘兮兮꧔①","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
 {"name":"꧔ꦿ᭄💞沈秘兮兮꧔②","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
 {"name":"꧔ꦿ᭄💞沈秘兮兮꧔③","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent":"okhttp/3.12.0","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}}
