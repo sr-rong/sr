@@ -87,7 +87,7 @@
 
 {"key":"csp_Voflix","name":"🧶SR┃Voflix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/voflix.json"},
 
-{"key": "bei", "name": "🗻SR┃北川TV", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"},
+{"key": "bei", "name": "🗻SR┃北川TV", "type": 3, "api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":"1", "ext":"./json/北川.json"},
 
 {"key":"腾讯","name":"⭕SR┃官方资源","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./js/tengxun.js"},
 
