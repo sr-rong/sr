@@ -11,7 +11,7 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "🎯小盒酷玩VIP┃Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "🎯小盒酷玩VIP┃Q群：817925554","type": 3,"api": "./lib/drpy.min.js","ext": "./js/douban.js"},
 
 {"key": "drpy_js_Alist","name": "Alist","type": 3,"api": "./lib/alist.min.js","ext": "./js/alist.conf"},
 
