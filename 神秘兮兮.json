@@ -13,13 +13,15 @@
 
 {"key":"csp_AppYsV2_影探","name":"🕵SR┃影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
-{"key":"腾讯","name":"⭕SR┃官方资源","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./js/tengxun.js"},
-
 {"key":"快看","name":"🛬SR┃快看4K","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
-{"key":"荐片","name":"🔪SR┃荐片磁力","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
+{"key":"梅花","name":"🌸SR┃梅花4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.alovo.cn/api.php/app/"},
 
 {"key": "drpy_js_Alist","name": "👑SR┃alist云盘","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
+
+{"key":"腾讯","name":"⭕SR┃腾讯2K","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./js/tengxun.js"},
+
+{"key":"荐片","name":"🔪SR┃荐片磁力","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
 {"key":"腾云驾雾","name":"☁SR┃腾云驾雾","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 
@@ -33,7 +35,7 @@
 
 {"key": "qq2k","name": "🏵SR┃QQ2K","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
-{"key":"宝仙HD","name":"🎁SR┃宝仙HD","type":3,"searchable": 1,"api":"csp_XYQHiker","playerType":"1","ext":"./json/宝仙HD.json","jar":"./jar/xyq.jar"},
+{"key":"宝仙HD","name":"🎁SR┃宝仙2K","type":3,"searchable": 1,"api":"csp_XYQHiker","playerType":"1","ext":"./json/宝仙HD.json","jar":"./jar/xyq.jar"},
 
 {"key":"UM电影[V2]","name":"🧲SR┃UM电影","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
@@ -108,6 +110,8 @@
 {"name": "🌽玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
 
 {"name": "🎯超级解析","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
+
+{"name": "꧔ꦿ᭄💞沈秘兮兮꧔梅花","type": 1, "url": "http://115.231.220.36:9999/jx/tvbox/zy.php?url=","ext": {"flag": ["aliyun","juquan4k","sky"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "꧔ꦿ᭄💞沈秘兮兮꧔","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
