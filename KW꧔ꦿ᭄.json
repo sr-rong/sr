@@ -27,8 +27,6 @@
 
 { "key": "路人", "name": "🚶SVIP┃路人", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 
-{ "key": "宇宙", "name": "🔌SVIP┃宇宙", "type": 1, "api": "http://tv.yuzhoukeji.top/app/admin/drpy/lib/qq.php", "searchable": 1, "quickSearch": 1, "filterable": 1,"playUrl": "json:http://101.200.184.252/yzwd.php?url="}, 
-
 {"key": "小胡","name": "👳SVIP┃小胡","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
 {"key":"csp_AppYsV2_影探","name":"🕵SVIP┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
