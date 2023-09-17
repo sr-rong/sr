@@ -27,9 +27,13 @@
 
 { "key": "路人", "name": "🚶SVIP┃路人", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 
-{"key": "csp_AppYsV2_宇宙","name": "🔌SVIP┃宇宙","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://tv.yuzhoukeji.top/api.php/app/"},
+{ "key": "宇宙", "name": "🔌SVIP┃宇宙", "type": 1, "api": "http://tv.yuzhoukeji.top/app/admin/drpy/lib/qq.php", "searchable": 1, "quickSearch": 1, "filterable": 1,"playUrl": "json:http://101.200.184.252/yzwd.php?url="}, 
+
+{"key": "小胡","name": "👳SVIP┃小胡","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
 {"key":"csp_AppYsV2_影探","name":"🕵SVIP┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
+
+{"key":"梅花","name":"🌸SVIP┃梅花","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.alovo.cn/api.php/app/"},
 
 {"key":"来米影视","name":"🌾SVIP┃来米","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
@@ -79,7 +83,7 @@
 
 {"key": "UpYun","name": "📫SVIP┃Up","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
-{"key":"xh","name":"🎯2023.09.15更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
+{"key":"xh","name":"🎯2023.09.17更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
 
 ],
 
@@ -91,6 +95,8 @@
 {"name": "web聚合","type": 3,"url": "Web"},
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
+
+{"name": "🌸梅花","type": 1, "url": "http://115.231.220.36:9999/jx/tvbox/zy.php?url=","ext": {"flag": ["aliyun","juquan4k","sky"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "⭕官方","type": 1,"url": "http://119.91.31.224:82/txqq.php?url=","ext": {"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
