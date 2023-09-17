@@ -15,8 +15,6 @@
 
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"厂长在线","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
-
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"csp_Bdys","name":"🐞哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./custom_spider.jar"},
@@ -31,13 +29,7 @@
 
 {"key":"来米影视","name":"🌾来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
-{"key":"玉米", "name": "🌽玉米┃切片", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://caiji.ghlyys.com/yumi/api.php/app/"},
-
-{"key": "xsj","name": "🍬新视觉┃影视","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
-
 {"key":"速度","name":"🚙速度┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
-
-{"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
 
 {"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"}, 
 
@@ -47,11 +39,7 @@
 
 {"key": "csp_农民","name": "🏌农民┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/农民影视.json"},
 
-{"key": "csp_花猫","name": "🐱花猫┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
-
 {"key": "csp_达龟","name": "🐢达达龟┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/达达龟.json"},
-
-{"key": "csp_热播","name": "🥞热播┃之家","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
 {"key":"csp_Voflix","name":"🧶Vof┃lix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/voflix.json"},
 
