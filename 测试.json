@@ -13,7 +13,7 @@
 
 {"key": "豆瓣","name": "🎯小盒酷玩VIP┃Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "drpy_js_Alist","name": "喵哩盘搜","type": 3,"api": "./lib/alist.min.js","ext": "./js/alist.conf"},
+{"key": "drpy_js_Alist","name": "Alist","type": 3,"api": "./lib/alist.min.js","ext": "./js/alist.conf"},
 
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
 
