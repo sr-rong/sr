@@ -19,7 +19,7 @@
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
-{"key": "策驰", "name":"🐈‍奇优|XP", "type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.cecidy.cc/vodshow/{cateId}-{area}-{by}-{class}---{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
+{"key": "策驰", "name":"🐈‍奇优|XP", "type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.cecidy.cc/vodshow/{cateId}-{area}------{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
 
 {"key":"csp_Bdys","name":"🐞哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./jar/custom_spider.jar"},
 
