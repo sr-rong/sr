@@ -17,6 +17,8 @@
 
 {"key":"光影","name":"🐈‍光影|XP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://schemas.android.com/api.php/app/"},
 
+{"key":"芒果","name":"🐈‍芒果|JS","type":3,"api":"http://bdimg.share.baidu.com/static/api/js/share.js"},
+
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=51aba37d4ab54b3fad36afbad4c313d3","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
