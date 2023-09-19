@@ -61,6 +61,8 @@
 
 {"key":"达达龟","name":"🐢SR┃达达龟影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
 
+{"key": "csp_热播","name": "🥞SR┃热之家","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
+
 {"key": "虎虎","name": "🐯SR┃花虎TV","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext": "./json/虎虎.json"},
 
 {"key": "小鹿","name": "🦌SR┃小鹿影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/小鹿.json"},
