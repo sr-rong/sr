@@ -19,12 +19,6 @@
 
 {"key":"梅花","name":"🌸SR┃梅花4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.alovo.cn/api.php/app/"},
 
-{"key": "csp_appys","name": "夜猫子4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://big.lfytyl.com/api.php/app/","categories":["新电影4K","新剧4K","好莱坞精选4K","豆瓣Top250电影4K","豆瓣Top100影视剧4K","明星专辑4K","老电影","电影综合","电视剧综合","动漫","综艺"]}, 
-
-{"key":"csp_ym","name":"新夜猫4K","type":3,"api":"csp_AppYsV2","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
-
-{ "key": "dr_ruyi", "name": "夜猫如意4K", "type": 3, "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E5%A6%82%E6%84%8F_V2_.js"}, 
-
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key": "策驰", "name":"🐈‍策驰|XP", "type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.cecidy.cc/vodshow/{cateId}/{area}/by/{by}/class/{class}/{cateId}/lang/{lang}/page/{catePg}/{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
