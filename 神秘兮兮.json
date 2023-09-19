@@ -73,8 +73,6 @@
 
 {"key":"ddys","name":"⛳SR┃低端影视","type":3,"playerType":1,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/ddys.js"},
 
-{"key":"速度","name":"🚙SR┃速度秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
-
 {"key":"来米影视","name":"🌾SR┃来米影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
 {"key":"电影港","name":"💫SR┃电影港磁力","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
