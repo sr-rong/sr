@@ -17,7 +17,7 @@
 
 {"key":"光影","name":"🐈‍光影|XP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://schemas.android.com/api.php/app/"},
 
-{"key":"芒果","name":"🐈‍芒果|JS","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://bdimg.share.baidu.com/static/api/js/share.js"},
+{"key": "csp_AppYsV2_嘉靓","name": "SVIP┃嘉靓","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://pcus.ucweb.com/api.php/app/"},
 
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=51aba37d4ab54b3fad36afbad4c313d3","searchable": 1,"quickSearch": 1,"filterable": 1},
 
