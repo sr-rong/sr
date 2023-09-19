@@ -33,15 +33,9 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
-{ "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
-
-{"key": "kwmb","name": "🦴酷玩┃秒播","type": 1,"api": "https://ys.md214.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "json:http://27.124.4.42:4567/jhjson/ceshi.php?url=","categories": ["电影","连续剧","动漫","综艺"]},
-
 {"key":"csp_AppYsV2_影探","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
 {"key":"来米影视","name":"🌾来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
-
-{"key":"速度","name":"🚙速度┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"}, 
 
@@ -54,8 +48,6 @@
 {"key": "csp_达龟","name": "🐢达达龟┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/达达龟.json"},
 
 {"key":"csp_Voflix","name":"🧶Vof┃lix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/voflix.json"},
-
-{"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
 {"key":"荐片","name":"🔪荐片┃磁力","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
