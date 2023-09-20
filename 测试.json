@@ -15,6 +15,8 @@
 
 {"key": "drpy_js_Alist","name": "Alist","type": 3,"api": "./lib/alist.min.js","ext": "./js/alist.conf"},
 
+{"key":"探探","name":"🏵影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
+
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=51aba37d4ab54b3fad36afbad4c313d3","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"梅花","name":"🌸SR┃梅花4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.alovo.cn/api.php/app/"},
