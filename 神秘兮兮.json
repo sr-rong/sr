@@ -39,7 +39,7 @@
 
 {"key":"宝仙HD","name":"🎁SR┃宝仙2K","type":3,"searchable": 1,"api":"csp_XYQHiker","playerType":"1","ext":"./json/宝仙HD.json","jar":"./jar/xyq.jar"},
 
-{"key": "策驰", "name":"‍🐎SR┃策驰", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/策驰影视.json"},
+{"key": "策驰", "name":"‍🐎SR┃策驰影视", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/策驰影视.json"},
 
 {"key":"UM电影[V2]","name":"🧲SR┃UM电影","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
