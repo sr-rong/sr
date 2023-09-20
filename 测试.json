@@ -15,6 +15,8 @@
 
 {"key":"梅花","name":"🌸SR┃梅花4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.alovo.cn/api.php/app/"},
 
+{"key": "csp_WoGG", "name": "👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable": 1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key": "策驰", "name":"🐈‍策驰|XP", "type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.cecidy.cc/vodshow/{cateId}/{area}/by/{by}/class/{class}/{cateId}/lang/{lang}/page/{catePg}/{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
