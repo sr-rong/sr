@@ -81,11 +81,11 @@
 
 {"key":"南瓜影视","name":"🍈SR┃南瓜影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
 
-{"key":"Paper","name":"📝SR┃纸条搜索","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=4a9e1b203ac1496f96aa931ae6e6f696","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Paper","name":"📝SR┃纸条搜索","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=51aba37d4ab54b3fad36afbad4c313d3","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_Hdhive_影巢","name":"🦜SR┃影巢云搜","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/ali.jar"},
 
-{"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt","jar":"./jar/custom_spider.jar"},
+{"key":"csp_AliPS","name":"📀SR┃喵狸盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt","jar":"./jar/custom_spider.jar"},
 
 {"key": "PanSearch","name": "🙀SR┃盘Se搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
