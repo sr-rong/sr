@@ -91,7 +91,7 @@
 
 {"key": "七夜","name": "😾SR┃七夜云盘","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
     
-{"key": "csp_YiSo","name": "🛎SR┃易搜云盘","type": 3,"api": "csp_Yiso","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./tvbox/tok.txt","jar":"./jar/custom_spider.jar"},
+{"key": "csp_Yiso","name": "🛎SR┃易搜云盘","type": 3,"api": "csp_Yiso","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./tvbox/tok.txt","jar":"./jar/custom_spider.jar"},
 
 {"key": "PanSou","name": "🔘SR┃盘搜搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
