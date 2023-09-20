@@ -81,7 +81,7 @@
 
 {"key":"南瓜影视","name":"🍈SR┃南瓜影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
 
-{"key":"Gitcafe","name":"📝SR┃纸条搜索","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt"},
+{"key":"Gitcafe","name":"📝SR┃纸条搜索","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/custom_spider.jar"},
 
 {"key": "csp_Hdhive_影巢","name":"🦜SR┃影巢云搜","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/ali.jar"},
 
