@@ -51,7 +51,7 @@
 
 {"key":"345看片","name":"🎲SR┃345TV","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
 
-{"key":"mayi","name":"🐜SR┃蚂蚁磁力","type": 3,"api": "csp_MagnetSeedhub","searchable": 1,"quickSearch":1,"filterable":1,"jar":"./jar/kw.jar"},
+{"key":"mayi","name":"🐜SR┃蚂蚁磁力","type": 3,"api": "csp_MagnetSeedhub","playerType":2,"searchable": 1,"quickSearch":1,"filterable":1,"jar":"./jar/kw.jar"},
 
 {"key":"csp_Bdys","name":"🐞SR┃哔嘀影视","type":3,"api":"csp_Bdys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./jar/custom_spider.jar"},
 
@@ -59,7 +59,7 @@
 
 {"key": "csp_农民","name": "🏌SR┃农民影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/农民影视.json"},
 
-{"key":"子子影视","name":"➰SR┃子子影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
+{"key":"子子影视","name":"➰SR┃子子影视","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
 
 {"key":"达达龟","name":"🐢SR┃达达龟影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
 
