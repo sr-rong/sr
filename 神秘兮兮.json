@@ -53,7 +53,7 @@
 
 {"key":"mayi","name":"🐜SR┃蚂蚁磁力","type": 3,"api": "csp_MagnetSeedhub","searchable": 1,"quickSearch":1,"filterable":1,"jar":"./jar/kw.jar"},
 
-{"key":"csp_Bdys","name":"🐞SR┃哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./jar/custom_spider.jar"},
+{"key":"csp_Bdys","name":"🐞SR┃哔嘀影视","type":3,"api":"csp_Bdys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./jar/custom_spider.jar"},
 
 {"key": "萌猫","name": "🐼SR┃萌猫影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext": "./json/萌猫.json"},
 
