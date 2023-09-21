@@ -91,29 +91,14 @@
 
 {"key": "UpYun","name": "📫Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
-{
-         "api": "csp_Bdys",
-         "filterable": 1,
-         "key": "csp_Bdys",
-         "name": "🐞哔嘀影视",
-         "quickSearch": 1,
-         "searchable": 1,
-         "type": 3
-      }
-
+{"api": "csp_Bdys","filterable": 1,"key": "csp_Bdys","name": "🐞哔嘀影视","playerType":2,"quickSearch": 1,"searchable": 1,"type": 3}
 
 ],
 
+"parses": [
 
-"parses": [ 
-  {
-            "name": "轮询",
-            "type": 2,
-            "url": "Sequence",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
-        },
+{"name": "轮询",
+"type": 2,"url": "Sequence","header": {"User-Agent": "Mozilla/5.0"}},
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
 
