@@ -21,15 +21,15 @@
 
 {"key":"腾讯","name":"⭕SR┃腾讯2K","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./js/tengxun.js"},
 
-{"key":"荐片","name":"🔪SR┃荐片影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
+{"key":"荐片","name":"🎉SR┃荐片影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
-{"key":"荐片1","name":"🔪SR┃荐片备线","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2-1.min.js","ext":"./js/荐片1.js"},
+{"key":"荐片1","name":"🎊SR┃荐片备线","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2-1.min.js","ext":"./js/荐片1.js"},
 
 {"key": "drpy_追忆","name": "🍥SR┃追忆2K","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
 {"key":"腾云驾雾","name":"☁SR┃腾云驾雾","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 
-{"key":"360影视","name":"🎒SR┃360影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
+{"key":"360影视","name":"🔕SR┃360影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 
 {"key":"爱看","name":"♥SR┃爱看蓝光","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 
@@ -49,7 +49,7 @@
 
 {"key":"优酷","name":"👖SR┃优酷影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 
-{"key":"345看片","name":"🎲SR┃345影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
+{"key":"345看片","name":"🍄SR┃345影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
 
 {"key":"mayi","name":"🐜SR┃蚂蚁磁力","type": 3,"api": "csp_MagnetSeedhub","playerType":2,"searchable": 1,"quickSearch":1,"filterable":1,"jar":"./jar/kw.jar"},
 
