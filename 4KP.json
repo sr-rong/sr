@@ -41,6 +41,7 @@
 ],
 
 
+
 "parses": [ 
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
@@ -51,13 +52,22 @@
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
-{"name": "🌽玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},  
+{"name": "🌽玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
 
 {"name": "🎯超级解析","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
 
-{"name": "🎯VIP","type": 1,"url": "https://qp.xn--2qux23cmstnvb.com/json/?ts=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "꧔ꦿ᭄💞沈秘兮兮꧔官方","type": 1,"url": "http://119.91.31.224:82/txqq.php?url=","ext": {"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
-{"name": "꧔ꦿ᭄💞沈秘兮兮꧔官方","type": 1,"url": "http://119.91.31.224:82/txqq.php?url=","ext": {"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+{"name": "꧔ꦿ᭄💞沈秘兮兮꧔追忆","type": 1, "url": "http://115.231.220.36:9999/jx/tvbox/xtwl.php?url=","ext": {"flag": ["aliyun","juquan4k","sky"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
+{"name": "꧔ꦿ᭄💞沈秘兮兮꧔","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
+{"name": "꧔ꦿ᭄💞沈秘兮兮꧔①","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
+{"name":"꧔ꦿ᭄💞沈秘兮兮꧔②","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name":"꧔ꦿ᭄💞沈秘兮兮꧔③","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent":"okhttp/3.12.0","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}}
+
 
 ],
 
