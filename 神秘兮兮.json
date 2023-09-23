@@ -129,6 +129,8 @@
 
 {"name":"꧔ꦿ᭄💞沈秘兮兮꧔③","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent":"okhttp/3.12.0","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 
+{"name": "꧔ꦿ᭄💞沈秘兮兮꧔追忆","type": 1, "url": "http://115.231.220.36:9999/jx/tvbox/xtwl.php?url=","ext": {"flag": ["aliyun","juquan4k","sky"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
 {"name": "꧔ꦿ᭄💞沈秘兮兮꧔追忆","type": 1, "url": "http://115.231.220.36:9999/jx/tvbox/xtwl.php?url=","ext": {"flag": ["aliyun","juquan4k","sky"],"header":{"User-Agent":"okhttp/4.1.0"}}}
 
 ],
