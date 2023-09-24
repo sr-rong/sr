@@ -28,8 +28,6 @@
 
 {"key":"6v","name":"🤘6V┃磁力2k","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
-{"key":"电影港","name":"💫┃港湾2k","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
-
 {"key": "drpy_js_Alist","name": "👑alist┃云盘","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
 
 {"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt","jar":"./jar/custom_spider.jar"},
