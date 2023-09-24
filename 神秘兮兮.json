@@ -41,6 +41,8 @@
 
 {"key":"6v","name":"🤘SR┃6V磁力","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
+{"key":"磁力熊[磁]","name":"🐻SR┃磁力熊","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/磁力熊.js"},
+
 {"key": "qq2k","name": "🏵SR┃QQ2K","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key":"宝仙HD","name":"🎁SR┃宝仙2K","type":3,"searchable": 1,"api":"csp_XYQHiker","playerType":"1","ext":"./json/宝仙HD.json","jar":"./jar/xyq.jar"},
