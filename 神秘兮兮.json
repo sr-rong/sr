@@ -59,10 +59,6 @@
 
 {"key":"345看片","name":"🍄SR┃345影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
 
-{"key":"南瓜影视","name":"SR┃南瓜影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
-
-{"key":"mayi","name":"🐜SR┃蚂蚁磁力","type": 3,"api": "csp_MagnetSeedhub","playerType":2,"searchable": 1,"quickSearch":1,"filterable":1,"jar":"./jar/kw.jar"},
-
 {"key":"csp_Bdys","name":"🐞SR┃哔嘀影视","type":3,"api":"csp_Bdys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./jar/custom_spider.jar"},
 
 {"key": "萌猫","name": "🐼SR┃萌猫影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext": "./json/萌猫.json"},
