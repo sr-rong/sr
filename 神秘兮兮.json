@@ -81,8 +81,6 @@
 
 {"key":"来米影视","name":"🌾SR┃来米影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
-{"key":"电影港","name":"💫SR┃影港磁力","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
-
 {"key":"奇珍异兽","name":"🧰SR┃奇珍影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 
 {"key":"南瓜影视","name":"🍈SR┃南瓜影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
