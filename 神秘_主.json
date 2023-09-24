@@ -9,11 +9,11 @@
 
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"tengxun","name":"⭐腾讯┃4K","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
-
 {"key":"腾云驾雾","name":"☁腾云┃驾雾","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 
 {"key":"优酷","name":"👖优酷┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
+
+{"key": "csp_AppYsV2_嘉靓","name": "🏡┃嘉靓影视","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 
 {"key":"360影视","name":"⭕360┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 
