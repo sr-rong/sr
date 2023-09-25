@@ -78,7 +78,7 @@
 
 {"name": "🎯超级解析","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
 
-{"name": "🎯超级","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=http%3A%2F%2Fwww.iqiyi.com%2Fv_1sgk6wg53ms.html%3Fvfm%3Df_191_360y%26fv%3Dp_09_01"},
+{"name": "🎯超级","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
 
 {"name": "🎯VIP","type": 1,"url": "https://qp.xn--2qux23cmstnvb.com/json/?ts=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
