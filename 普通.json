@@ -9,19 +9,19 @@
 
 {"key": "csp_AppYsV2_嘉靓","name": "🏡┃嘉靓影视","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 
-{"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
+{"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
-{"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
+{"key": "007","name": "🎈007┃影视","type": 3,"playerType":2,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
-{"key":"热播之家","name":"🔥热播┃之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播.json","jar":"./jar/xyq.jar"},
+{"key":"热播之家","name":"🔥热播┃之家","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播.json","jar":"./jar/xyq.jar"},
 
-{"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
+{"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
 
-{"key":"csp_乐猪","name":"🐷乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪.json"},
+{"key":"csp_乐猪","name":"🐷乐猪┃影视","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪.json"},
 
 {"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
 
-{"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
+{"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
 
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
