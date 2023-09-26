@@ -13,6 +13,8 @@
 
 {"key":"优酷","name":"👖优酷┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 
+{"key": "drpy_js_厂长资源","name": "🦺┃厂长2-4K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/厂长资源.js"},
+
 {"key": "csp_AppYsV2_嘉靓","name": "🏡┃嘉靓影视","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 
 {"key":"360影视","name":"⭕360┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
