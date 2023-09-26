@@ -15,6 +15,8 @@
 
 {"key": "drpy_js_大师兄影视","name": "😊┃大师兄影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/大师兄影视.js"},
 
+{"key": "drpy_js_爱迪[V2]","name": "👄┃爱迪","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/爱迪[V2].js"},
+
 {"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
 
 {"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
