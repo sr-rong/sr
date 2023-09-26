@@ -65,8 +65,6 @@
 
 {"key":"csp_Bdys","name":"🐞SR┃哔嘀影视","type":3,"api":"csp_Bdys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./jar/custom_spider.jar"},
 
-{"key": "萌猫","name": "🐼SR┃萌猫影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext": "./json/萌猫.json"},
-
 {"key": "csp_农民","name": "🏌SR┃农民影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/农民影视.json"},
 
 {"key":"子子影视","name":"➰SR┃子子影视","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
@@ -82,8 +80,6 @@
 {"key":"csp_Voflix","name":"🧶SR┃Voflix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/voflix.json"},
 
 {"key":"ddys","name":"⛳SR┃低端影视","type":3,"playerType":1,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/ddys.js"},
-
-{"key":"来米影视","name":"🌾SR┃来米影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
 {"key":"奇珍异兽","name":"🧰SR┃奇珍影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 
