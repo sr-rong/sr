@@ -37,6 +37,8 @@
 
 {"key":"腾云驾雾","name":"☁SR┃腾云驾雾2K","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 
+{"key": "drpy_js_厂长资源","name": "🦺SR┃厂长2-4K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/厂长资源.js"},
+
 {"key":"360影视","name":"🔕SR┃360影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 
 {"key":"爱看","name":"♥SR┃爱看蓝光","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
