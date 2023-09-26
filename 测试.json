@@ -35,6 +35,8 @@
 
 {"key":"来米影视","name":"🌾来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
+{"key": "drpy_js_大师兄影视","name": "大师兄影视[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/大师兄影视.js"},
+
 {"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"}, 
 
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
