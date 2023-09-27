@@ -37,8 +37,6 @@
 
 {"key":"腾云驾雾","name":"☁SR┃腾云驾雾2K","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 
-{"key": "csp_热播","name": "💥SR┃热播2K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
-
 {"key":"米酷视频","name":"🌾SR┃米酷秒播","type":3,"api":"csp_DDMJ","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688","jar":"./jar/米酷fix0907.jar"},
 
 {"key":"360影视","name":"🔕SR┃360影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
@@ -73,7 +71,7 @@
 
 {"key":"达达龟","name":"🐢SR┃达龟影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
 
-{"key": "csp_热播","name": "🥞SR┃热播之家","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
+{"key": "csp_热播","name": "💥SR┃热播之家2K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
 {"key": "虎虎","name": "🐯SR┃花虎影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext": "./json/虎虎.json"},
 
@@ -133,7 +131,7 @@
 
 {"name":"꧔ꦿ᭄💞꧔🌺②","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
-{"name":"꧔ꦿ᭄💞꧔🌻③","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent":"okhttp/3.12.0","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}}
+{"name":"꧔ꦿ᭄💞꧔🌻③","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent":"okhttp/3.12.0","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 
 {"name":"🍁追忆④","type":1,"url":"http://115.231.220.36:9999/jx/tvbox/1314.php?url=","User-Agent":"okhttp/3.12.0","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}}
 
