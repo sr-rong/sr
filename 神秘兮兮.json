@@ -57,7 +57,7 @@
 
 {"key":"酷客影院","name":"😎SR┃酷客影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/酷客影院.js"},
 
-{"key":"歪片星球","name":"🪐SR┃歪片星球","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/歪片星球.js"},
+{"key":"歪片星球","name":"🌞SR┃歪片星球","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/歪片星球.js"},
 
 {"key":"优酷","name":"👖SR┃优酷影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 
@@ -132,6 +132,8 @@
 {"name":"꧔ꦿ᭄💞꧔🌺②","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
 {"name":"꧔ꦿ᭄💞꧔🌻③","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent":"okhttp/3.12.0","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}}
+
+{"name":"🍁追忆④","type":1,"url":"http://115.231.220.36:9999/jx/tvbox/1314.php?url=","User-Agent":"okhttp/3.12.0","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}}
 
 ],
 
