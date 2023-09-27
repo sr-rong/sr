@@ -25,8 +25,6 @@
 
 {"key":"csp_XYQHikerAL_4KHDR","name":"🎈SR┃HDR磁盘4K","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json","jar":"./jar/custom_spider.jar"},
 
-{"key": "drpy_js_厂长资源","name": "🦺SR┃厂长2-4K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/厂长资源.js"},
-
 {"key":"荐片","name":"🎉SR┃荐片影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
 {"key":"荐片1","name":"🎊SR┃荐片备线","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2-1.min.js","ext":"./js/荐片1.js"},
@@ -37,7 +35,7 @@
 
 {"key":"腾云驾雾","name":"☁SR┃腾云驾雾2K","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 
-{"key":"米酷视频","name":"🌾SR┃米酷秒播","type":3,"api":"csp_DDMJ","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688","jar":"./jar/米酷fix0907.jar"},
+{"key":"米酷视频","name":"🌾SR┃米酷秒播2-4K","type":3,"api":"csp_DDMJ","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688","jar":"./jar/米酷fix0907.jar"},
 
 {"key":"360影视","name":"🔕SR┃360影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 
