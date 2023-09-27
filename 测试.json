@@ -21,7 +21,7 @@
 
 {"key": "csp_AppYsV2_嘉靓","name": "🏡┃嘉靓影视","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 
-{"key": "畅梦","name": "♻️畅梦秒播","type": 3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./min/yyfx.min.js","ext": "./js/畅梦.js","jar":"./jar/yyfx.jar"},
+{"key": "畅梦","name": "♻️畅梦秒播","type": 3,"api": "./min/yyfx.min.js","ext": "./js/畅梦.js"},
 
 {
       "key": "畅梦",
