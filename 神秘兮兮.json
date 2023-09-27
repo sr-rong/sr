@@ -79,6 +79,8 @@
 
 {"key":"ddys","name":"⛳SR┃低端影视","type":3,"playerType":1,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/ddys.js"},
 
+{"key": "瑞丰","name": "🌶SR┃辣辣2K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
+
 {"key": "畅梦","name": "♻️SR┃畅梦秒播2K","type": 3,"api": "./min/drpy2.min.js","ext": "./js/畅梦.js"},
 
 {"key":"奇珍异兽","name":"🧰SR┃奇珍影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
