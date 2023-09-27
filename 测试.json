@@ -23,6 +23,14 @@
 
 {"key": "畅梦","name": "♻️畅梦秒播","type": 3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./min/yyfx.min.js","ext": "./js/畅梦.js","jar":"./jar/yyfx.jar"},
 
+{
+      "key": "畅梦",
+      "name": "♻️畅梦秒播",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
+    },
+
 {"key": "drpy_追忆","name": "🍥追忆┃2K","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
 {"key":"csp_Bdys","name":"🐞哔嘀影视","type":3,"api":"csp_Bdys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./jar/custom_spider.jar"},
