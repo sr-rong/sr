@@ -37,8 +37,6 @@
 
 {"key":"米酷视频","name":"🌾SR┃米酷秒播2-4K","type":3,"api":"csp_DDMJ","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688","jar":"./jar/米酷fix0907.jar"},
 
-{"key": "畅梦","name": "♻️SR┃畅梦秒播2K","type": 3,"api": "./min/drpy2.min.js","ext": "./js/畅梦.js"},
-
 {"key":"360影视","name":"🔕SR┃360影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 
 {"key":"爱看","name":"♥SR┃爱看蓝光","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
@@ -80,6 +78,8 @@
 {"key":"csp_Voflix","name":"🧶SR┃Voflix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/voflix.json"},
 
 {"key":"ddys","name":"⛳SR┃低端影视","type":3,"playerType":1,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/ddys.js"},
+
+{"key": "畅梦","name": "♻️SR┃畅梦秒播2K","type": 3,"api": "./min/drpy2.min.js","ext": "./js/畅梦.js"},
 
 {"key":"奇珍异兽","name":"🧰SR┃奇珍影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 
