@@ -25,7 +25,7 @@
 
 {
       "key": "畅梦",
-      "name": "♻️畅梦秒播",
+      "name": "♻️畅秒播",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
