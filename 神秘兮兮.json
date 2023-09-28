@@ -19,6 +19,8 @@
 
 {"key": "探探", "name": "🌺SR┃影探备源4K", "type": 3, "playerType": "1", "api": "csp_YTVIP", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "vip.lyyytv.cn","jar":"./jar/custom_spider_stable.jar"},
 
+{"key":"csp_YT","name":"🕵SR┃影探备源4K-2", "type": 3, "api":"csp_YT","searchable": 1, "quickSearch": 1, "changeable": 1,"ext":"http://vip.lyyytv.cn###d2f4e0fvaasd2c2b","jar":"./jar/YT.jar"},
+
 {"key": "App热剧","name": "😻SR┃猫影视4K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
 
 {"key":"梅花","name":"🌸SR┃梅花4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.alovo.cn/api.php/app/"},
