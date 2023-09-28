@@ -23,7 +23,7 @@
 
 {"key": "App热剧","name": "😻SR┃热猫影视4K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
 
-{"key":"酷酷","name":"🚀SR酷影资源2-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
+{"key":"酷酷","name":"🪁SR酷影资源2-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
 
 {"key":"梅花","name":"🌸SR┃梅花2K-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.alovo.cn/api.php/app/"},
 
