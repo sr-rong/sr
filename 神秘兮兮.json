@@ -41,7 +41,7 @@
 
 {"key": "drpy_追忆","name": "🍥SR┃追忆2K-4K","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
-{"key": "畅梦","name": "♻️SR┃畅梦秒播2K","type": 3,"api": "./min/drpy2.min.js","ext": "./js/畅梦.js"},
+{"key": "畅梦","name": "♻️SR┃畅梦秒播2K","type": 3,"api": "./min/yyfx.min.js","ext": "./js/畅梦.js"},
 
 {"key":"米酷视频","name":"🌾SR┃米酷秒播2-4K","type":3,"api":"csp_DDMJ","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688","jar":"./jar/米酷fix0907.jar"},
 
