@@ -13,8 +13,6 @@
 
 {"key":"csp_FanYY","name":"🧸SR┃玩偶影院4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/玩偶哥哥.jar"},
 
-{"key":"tengxun","name":"⭐SR┃腾讯影视4K","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
-
 {"key":"csp_AppYsV2_影探","name":"🕵SR┃影探2K-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
 {"key": "探探", "name": "🌺SR┃影探备源4K", "type": 3, "playerType": "1", "api": "csp_YTVIP", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "vip.lyyytv.cn","jar":"./jar/custom_spider_stable.jar"},
@@ -23,7 +21,7 @@
 
 {"key": "App热剧","name": "😻SR┃热猫影视4K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
 
-{"key":"酷酷","name":"🪁SR酷酷资源2-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
+{"key":"酷酷","name":"👺SR┃酷酷资源2-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
 
 {"key":"酷影","name":"🧿SR┃酷影速播2k","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
 
@@ -41,7 +39,7 @@
 
 {"key": "drpy_追忆","name": "🍥SR┃追忆2K-4K","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
-{"key": "畅梦","name": "♻️SR┃畅梦秒播2K","type": 3,"api": "./min/drpy2.min.js","ext": "./js/畅梦.js"},
+{"key": "畅梦","name": "🍂SR┃畅梦秒播2K","type": 3,"api": "./min/drpy2.min.js","ext": "./js/畅梦.js"},
 
 {"key":"米酷视频","name":"🌾SR┃米酷秒播2-4K","type":3,"api":"csp_DDMJ","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688","jar":"./jar/米酷fix0907.jar"},
 
@@ -52,6 +50,8 @@
 {"key":"爱看","name":"♥SR┃爱看蓝光","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 
 {"key": "csp_AppYsV2_嘉靓","name": "🍓SR┃嘉靓极速2K","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
+
+{"key":"tengxun","name":"⭐SR┃腾讯影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
 {"key":"6v","name":"🤘SR┃6V磁力","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
