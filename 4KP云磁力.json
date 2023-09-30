@@ -16,7 +16,7 @@
 
 {"key":"csp_FanYY","name":"🧸┃玩偶影院4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/玩偶哥哥.jar"},
 
-{"key":"tengxun","name":"⭐┃腾讯4K","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
+{"key": "App热剧","name": "😻SR┃热猫影视4K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
 
 {"key":"csp_AppYsV2_影探","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
