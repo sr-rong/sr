@@ -37,7 +37,7 @@
 
 {"key":"荐片1","name":"🎊SR┃荐片备线","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2-1.min.js","ext":"./js/荐片1.js"},
 
-{"key":"荐片弹幕版","name":"♻️荐片弹幕版","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"},
+{"key":"荐片弹幕版","name":"♻️SR┃荐片弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar": "./jar/928.jar"},
 
 {"key": "drpy_追忆","name": "🍥SR┃追忆2K-4K","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
