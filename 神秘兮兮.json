@@ -147,9 +147,7 @@
 
 {"name":"🍟巧技解析","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 
-{"name": "♻️饭特析","type": 1,"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="},
-
-{"name": "♻️zhanglang","type": 0,"url": "https://jx.zhanlangbu.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}}
+{"name": "♻️饭特析","type": 1,"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="}
 
 ],
 
