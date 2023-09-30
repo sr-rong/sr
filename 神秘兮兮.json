@@ -115,6 +115,10 @@
 
 {"name":"Json轮询","type":2,"url":"Sequence","header": {"User-Agent": "Mozilla/5.0"}},
 
+{"name":"古哥解析","type":0,"url":"https://qiaoji8.com/vip/?url=","ext":{"flag":["ltnb","renrenmi","rx","xfyun","muxm3u8","xigua","xueren","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","pptv","PPTV","sohu","letv"]}},
+
+{"name":"巧技解析","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
+
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
 {"name": "🌽玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
