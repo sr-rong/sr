@@ -25,8 +25,6 @@
 
 {"key": "drpy_追忆","name": "🍥SR┃追忆备源","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
-{"key":"酷酷","name":"👺SR┃酷酷2-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
-
 {"key":"酷影","name":"🧿SR┃酷影速播2k","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
 
 {"key": "csp_AppYsV2_玉米","name": "🌽SR┃玉米极速2K","type": 3,"api": "csp_AppYsV2","playUrl": "http://61.147.93.21:8090/index.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ym.dytt996.com:3/api.php/app/"},
