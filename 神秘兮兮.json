@@ -83,8 +83,6 @@
 
 {"key":"csp_Voflix","name":"🧶SR┃Voflix影视","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/voflix.json"},
 
-{"key":"ddys","name":"⛳SR┃低端影视","type":3,"playerType":1,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/ddys.js"},
-
 {"key":"奇珍异兽","name":"🧰SR┃奇珍影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 
 {"key":"南瓜影视","name":"🍈SR┃南瓜影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
