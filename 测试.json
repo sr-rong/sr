@@ -25,7 +25,7 @@
 
 {"key": "瑞丰","name": "♻️辣辣","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
-{"key":"追忆影视","name":"追忆影视","type":3,"api":"csp_Appto","ext":"http://222.211.73.157:1122","jar":"./fix09292.jar"},
+{"key":"csp_Appto","name":"追忆影视","type":3,"api":"csp_Appto","ext":"http://222.211.73.157:1122","jar":"./fix09292.jar"},
 
 {"key":"csp_Bdys","name":"🐞哔嘀影视","type":3,"api":"csp_Bdys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./jar/custom_spider.jar"},
 
