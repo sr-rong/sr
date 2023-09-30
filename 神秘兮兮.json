@@ -17,11 +17,11 @@
 
 {"key": "探探", "name": "🌺SR┃影探备源4K", "type": 3, "playerType": "1", "api": "csp_YTVIP", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "vip.lyyytv.cn","jar":"./jar/custom_spider_stable.jar"},
 
-{"key":"csp_YT","name":"🚀SR┃影探备源4K-2", "type": 3, "api":"csp_YT","searchable": 1, "quickSearch": 1, "changeable": 1,"ext":"http://vip.lyyytv.cn###d2f4e0fvaasd2c2b","jar":"./jar/YT.jar"},
+{"key":"csp_YT","name":"🚀SR┃影探备4K-2", "type": 3, "api":"csp_YT","searchable": 1, "quickSearch": 1, "changeable": 1,"ext":"http://vip.lyyytv.cn###d2f4e0fvaasd2c2b","jar":"./jar/YT.jar"},
 
 {"key": "App热剧","name": "😻SR┃热猫影视4K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
 
-{"key":"酷酷","name":"👺SR┃酷酷资源2-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
+{"key":"酷酷","name":"👺SR┃酷酷2-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
 
 {"key":"酷影","name":"🧿SR┃酷影速播2k","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
 
