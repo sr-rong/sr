@@ -35,7 +35,7 @@
 
 {"key":"荐片","name":"🎉SR┃荐片影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
-{"key":"荐片弹幕版","name":"♻️SR┃荐片无弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar": "./jar/928.jar"},
+{"key":"荐片","name":"♻️SR┃荐片无弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar": "./jar/928.jar"},
 
 {"key":"荐片弹幕版","name":"♻️SR┃荐片弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar": "./jar/928.jar"},
 
