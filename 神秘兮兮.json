@@ -79,7 +79,7 @@
 
 {"key": "csp_热播","name": "💥SR┃热播之家2K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
-{"key": "虎虎","name": "🐯SR┃花虎影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext": "./json/虎虎.json"},
+{"key": "虎虎","name": "🐯SR┃花虎影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": 2,"ext": "./json/虎虎.json"},
 
 {"key": "csp_Free","name": "🌱SR┃Free影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
 
