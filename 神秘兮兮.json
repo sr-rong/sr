@@ -61,11 +61,9 @@
 
 {"key":"磁力熊[磁]","name":"🐻SR┃磁力之熊","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/磁力熊.js"},
 
-{"key":"宝仙HD","name":"🎊SR┃宝仙之家2K","type":3,"searchable": 1,"api":"csp_XYQHiker","playerType":"1","ext":"./json/宝仙HD.json","jar":"./jar/xyq.jar"},
-
 {"key": "策驰", "name":"‍🐎SR┃策驰影视", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/策驰影视.json"},
 
-{"key":"UM电影[V2]","name":"🧲SR┃UM电影之家","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
+{"key":"UM电影[V2]","name":"💓SR┃UM电影之家","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
 {"key":"歪片星球","name":"🌞SR┃歪片星球","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/歪片星球.js"},
 
