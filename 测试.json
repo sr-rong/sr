@@ -15,15 +15,13 @@
 
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=51aba37d4ab54b3fad36afbad4c313d3","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"梅花","name":"🌸SR┃梅花4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.alovo.cn/api.php/app/"},
-
 {"key": "策驰", "name":"🐈‍策驰┃XP", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/策驰影视.json"},
 
 {"key": "畅梦","name": "♻️畅梦秒播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/畅梦.js"},
 
 {"key": "瑞丰","name": "♻️辣辣","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
-{"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"./js/厂长资源.js","jar":"./jar/fix09292.jar"},
+{"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"./json/厂长.json","jar":"./jar/fix09292.jar"},
 
 {"key":"csp_Bdys","name":"🐞哔嘀影视","type":3,"api":"csp_Bdys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./jar/custom_spider.jar"},
 
