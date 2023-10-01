@@ -23,7 +23,7 @@
 
 {"key": "drpy_追忆","name": "🍥SR┃追忆影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
-{"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"./json/厂长.json","jar":"./jar/fix09292.jar"},
+{"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"heep://cdn.qiaoji8.com/fix09292.jar"},
 
 {"key":"csp_Bdys","name":"🐞哔嘀影视","type":3,"api":"csp_Bdys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./jar/custom_spider.jar"},
 
