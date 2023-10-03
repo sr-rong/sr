@@ -21,8 +21,6 @@
 
 {"key": "App热剧","name": "😻SR┃热猫影视4K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
 
-{"key":"追忆影视","name":"💞SR┃追忆极速4K","type":3,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./jar/fix09292.jar"},
-
 {"key": "drpy_追忆","name": "🍥SR┃追忆影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
 {"key":"橘子影视","name":"🍊SR┃橘子影视4K","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ","jar":"./jar/fix09292.jar"},
