@@ -21,7 +21,7 @@
 
 {"key": "App热剧","name": "😻SR┃热猫影视4K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
 
-{"key":"追忆影视","name":"💞SR┃追忆极速4K","type":3,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Appto","ext":"http://115.231.220.36:9999/jx/tvbox/2969297279.php?url=","jar":"./jar/fix09292.jar"},
+{"key":"追忆影视","name":"💞SR┃追忆极速4K","type":3,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Appto","ext":"http://222.211.73.157:1122/api.php/app/","jar":"./jar/fix09292.jar"},
 
 {"key": "drpy_追忆","name": "🍥SR┃追忆影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
