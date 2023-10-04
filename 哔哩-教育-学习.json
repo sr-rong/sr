@@ -13,7 +13,7 @@
   
 {"key":"js_斗鱼直播","name":"🦈斗鱼直播","type":3,"api":"./min/man.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/163099/81dyzb.txt?sign=N-egWNUzbXwERcPbUX3a20cjiTij2Wk_xmZgZ4BWfFc%3D%3A0","jar":"./jar/920.jar"},
   
-{"key":"py_huya","name":"🐯虎牙(PY)","type":3,"api":"py_huya","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163098/82pyhy.txt?sign=wF9Ktc3DcopBLYwh34WKooixZwn5ClnO8zJC67t3Y24%3D%3A0","jar":"./jar/920.jar"},
+{"key":"py_huya","name":"🐯虎牙(PY)","type":3,"api":"py_huya","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/虎牙py.js","jar":"./jar/920.jar"},
 
 {"key":"js_B站精简","name":"🅱️哔哩合集","type":3,"api":"./min/man.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163043/23blhj.txt?sign=HCMivohvmWpMuAahnGPMeo0uN-c2LFITAB1XH-lg5WU%3D%3A0","jar":"./jar/920.jar"},
   
