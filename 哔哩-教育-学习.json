@@ -25,7 +25,7 @@
   
 {"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163069/52bldq.txt?sign=ajEP09PoyhI3x3-adhenNysieFbxOtW57brZoB_yMN4%3D%3A0","jar":"./jar/920.jar"},
 
-{"key":"软件教程","name":"🅱️软件教程📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/165611/19jiaocheng.txt?sign=w0HMIoSM1iTjG9VE3rE5-uhw5DqDvG96aRE2DXXMPAw%3D%3A0","jar":"./jar/920.jar"},
+{"key":"软件教程","name":"🅱️软件教程📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/软件教程.js","jar":"./jar/920.jar"},
 
 {"key":"学外语","name":"🅱️学外语📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/165612/21waiyu.txt?sign=w4wup0-O2b148jctcItSLSOWRpyecTfFnxBB3DrHDPA%3D%3A0","jar":"./jar/920.jar"},
 
