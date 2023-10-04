@@ -7,6 +7,14 @@
 
 {"key": "豆瓣","name": "豆瓣｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
+{"key":"吾爱解说","name":"🗣️吾爱解说","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/169123/12js.txt?sign=AMBaZQsyKFgh2lVSkyHv340lltk-M6vBbQ8rXvrUX3c%3D%3A0"},
+
+{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/169497/man.js?sign=-xtYfBjYFro1cnHVp634eBtEggqpmOCMY6HABeva0io%3D%3A0","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163082/67hyzb.txt?sign=mS0TkQdhd2CcOEUgwMywT5BHzG68z_NGFOEzS54yPEo%3D%3A0"},
+  
+{"key":"js_斗鱼直播","name":"🦈斗鱼直播","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/169497/man.js?sign=-xtYfBjYFro1cnHVp634eBtEggqpmOCMY6HABeva0io%3D%3A0","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/163099/81dyzb.txt?sign=N-egWNUzbXwERcPbUX3a20cjiTij2Wk_xmZgZ4BWfFc%3D%3A0"},
+  
+{"key":"py_huya","name":"🐯虎牙(PY)","type":3,"api":"py_huya","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163098/82pyhy.txt?sign=wF9Ktc3DcopBLYwh34WKooixZwn5ClnO8zJC67t3Y24%3D%3A0"},
+
 {"key":"js_B站精简","name":"🅱️哔哩合集","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/169497/man.js?sign=-xtYfBjYFro1cnHVp634eBtEggqpmOCMY6HABeva0io%3D%3A0","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163043/23blhj.txt?sign=HCMivohvmWpMuAahnGPMeo0uN-c2LFITAB1XH-lg5WU%3D%3A0"},
   
 {"key":"哔哩直播","name":"🅱️哔哩直播","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/169497/man.js?sign=-xtYfBjYFro1cnHVp634eBtEggqpmOCMY6HABeva0io%3D%3A0","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163041/25blzb.txt?sign=mo9W_K92N063_7-veoQFxQtj3enrqt8Yrew1lAQNRWU%3D%3A0"},
