@@ -41,7 +41,7 @@
 
 {"key":"py_音乐","name":"🎧哔哩音乐","type":3,"api":"py_yy","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/哔哩音乐.json","jar":"./jar/920.jar"},
   
-{"key":"py_歌手","name":"🎧歌手专辑","type":3,"api":"py_yy","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163047/29gs.txt?sign=EHVMoG3W1HXWVFGZBnbZkkHe4psO82PkcemOo8mjjaI%3D%3A0","jar":"./jar/920.jar"},
+{"key":"py_歌手","name":"🎧歌手专辑","type":3,"api":"py_yy","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/歌手专辑.json","jar":"./jar/920.jar"},
   
 {"key":"js_酷狗MV","name":"🎧酷狗音乐","type":3,"api":"./min/man.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163046/30kgmv.txt?sign=0i19shEPmNiKaQsmveYCQMZLXR93T2dgSmICvsshXAs%3D%3A0","jar":"./jar/920.jar"},
     
