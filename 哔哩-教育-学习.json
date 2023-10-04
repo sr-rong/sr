@@ -30,6 +30,16 @@
 {"key":"学外语","name":"🅱️学外语📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/165612/21waiyu.txt?sign=w4wup0-O2b148jctcItSLSOWRpyecTfFnxBB3DrHDPA%3D%3A0","jar":"./jar/920.jar"},
 
 {"key":"py_zyy","name":"🅱️中医药区📚","type":3,"api":"py_zyy","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/165289/76zy.txt?sign=hkFnQyomTx5C7ysCQ3-4bQnOtu9rGyDtkOV3X_qP7Pg%3D%3A0"},
+
+{"key":"py_音乐","name":"🎧哔哩音乐","type":3,"api":"py_yy","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163044/28blyy.txt?sign=ylUtMpSD6i9-x7jmg4jPJ73Vvjz5n2gUtAeFkjYKsIA%3D%3A0"},
+  
+{"key":"py_歌手","name":"🎧歌手专辑","type":3,"api":"py_yy","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163047/29gs.txt?sign=EHVMoG3W1HXWVFGZBnbZkkHe4psO82PkcemOo8mjjaI%3D%3A0"},
+  
+  {"key":"js_酷狗MV","name":"🎧酷狗音乐","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/169497/man.js?sign=-xtYfBjYFro1cnHVp634eBtEggqpmOCMY6HABeva0io%3D%3A0","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163046/30kgmv.txt?sign=0i19shEPmNiKaQsmveYCQMZLXR93T2dgSmICvsshXAs%3D%3A0"},
+    
+{"key":"py_MTV","name":"🎧歌曲MTV","type":3,"api":"py_MTV","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163052/34mtv.txt?sign=TMVUcbn7bVoFZa-k92gczoj48BOQyH-E9YQCpEtDC4M%3D%3A0"},
+  
+{"key":"csp_酷奇","name":"🎧酷奇音乐","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/163050/33kqmv.txt?sign=-wiaUnQyEKvhSvjweg17ALrRoND8dmYVlDcZLY6e4mg%3D%3A0"},
  
 {"key":"儿童","name":"🅱幼儿教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165284/13re.txt?sign=HzlCXz8U9o5j4lLGol0Cc1Jd8b4isEs5zsqIEDq_dYQ%3D%3A0","jar":"./jar/920.jar"},
  
