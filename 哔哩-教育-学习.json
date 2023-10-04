@@ -45,7 +45,7 @@
   
 {"key":"js_酷狗MV","name":"🎧酷狗音乐","type":3,"api":"./min/man.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/酷狗音乐.js","jar":"./jar/920.jar"},
     
-{"key":"py_MTV","name":"🎧歌曲MTV","type":3,"api":"py_MTV","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163052/34mtv.txt?sign=TMVUcbn7bVoFZa-k92gczoj48BOQyH-E9YQCpEtDC4M%3D%3A0","jar":"./jar/920.jar"},
+{"key":"py_MTV","name":"🎧歌曲MTV","type":3,"api":"py_MTV","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/歌曲MTV.json","jar":"./jar/920.jar"},
 
 {"key":"csp_酷奇","name":"🎧酷奇音乐","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/163050/33kqmv.txt?sign=-wiaUnQyEKvhSvjweg17ALrRoND8dmYVlDcZLY6e4mg%3D%3A0","jar":"./jar/920.jar"},
 
