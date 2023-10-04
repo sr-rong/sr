@@ -7,13 +7,13 @@
 
 {"key": "豆瓣","name": "豆瓣｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key":"吾爱解说","name":"🗣️吾爱解说","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/吾爱解说.js","jar":"./jar/920.jar"},
+{"key":"吾爱解说","name":"🗣️吾爱解说","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/吾爱解说.json","jar":"./jar/920.jar"},
 
 {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./min/man.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163082/67hyzb.txt?sign=mS0TkQdhd2CcOEUgwMywT5BHzG68z_NGFOEzS54yPEo%3D%3A0"},
   
 {"key":"js_斗鱼直播","name":"🦈斗鱼直播","type":3,"api":"./min/man.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/163099/81dyzb.txt?sign=N-egWNUzbXwERcPbUX3a20cjiTij2Wk_xmZgZ4BWfFc%3D%3A0","jar":"./jar/920.jar"},
   
-{"key":"py_huya","name":"🐯虎牙(PY)","type":3,"api":"py_huya","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/虎牙py.js","jar":"./jar/920.jar"},
+{"key":"py_huya","name":"🐯虎牙(PY)","type":3,"api":"py_huya","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/虎牙py.json","jar":"./jar/920.jar"},
 
 {"key":"js_B站精简","name":"🅱️哔哩合集","type":3,"api":"./min/man.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163043/23blhj.txt?sign=HCMivohvmWpMuAahnGPMeo0uN-c2LFITAB1XH-lg5WU%3D%3A0","jar":"./jar/920.jar"},
   
@@ -21,17 +21,17 @@
   
 {"key":"py_meishi","name":"🅱️美食合集","type":3,"api":"py_meishi","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163040/22mshj.txt?sign=HdGBSyiRM6bypc-MAudPjxdbheOkwVBo8TcdT3R7-TQ%3D%3A0","jar":"./jar/920.jar"},
     
-{"key":"py_体育","name":"🅱️体育健身","type":3,"api":"py_yy","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/体育健身.js","jar":"./jar/920.jar"},
+{"key":"py_体育","name":"🅱️体育健身","type":3,"api":"py_yy","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/体育健身.json","jar":"./jar/920.jar"},
   
 {"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163069/52bldq.txt?sign=ajEP09PoyhI3x3-adhenNysieFbxOtW57brZoB_yMN4%3D%3A0","jar":"./jar/920.jar"},
 
-{"key":"软件教程","name":"🅱️软件教程📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/软件教程.js","jar":"./jar/920.jar"},
+{"key":"软件教程","name":"🅱️软件教程📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/软件教程.json","jar":"./jar/920.jar"},
 
-{"key":"学外语","name":"🅱️学外语📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/学外语.js","jar":"./jar/920.jar"},
+{"key":"学外语","name":"🅱️学外语📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/学外语.json","jar":"./jar/920.jar"},
 
-{"key":"py_zyy","name":"🅱️中医药区📚","type":3,"api":"py_zyy","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/中医药区.js","jar":"./jar/920.jar"},
+{"key":"py_zyy","name":"🅱️中医药区📚","type":3,"api":"py_zyy","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/中医药区.json","jar":"./jar/920.jar"},
  
-{"key":"儿童","name":"🅱幼儿教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165284/13re.txt?sign=HzlCXz8U9o5j4lLGol0Cc1Jd8b4isEs5zsqIEDq_dYQ%3D%3A0","jar":"./jar/920.jar"},
+{"key":"儿童","name":"🅱幼儿教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./jiaoyu/幼儿教育.json","jar":"./jar/920.jar"},
  
 {"key":"小学","name":"🅱小学教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165285/15xx.txt?sign=eAWDJNXo3R4nRBcM-7xFAdVL1-RSaPE5z3OVrgxa4Y8%3D%3A0","jar":"./jar/920.jar"},
   
