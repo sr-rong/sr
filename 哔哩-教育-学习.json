@@ -17,21 +17,19 @@
   
 {"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163069/52bldq.txt?sign=ajEP09PoyhI3x3-adhenNysieFbxOtW57brZoB_yMN4%3D%3A0","jar":"./jar/920.jar"},
 
-{"key":"软件教程","name":"🅱️软件教程📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/165611/19jiaocheng.txt?sign=w0HMIoSM1iTjG9VE3rE5-uhw5DqDvG96aRE2DXXMPAw%3D%3A0"},
+{"key":"软件教程","name":"🅱️软件教程📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/165611/19jiaocheng.txt?sign=w0HMIoSM1iTjG9VE3rE5-uhw5DqDvG96aRE2DXXMPAw%3D%3A0","jar":"./jar/920.jar"},
 
-{"key":"学外语","name":"🅱️学外语📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/165612/21waiyu.txt?sign=w4wup0-O2b148jctcItSLSOWRpyecTfFnxBB3DrHDPA%3D%3A0"},
+{"key":"学外语","name":"🅱️学外语📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/165612/21waiyu.txt?sign=w4wup0-O2b148jctcItSLSOWRpyecTfFnxBB3DrHDPA%3D%3A0","jar":"./jar/920.jar"},
 
 {"key":"py_zyy","name":"🅱️中医药区📚","type":3,"api":"py_zyy","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/165289/76zy.txt?sign=hkFnQyomTx5C7ysCQ3-4bQnOtu9rGyDtkOV3X_qP7Pg%3D%3A0"},
  
-{"key":"儿童","name":"🅱幼儿教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165284/13re.txt?sign=HzlCXz8U9o5j4lLGol0Cc1Jd8b4isEs5zsqIEDq_dYQ%3D%3A0"},
+{"key":"儿童","name":"🅱幼儿教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165284/13re.txt?sign=HzlCXz8U9o5j4lLGol0Cc1Jd8b4isEs5zsqIEDq_dYQ%3D%3A0","jar":"./jar/920.jar"},
  
-{"key":"小学","name":"🅱小学教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165285/15xx.txt?sign=eAWDJNXo3R4nRBcM-7xFAdVL1-RSaPE5z3OVrgxa4Y8%3D%3A0"},
+{"key":"小学","name":"🅱小学教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165285/15xx.txt?sign=eAWDJNXo3R4nRBcM-7xFAdVL1-RSaPE5z3OVrgxa4Y8%3D%3A0","jar":"./jar/920.jar"},
   
-{"key":"初中","name":"🅱初中教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165287/16xz.txt?sign=YlO4MZCA3XmJVQIIzOInjvaGnphdYgS0Btv09rmlPpk%3D%3A0"},
+{"key":"初中","name":"🅱初中教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165287/16xz.txt?sign=YlO4MZCA3XmJVQIIzOInjvaGnphdYgS0Btv09rmlPpk%3D%3A0","jar":"./jar/920.jar"},
   
-{"key":"高中","name":"🅱高中教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165286/17gz.txt?sign=RFm0gvOMYA3Y_c5X3n7kLKUv1cCietNn58FWE5ri87k%3D%3A0"},
-
-{"key":"NoSearch_csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.qiaoji8.com/tvbox/bili.json"},
+{"key":"高中","name":"🅱高中教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165286/17gz.txt?sign=RFm0gvOMYA3Y_c5X3n7kLKUv1cCietNn58FWE5ri87k%3D%3A0","jar":"./jar/920.jar"},
 
 {"key": "PanSearch","name": "🙀盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
