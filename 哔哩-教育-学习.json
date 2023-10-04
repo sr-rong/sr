@@ -33,11 +33,11 @@
  
 {"key":"儿童","name":"🅱幼儿教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./jiaoyu/幼儿教育.json","jar":"./jar/920.jar"},
  
-{"key":"小学","name":"🅱小学教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165285/15xx.txt?sign=eAWDJNXo3R4nRBcM-7xFAdVL1-RSaPE5z3OVrgxa4Y8%3D%3A0","jar":"./jar/920.jar"},
+{"key":"小学","name":"🅱小学教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./jiaoyu/小学教育.json","jar":"./jar/920.jar"},
   
-{"key":"初中","name":"🅱初中教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165287/16xz.txt?sign=YlO4MZCA3XmJVQIIzOInjvaGnphdYgS0Btv09rmlPpk%3D%3A0","jar":"./jar/920.jar"},
+{"key":"初中","name":"🅱初中教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./jiaoyu/初中教育.json","jar":"./jar/920.jar"},
   
-{"key":"高中","name":"🅱高中教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165286/17gz.txt?sign=RFm0gvOMYA3Y_c5X3n7kLKUv1cCietNn58FWE5ri87k%3D%3A0","jar":"./jar/920.jar"},
+{"key":"高中","name":"🅱高中教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./jiaoyu/高中教育.json","jar":"./jar/920.jar"},
 
 {"key":"py_音乐","name":"🎧哔哩音乐","type":3,"api":"py_yy","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163044/28blyy.txt?sign=ylUtMpSD6i9-x7jmg4jPJ73Vvjz5n2gUtAeFkjYKsIA%3D%3A0","jar":"./jar/920.jar"},
   
