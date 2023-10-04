@@ -7,33 +7,29 @@
 
 {"key": "豆瓣","name": "豆瓣｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "csp_AppYsV2_嘉靓","name": "🏡┃嘉靓影视","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
+{"key":"js_B站精简","name":"🅱️哔哩合集","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/169497/man.js?sign=-xtYfBjYFro1cnHVp634eBtEggqpmOCMY6HABeva0io%3D%3A0","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163043/23blhj.txt?sign=HCMivohvmWpMuAahnGPMeo0uN-c2LFITAB1XH-lg5WU%3D%3A0"},
+  
+{"key":"哔哩直播","name":"🅱️哔哩直播","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/169497/man.js?sign=-xtYfBjYFro1cnHVp634eBtEggqpmOCMY6HABeva0io%3D%3A0","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163041/25blzb.txt?sign=mo9W_K92N063_7-veoQFxQtj3enrqt8Yrew1lAQNRWU%3D%3A0"},
+  
+{"key":"py_meishi","name":"🅱️美食合集","type":3,"api":"py_meishi","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163040/22mshj.txt?sign=HdGBSyiRM6bypc-MAudPjxdbheOkwVBo8TcdT3R7-TQ%3D%3A0"},
+    
+{"key":"py_体育","name":"🅱️体育健身","type":3,"api":"py_yy","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163037/20tyjs.txt?sign=DVBIYoqmW00ozsvPI_3x2veIMo3AwgFkptt3msTSJpA%3D%3A0"},
+  
+{"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163069/52bldq.txt?sign=ajEP09PoyhI3x3-adhenNysieFbxOtW57brZoB_yMN4%3D%3A0"},
 
-{"key":"热播之家","name":"🔥热播┃之家","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播.json","jar":"./jar/xyq.jar"},
+{"key":"软件教程","name":"🅱️软件教程📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/165611/19jiaocheng.txt?sign=w0HMIoSM1iTjG9VE3rE5-uhw5DqDvG96aRE2DXXMPAw%3D%3A0"},
 
-{"key": "drpy_js_4K电影网","name": "⚡┃4K电影网","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/4K电影网.js"},
+{"key":"学外语","name":"🅱️学外语📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/165612/21waiyu.txt?sign=w4wup0-O2b148jctcItSLSOWRpyecTfFnxBB3DrHDPA%3D%3A0"},
 
-{"key":"来米影视","name":"🌾SR┃来米影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
-
-{"key":"酷客影院","name":"😎SR┃酷客影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/酷客影院.js"},
-
-{"key": "drpy_js_爱迪[V2]","name": "👄┃爱迪","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/爱迪[V2].js"},
-
-{"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
-
-{"key":"宝仙HD","name":"🎊SR┃宝仙之家2K","type":3,"searchable": 1,"api":"csp_XYQHiker","playerType":"1","ext":"./json/宝仙HD.json","jar":"./jar/xyq.jar"},
-
-{"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
-
-{"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
-
-{"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
-
-{"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
-
-{"key":"荐片","name":"🔪荐片┃磁力","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
-
-{"key":"345看片","name":"🍄SR┃345影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
+{"key":"py_zyy","name":"🅱️中医药区📚","type":3,"api":"py_zyy","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/165289/76zy.txt?sign=hkFnQyomTx5C7ysCQ3-4bQnOtu9rGyDtkOV3X_qP7Pg%3D%3A0"},
+ 
+{"key":"儿童","name":"🅱幼儿教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165284/13re.txt?sign=HzlCXz8U9o5j4lLGol0Cc1Jd8b4isEs5zsqIEDq_dYQ%3D%3A0"},
+ 
+{"key":"小学","name":"🅱小学教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165285/15xx.txt?sign=eAWDJNXo3R4nRBcM-7xFAdVL1-RSaPE5z3OVrgxa4Y8%3D%3A0"},
+  
+{"key":"初中","name":"🅱初中教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165287/16xz.txt?sign=YlO4MZCA3XmJVQIIzOInjvaGnphdYgS0Btv09rmlPpk%3D%3A0"},
+  
+{"key":"高中","name":"🅱高中教育📚","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/165286/17gz.txt?sign=RFm0gvOMYA3Y_c5X3n7kLKUv1cCietNn58FWE5ri87k%3D%3A0"},
 
 {"key":"NoSearch_csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.qiaoji8.com/tvbox/bili.json"},
 
