@@ -17,7 +17,7 @@
 
 {"key": "探探", "name": "🌺SR┃影探备源4K", "type": 3, "playerType": "1", "api": "csp_YTVIP", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "vip.lyyytv.cn","jar":"./jar/custom_spider_stable.jar"},
 
-{"key": "探探","name": "📛影院┃4K影探","type": 3,"playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://ytcms.lyyytv.cn/api.php/app/","jar": "./jar/YT.jar"},
+{"key": "探探","name": "📛影院┃4K影探","type": 3,"playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://ytcms.lyyytv.cn/api.php/app/","jar": "./jar/yt.jar"},
 
 {"key": "App热剧","name": "😻SR┃热猫影视4K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
 
