@@ -79,7 +79,7 @@
 
 {"key": "新视觉","name": "🌀SR┃视觉影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext": "./json/新视觉1.json"},
 
-{"key": "Xinsj","name": "🍃SR┃新视觉","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://www.6080yy3.com"},
+{"key": "Xinsj","name": "🍃SR┃新视觉","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://www.6080yy3.com","jar":"./jar/xinshijue.jar"},
 
 {"key": "csp_Free","name": "🌱SR┃Free影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
 
