@@ -47,7 +47,7 @@
 
 {"key":"米酷视频","name":"🌾SR┃米酷秒播2-4K","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fix0907.jar","ext":"http://43.248.129.116:6688/"},
 
-{"key": "csp_好戏","name": "♻️好戏影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/好戏影视.json"},
+{"key": "csp_好戏","name": "♻️SR┃好戏影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/好戏影视.json"},
 
 {"key": "瑞丰","name": "🌶SR┃辣辣影视2K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
