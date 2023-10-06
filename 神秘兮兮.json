@@ -47,7 +47,7 @@
 
 {"key": "索尼","name": "🎮SR┃索尼2K-4k","type": 3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": "./json/索尼.json"},
 
-{"key":"米酷视频","name":"🌾SR┃米酷秒播2-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688/addons/apptov4/app.php/v1/"},
+{"key":"米酷视频","name":"🌾SR┃米酷秒播2-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688/appto/v1/config/get?p=android/"},
 
 {"key": "瑞丰","name": "🌶SR┃辣辣影视2K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
