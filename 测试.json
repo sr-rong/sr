@@ -17,6 +17,8 @@
 
 {"key": "策驰", "name":"🐈‍策驰┃XP", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/策驰影视.json"},
 
+{"key": "厂长资源", "name":"‍厂长┃XP", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/厂长.json"},
+
 {"key": "畅梦","name": "♻️畅梦秒播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/畅梦.js"},
 
 {"key": "瑞丰","name": "♻️辣辣","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
