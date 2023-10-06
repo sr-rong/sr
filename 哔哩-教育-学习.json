@@ -9,7 +9,7 @@
 
 {"key":"吾爱解说","name":"🗣️吾爱解说","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/吾爱解说.json","jar":"./jar/920.jar"},
 
-{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://weixine.net/js/huyazhibo.js"},
+{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./zb/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://weixine.net/js/huyazhibo.js"},
   
 {"key":"js_斗鱼直播","name":"🦈斗鱼直播","type":3,"api":"./min/man.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/163099/81dyzb.txt?sign=N-egWNUzbXwERcPbUX3a20cjiTij2Wk_xmZgZ4BWfFc%3D%3A0","jar":"./jar/920.jar"},
   
