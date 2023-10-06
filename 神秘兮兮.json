@@ -23,7 +23,7 @@
 
 {"key": "drpy_追忆","name": "🍥SR┃追忆影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
-{"key":"橘子影视","name":"🍊SR┃橘子影视4K","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ","jar":"./jar/fix1005.jar"},
+{"key":"橘子影视","name":"🍊SR┃橘子影视4K","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ","jar":"./jar/fix09292.jar"},
 
 {"key":"酷影","name":"🧿SR┃酷影速播2k","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
 
@@ -47,7 +47,7 @@
 
 {"key": "索尼","name": "🎮SR┃索尼2K-4k","type": 3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": "./json/索尼.json"},
 
-{"key":"米酷视频","name":"🌾SR┃米酷秒播2-4K","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688/","jar":"./jar/fix1005.jar"},
+{"key":"米酷视频","name":"🌾SR┃米酷秒播2-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688/appto/v1/","jar":"./jar/fix1005.jar"},
 
 {"key": "瑞丰","name": "🌶SR┃辣辣影视2K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
