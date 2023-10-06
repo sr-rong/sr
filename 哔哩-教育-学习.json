@@ -23,7 +23,7 @@
     
 {"key":"py_体育","name":"🅱️体育健身","type":3,"api":"py_yy","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/体育健身.json","jar":"./jar/920.jar"},
   
-{"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163069/52bldq.txt?sign=ajEP09PoyhI3x3-adhenNysieFbxOtW57brZoB_yMN4%3D%3A0","jar":"./jar/920.jar"},
+{"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/Bili.json"},
 
 {"key":"软件教程","name":"🅱️软件教程📚","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/软件教程.json","jar":"./jar/920.jar"},
 
