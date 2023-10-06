@@ -7,67 +7,65 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "xml_玩偶","name": "🧙SR┃玩偶哥哥4K","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=b8235e8a0ccb4a82ac725646f2f6d76c","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "xml_玩偶","name": "🧙SR┃玩偶哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=b8235e8a0ccb4a82ac725646f2f6d76c","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "T4_推送","name": "👽SR┃玩偶推送4K","type": 4,"changeable": 1,"playerType": 2,"quickSearch":1,"api": "http://home.jundie.top:9520/spider/csp_Push","ext": "./tvbox/tok.txt"},
+{"key": "T4_推送","name": "👽SR┃玩偶推送","type": 4,"changeable": 1,"playerType": 2,"quickSearch":1,"api": "http://home.jundie.top:9520/spider/csp_Push","ext": "./tvbox/tok.txt"},
 
-{"key":"csp_FanYY","name":"🧸SR┃玩偶影院4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/玩偶哥哥.jar"},
+{"key":"csp_FanYY","name":"🧸SR┃玩偶影院","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/玩偶哥哥.jar"},
 
-{"key":"csp_WoGG","name":"💂SR┃玩偶影视4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$http://www.wogg.xyz:2052/", "timeout":30,"jar":"./jar/玩偶.jar"},
+{"key":"csp_WoGG","name":"💂SR┃玩偶影视","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$http://www.wogg.xyz:2052/", "timeout":30,"jar":"./jar/玩偶.jar"},
 
-{"key":"csp_AppYsV2_影探","name":"🕵SR┃影探2K-4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
+{"key":"csp_AppYsV2_影探","name":"🕵SR┃影探影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
-{"key": "探探", "name": "🌺SR┃影探备源4K", "type": 3, "playerType": "1", "api": "csp_YTVIP", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "vip.lyyytv.cn","jar":"./jar/custom_spider_stable.jar"},
+{"key": "探探", "name": "🌺SR┃影探备源", "type": 3, "playerType": "1", "api": "csp_YTVIP", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "vip.lyyytv.cn","jar":"./jar/custom_spider_stable.jar"},
 
-{"key": "App热剧","name": "😻SR┃热猫影视4K","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
-
-{"key": "小盒","name": "🙆SR┃小盒小宝","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
+{"key": "App热剧","name": "😻SR┃热猫影视","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
 
 {"key": "drpy_追忆","name": "🍥SR┃追忆影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
-{"key":"酷影","name":"🧿SR┃酷影速播2k","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
+{"key":"酷影","name":"🧿SR┃酷影速播","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
 
-{"key": "玉米","name": "🌽SR┃玉米极速2K","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/"},
+{"key": "玉米","name": "🌽SR┃玉米极速","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/"},
 
-{"key":"mino4K","name":"🍭SR┃mino2K-4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix09292.jar"},
+{"key":"mino4K","name":"🍭SR┃米诺影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix09292.jar"},
 
-{"key": "drpy_js_Alist","name": "👑SR┃alist盘4K","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
+{"key": "drpy_js_Alist","name": "👑SR┃alist盘","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
 
-{"key":"csp_XYQHikerAL_4KHDR","name":"🎈SR┃HDR磁盘4K","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json","jar":"./jar/custom_spider.jar"},
+{"key":"csp_XYQHikerAL_4KHDR","name":"🎈SR┃HDR-磁盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json","jar":"./jar/custom_spider.jar"},
 
 {"key":"荐片jp","name":"🎉SR┃荐片影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
-{"key":"荐片","name":"♻️SR┃荐片无弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar": "./jar/928.jar"},
+{"key":"荐片","name":"♻️SR┃荐片无幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar": "./jar/928.jar"},
 
 {"key":"荐片弹幕版","name":"♻️SR┃荐片弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar": "./jar/928.jar"},
 
-{"key": "畅梦","name": "🍂SR┃畅梦秒播2K","type": 3,"api": "./min/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/畅梦.js"},
+{"key": "畅梦","name": "🍂SR┃畅梦秒播","type": 3,"api": "./min/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/畅梦.js"},
 
 {"key":"北极狐","name":"❄️SR┃极狐影视","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 
-{"key": "索尼","name": "🎮SR┃索尼2K-4k","type": 3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": "./json/索尼.json"},
+{"key": "索尼","name": "🎮SR┃索尼影视","type": 3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": "./json/索尼.json"},
 
-{"key":"米酷视频","name":"🌾SR┃米酷秒播2-4K","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fix0907.jar","ext":"http://43.248.129.116:6688/"},
+{"key":"米酷视频","name":"🌾SR┃米酷秒播","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fix0907.jar","ext":"http://43.248.129.116:6688/"},
 
 {"key": "csp_好戏","name": "♻️SR┃好戏影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/好戏影视.json"},
 
-{"key": "瑞丰","name": "🌶SR┃辣辣影视2K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
+{"key": "瑞丰","name": "🌶SR┃辣辣影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
 {"key":"360影视","name":"👣SR┃360影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 
 {"key":"爱看","name":"♥SR┃爱看蓝光","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 
-{"key": "csp_AppYsV2_嘉靓","name": "🍓SR┃嘉靓极速2K","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
+{"key": "csp_AppYsV2_嘉靓","name": "🍓SR┃嘉靓极速","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 
 {"key":"tengxun","name":"⭐SR┃腾讯影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
-{"key":"6v","name":"🤘SR┃6V磁力","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
+{"key":"6v","name":"🤘SR┃6V磁力盘","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"磁力熊[磁]","name":"🐻SR┃磁力之熊","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/磁力熊.js"},
 
 {"key": "策驰", "name":"‍🐎SR┃策驰影视", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/策驰影视.json"},
 
-{"key":"UM电影[V2]","name":"💓SR┃UM电影之家","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
+{"key":"UM电影[V2]","name":"💓SR┃UM电影家","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
 {"key":"歪片星球","name":"🌞SR┃歪片星球","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/歪片星球.js"},
 
@@ -81,7 +79,7 @@
 
 {"key":"达达龟","name":"🐢SR┃达龟影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
 
-{"key": "csp_热播","name": "💥SR┃热播之家2K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
+{"key": "csp_热播","name": "💥SR┃热播之家","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
 {"key": "新视觉","name": "🌀SR┃视觉影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext": "./json/新视觉1.json"},
 
