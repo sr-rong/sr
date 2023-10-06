@@ -17,7 +17,7 @@
 
 {"key": "策驰", "name":"🐈‍策驰┃XP", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/策驰影视.json"},
 
-{"key":"橘子影视","name":"橘子影视","type":3,"api":"csp_Appto","playerType":2,"ext":"http://180.188.22.219:2525/","jar":"./jar/fix1005.jar"},
+{"key":"橘子影视","name":"橘子影视","type":3,"api":"csp_AppYsV1","playerType":2,"ext":"http://180.188.22.219:2525/","jar":"./jar/fix1005.jar"},
 
 {"key": "厂长资源", "name":"‍厂长┃XP", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/厂长.json"},
 
