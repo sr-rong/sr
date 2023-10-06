@@ -25,7 +25,7 @@
 
 {"key":"酷影","name":"🧿SR┃酷影速播2k","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
 
-{"key": "csp_AppYsV2_玉米","name": "🌽SR┃玉米极速2K","type": 3,"api": "csp_AppYsV2","playUrl": "http://61.147.93.21:8090/index.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ym.dytt996.com:3/api.php/app/"},
+{"key": "玉米","name": "🌽SR┃玉米极速2K","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/"},
 
 {"key":"mino4K","name":"🍭SR┃mino2K-4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix09292.jar"},
 
