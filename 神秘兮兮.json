@@ -53,7 +53,7 @@
 
 {"key": "索尼","name": "🎮SR┃索尼影视","type": 3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": "./json/索尼.json"},
 
-{"key":"米酷视频","name":"🌾SR┃米酷视频","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.129.116:6688/","jar":"./jar/fix09292.jar"},
+{"key":"米酷视频","name":"🌾SR┃米酷视频","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.129.116:6688/","jar":"./jar/fix1005.jar"},
 
 {"key": "csp_好戏","name": "♻️SR┃好戏影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/好戏影视.json"},
 
