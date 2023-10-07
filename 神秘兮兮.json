@@ -29,7 +29,7 @@
 
 {"key": "玉米","name": "🌽SR┃玉米极速","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/"},
 
-{"key": "csp_Czsapp","name": "🗯️SR┃厂长直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"changeable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.cz01.cc/"},
+{"key": "csp_Czsapp","name": "🗯️SR┃厂长直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"changeable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.cz01.org/"},
 
 {"key": "世界","name": "🌏SR┃世界影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/世界.js"},
 
