@@ -29,6 +29,8 @@
 
 {"key": "玉米","name": "🌽SR┃玉米极速","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/"},
 
+{"key": "世界","name": "🌏SR┃世界影视","type": 3,"api": "./min/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/sj.js"},
+
 {"key":"mino4K","name":"🍭SR┃米诺影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix09292.jar"},
 
 {"key": "drpy_js_Alist","name": "👑SR┃alist磁盘","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
