@@ -19,7 +19,7 @@
 
 {"key": "探探", "name": "🌺SR┃影探备源", "type": 3, "playerType": "1", "api": "csp_YTVIP", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "vip.lyyytv.cn","jar":"./jar/custom_spider_stable.jar"},
 
-{"key": "App热剧","name": "😻SR┃热猫影视","type": 3,"playerType": 2,"api": "csp_Appto","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js","jar":"./jar/Appto.jar"},
+{"key": "App热剧","name": "😻SR┃热猫影视","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
 
 {"key": "追忆","name": "🍥SR┃追忆影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./jar/Appto.jar"},
 
