@@ -29,7 +29,7 @@
 
 {"key": "App热剧","name": "😻SR┃热猫影视","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
 
-{"key":"酷影","name":"🧿SR┃酷影速播","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://box.realdou.cn/api.php/app/"},
+{"key":"酷影","name":"🧿SR┃酷影速播","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:26358/api.php/app/"},
 
 {"key": "玉米","name": "🌽SR┃玉米极速","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/","jar":"./jar/fix1005.jar"},
 
