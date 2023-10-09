@@ -65,10 +65,6 @@
 
 {"key":"tengxun","name":"⭐SR┃腾讯影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
-{"key":"6v","name":"🤘SR┃6V磁力盘","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
-
-{"key":"磁力熊[磁]","name":"🐻SR┃磁力之熊","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/磁力熊.js"},
-
 {"key": "策驰", "name":"‍🐎SR┃策驰影视", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/策驰影视.json"},
 
 {"key":"UM电影[V2]","name":"💓SR┃UM电影家","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
@@ -96,6 +92,10 @@
 {"key":"奇珍异兽","name":"🧰SR┃奇珍影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 
 {"key":"南瓜影视","name":"🍈SR┃南瓜影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
+
+{"key":"6v","name":"🤘SR┃6V磁力盘","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
+
+{"key":"磁力熊[磁]","name":"🐻SR┃磁力之熊","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/磁力熊.js"},
 
 {"key": "drpy_js_Alist","name": "👑SR┃alist磁盘","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
 
