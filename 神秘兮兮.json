@@ -145,7 +145,7 @@
 
 {"name": "🍀官方1","type": 1,"url": "http://119.91.123.253:1234/Api/cs.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
-{"name": "🎃观音","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent":"okhttp/3.12.0","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "CL4K","renrenmi","ltnb","bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "🎃官方2","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent":"okhttp/3.12.0","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "CL4K","renrenmi","ltnb","bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name":"🍳zhanlang","type":1,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
@@ -155,7 +155,9 @@
 
 {"name": "♻️饭特析","type": 1,"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="},
 
-{"name": "待改解析","type":1,"url":"https://sj.jrzy.cc/redirect.php?url="},
+{"name": "待改","type":1,"url":"https://sj.jrzy.cc/redirect.php?url="},
+
+{"name": "神秘解析0","type":1,"url":"https://sj.jrzy.cc/redirect.php?url="},
 
 {"name": "神秘解析1","type": 1,"url":"https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="},
 
