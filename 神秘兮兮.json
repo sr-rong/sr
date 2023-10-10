@@ -35,7 +35,7 @@
 
 {"key":"酷影备","name":"💤SR┃酷影备源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:35264/api.php/app/"},
 
-{"key": "玉米","name": "🌽SR┃玉米极速","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/","jar":"./jar/fix1005.jar"},
+//{"key": "玉米","name": "🌽SR┃玉米极速","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/","jar":"./jar/fix1005.jar"},
 
 {"key": "csp_Czsapp","name": "🗯️SR┃厂长直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"changeable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.cz01.org/"},
 
