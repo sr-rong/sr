@@ -129,6 +129,8 @@
 
 {"name": "智能解析","type": 2,"url":"Sequence"},
 
+{"name": "Json轮询","type": 2,"url": "Sequence"},
+
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
 {"name": "玉米","type": 1,"url": "https://qp.xn--2qux23cmstnvb.com/json/api/?key=STS.NUi5sQt2LcResHZ1TP57bvavG&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
