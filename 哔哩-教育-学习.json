@@ -43,7 +43,7 @@
   
 {"key":"py_歌手","name":"🎧歌手专辑","type":3,"api":"py_yy","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/歌手专辑.json","jar":"./jar/920.jar"},
   
-{"key":"js_酷狗MV","name":"🎧酷狗音乐","type":3,"api":"./min/man.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/酷狗音乐.js","jar":"./jar/920.jar"},
+//{"key":"js_酷狗MV","name":"🎧酷狗音乐","type":3,"api":"./min/man.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/酷狗音乐.js","jar":"./jar/920.jar"},
     
 {"key":"py_MTV","name":"🎧歌曲MTV","type":3,"api":"py_MTV","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/歌曲MTV.json","jar":"./jar/920.jar"},
 
