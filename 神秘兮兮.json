@@ -15,7 +15,7 @@
 
 {"key":"csp_AppYsV2_影探","name":"🕵SR┃影探影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
-{"key": "探探", "name": "🌺SR┃影探备源", "type": 3, "playerType": "1", "api": "csp_YTVIP", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "vip.lyyytv.cn","jar":"./jar/custom_spider_stable.jar"},
+{"key": "探探", "name": "🌺SR┃影探备源", "type": 3, "playerType": "1", "api": "csp_YTVIP", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://ytcms.lyyytv.cn/api.php/app/","jar":"./jar/custom_spider_stable.jar"},
 
 {"key":"追忆影视","name":"💞SR┃追忆极速","type":3,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./jar/Appto.jar"},
 
