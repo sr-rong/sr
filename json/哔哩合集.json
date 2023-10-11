@@ -21,7 +21,8 @@ Cookie设置方法2: 手动替换Cookie
 "Cookie":"将获取的Cookie黏贴在这"
 */
 
-var rule = {
+var 
+rule = {
     title:'我的哔哩',
     host:'https://api.bilibili.com',
     homeUrl:'/x/web-interface/search/type?search_type=video&keyword=小姐姐4K&page=1',
