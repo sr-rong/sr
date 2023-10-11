@@ -15,7 +15,7 @@
 
 {"key":"csp_WoGG","name":"💂SR┃玩偶影视","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$http://www.wogg.xyz:2052/", "timeout":30,"jar":"./jar/玩偶.jar"},
 
-{"key":"csp_SeedHub","name":"🎅SR┃Hub-云盘","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jsr/83.jar"},
+{"key":"csp_SeedHub","name":"🎅SR┃Hub-私盘","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/83.jar"},
 
 {"key":"csp_AppYsV2_影探","name":"🕵SR┃影探影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
