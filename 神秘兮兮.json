@@ -33,7 +33,7 @@
 
 //{"key": "玉米","name": "🌽SR┃玉米极速","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/","jar":"./jar/fix1005.jar"},
 
-{"key": "jojo_open","name": "💑SR┃佳偶影视","type": 3,"api": "csp_JoJo","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/OpenSpider.jar"},
+{"key": "jojo_open","name": "💑SR┃奇偶影视","type": 3,"api": "csp_JoJo","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/OpenSpider.jar"},
 
 {"key":"xmL_ 火狐","name":"🦊SR┃火狐影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","爱情片","科幻片","恐怖片","战争片","悬疑片","犯罪片","奇幻片","纪录片","动画片","内地片","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺"]},
 
