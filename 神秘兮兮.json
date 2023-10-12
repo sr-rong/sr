@@ -17,7 +17,7 @@
 
 {"key":"csp_AppYsV2_影探","name":"🕵SR┃影探影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
-{"key": "drpy_js_厂长影视","name": "🍎SR┃主力源影","type": 3,"api":"https://bjson.cf/tvbox/drpymin.js","ext":"https://bjson.cf/tvbox/厂长资源.js","jar":"https://bjson.cf/app.jar"},
+{"key": "drpy_js_厂长影视","name": "🍎SR┃主力源影","type": 3,"api":"https://bjson.cf/tvbox/drpymin.js","ext":"https://bjson.cf/tvbox/厂长资源.js","jar":"./jar/app.jar"},
 
 {"key":"追忆影视","name":"💞SR┃追忆极速","type":3,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./jar/Appto.jar"},
 
