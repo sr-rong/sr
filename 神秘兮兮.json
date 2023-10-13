@@ -7,7 +7,7 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "drpy_js_厂长影视","name": "🍎SR┃主力源＆","type": 3,"api":"https://bjson.cf/tvbox/drpymin.js","ext":"https://bjson.cf/厂长资源.js"},
+{"key": "drpy_js_厂长影视","name": "🍎SR┃主力源＆","type": 3,"api":"./lib/drpy2.min.js","ext":"https://bjson.cf/tvbox/厂长资源.js"},
 
 {"key": "xml_玩偶","name": "🧙SR┃玩偶哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=dd886032f6ae476fa079db91608069db","searchable": 1,"quickSearch": 1,"filterable": 1},
 
