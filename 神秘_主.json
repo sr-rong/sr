@@ -9,6 +9,10 @@
 
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
 
+{"key":"荐片","name":"♻️SR┃荐片无幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar": "./jar/928.jar"},
+
+{"key":"荐片弹幕版","name":"♻️SR┃荐片弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar": "./jar/928.jar"},
+
 {"key":"腾云驾雾","name":"☁腾云┃驾雾","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 
 {"key":"优酷","name":"👖优酷┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
