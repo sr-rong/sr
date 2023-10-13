@@ -43,10 +43,6 @@
 
 {"key":"荐片jp","name":"🎉SR┃荐片影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
-{"key":"荐片","name":"♻️SR┃荐片无幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar": "./jar/928.jar"},
-
-{"key":"荐片弹幕版","name":"♻️SR┃荐片弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar": "./jar/928.jar"},
-
 {"key": "畅梦","name": "🍂SR┃畅梦秒播","type": 3,"api": "./min/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/畅梦.js"},
 
 {"key":"北极狐","name":"❄️SR┃极狐影视","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
