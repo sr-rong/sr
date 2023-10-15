@@ -31,6 +31,8 @@
 
 {"key":"酷影备","name":"💤SR┃酷影备源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:35264/api.php/app/"},
 
+{"key": "drpy_js_胖虎影视","name": "🐯┃胖虎┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/胖虎.js"},
+
 //{"key": "玉米","name": "🌽SR┃玉米极速","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/","jar":"./jar/fix1005.jar"},
 
 {"key": "jojo_open","name": "🐣SR┃啾啾影视","type": 3,"api": "csp_JoJo","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/OpenSpider.jar"},
