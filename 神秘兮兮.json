@@ -31,7 +31,7 @@
 
 {"key":"酷影备","name":"💤SR┃酷影备源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:35264/api.php/app/"},
 
-{"key": "drpy_js_胖虎影视","name": "🐯SR┃胖虎影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/胖虎.js"},
+//{"key": "玉米","name": "🌽SR┃玉米极速","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/","jar":"./jar/fix1005.jar"},
 
 {"key": "jojo_open","name": "🐣SR┃啾啾影视","type": 3,"api": "csp_JoJo","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/OpenSpider.jar"},
 
@@ -39,13 +39,13 @@
 
 //{"key": "世界","name": "🌏SR┃世界影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/世界.js"},
 
-//{"key":"mino4K","name":"🍭SR┃米诺影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix09292.jar"},
+{"key":"mino4K","name":"🍭SR┃米诺影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix09292.jar"},
 
 {"key": "畅梦","name": "🍂SR┃畅梦秒播","type": 3,"api": "./min/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/畅梦.js"},
 
 {"key":"北极狐","name":"❄️SR┃极狐影视","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 
-//{"key":"米酷视频","name":"🌾SR┃米酷视频","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.129.116:6688","jar":"./jar/fix1005.jar"},
+{"key":"米酷视频","name":"🌾SR┃米酷视频","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.129.116:6688","jar":"./jar/fix1005.jar"},
 
 {"key": "csp_好戏","name": "♻️SR┃好戏影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/好戏影视.json"},
 
@@ -91,7 +91,7 @@
 
 {"key":"磁力熊[磁]","name":"🐻SR┃磁力之熊","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/磁力熊.js"},
 
-{"key": "drpy_js_Alist","name": "👑SR┃alist磁盘","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
+//{"key": "drpy_js_Alist","name": "👑SR┃alist磁盘","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
 
 {"key":"csp_XYQHikerAL_4KHDR","name":"🎈SR┃HDR-磁盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json","jar":"./jar/custom_spider.jar"},
 
