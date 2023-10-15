@@ -39,13 +39,13 @@
 
 //{"key": "世界","name": "🌏SR┃世界影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/世界.js"},
 
-{"key":"mino4K","name":"🍭SR┃米诺影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix09292.jar"},
+//{"key":"mino4K","name":"🍭SR┃米诺影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix09292.jar"},
 
 {"key": "畅梦","name": "🍂SR┃畅梦秒播","type": 3,"api": "./min/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/畅梦.js"},
 
 {"key":"北极狐","name":"❄️SR┃极狐影视","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 
-{"key":"米酷视频","name":"🌾SR┃米酷视频","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.129.116:6688","jar":"./jar/fix1005.jar"},
+//{"key":"米酷视频","name":"🌾SR┃米酷视频","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.129.116:6688","jar":"./jar/fix1005.jar"},
 
 {"key": "csp_好戏","name": "♻️SR┃好戏影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/好戏影视.json"},
 
