@@ -19,7 +19,7 @@
   
 {"key":"py_huya","name":"🐯虎牙(PY)","type":3,"api":"py_huya","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/虎牙py.json","jar":"./jar/920.jar"},
 
-//{"key":"js_B站精简","name":"🅱️哔哩合集","type":3,"api":"./min/man.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/哔哩合集.json","jar":"./jar/920.jar"},
+{"key":"js_B站精简","name":"🅱️哔哩合集","type":3,"api":"./min/man.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/163043/23blhj.txt?sign=HCMivohvmWpMuAahnGPMeo0uN-c2LFITAB1XH-lg5WU%3D%3A0","jar":"./jar/920.jar"},
   
 {"key":"哔哩直播","name":"🅱️哔哩直播","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://weixine.net/js/blzb.js"},
   
