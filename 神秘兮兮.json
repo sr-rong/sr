@@ -9,7 +9,7 @@
 
 {"key": "drpy_js_厂长影视","name": "🍎SR┃主力源＆","type": 3,"api":"./lib/drpy2.min.js","ext":"https://bjson.cf/tvbox/厂长资源.js"},
 
-{"key": "csp_Czsapp","name": "🗯️SR┃主力直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"changeable": 1,"quickSearch": 1,"ext": "https://www.cz01.pro/","filterable": 1,"categories":["豆瓣电影Top250","最新电影","热映中","电视剧","国产剧","剧场版","美剧","韩剧","番剧","动漫"]},
+{"key": "csp_Czsapp","name": "🗯️SR┃主力直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"changeable": 1,"quickSearch": 1,"ext": "https://www.zchengchenhb.com/","filterable": 1,"categories":["豆瓣电影Top250","最新电影","热映中","电视剧","国产剧","剧场版","美剧","韩剧","番剧","动漫"]},
 
 {"key": "xml_玩偶","name": "🧙SR┃玩偶哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=04ac499f84ca414699bb6ccf22b37d38","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -38,8 +38,6 @@
 {"key": "jojo_open","name": "🐣SR┃啾啾影视","type": 3,"api": "csp_JoJo","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/OpenSpider.jar"},
 
 {"key":"xmL_ 火狐","name":"🦊SR┃火狐影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","爱情片","科幻片","恐怖片","战争片","悬疑片","犯罪片","奇幻片","纪录片","动画片","内地片","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺"]},
-
-//{"key": "世界","name": "🌏SR┃世界影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/世界.js"},
 
 //{"key":"mino4K","name":"🍭SR┃米诺影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./jar/fix09292.jar"},
 
