@@ -9,7 +9,7 @@
 
 {"key": "drpy_js_厂长影视","name": "🍎SR┃主力源＆","type": 3,"api":"./lib/drpy2.min.js","ext":"https://bjson.cf/tvbox/厂长资源.js"},
 
-{"key": "csp_Czsapp","name": "🗯️SR┃主力直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"changeable": 1,"quickSearch": 1,"ext": "https://www.cz0101.com/","filterable": 1,"categories":["豆瓣电影Top250","最新电影","热映中","电视剧","国产剧","剧场版","美剧","韩剧","番剧","动漫"]},
+{"key": "csp_Czsapp","name": "🗯️SR┃主力直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"changeable": 1,"quickSearch": 1,"ext": "https://www.cz01.pro/","filterable": 1,"categories":["豆瓣电影Top250","最新电影","热映中","电视剧","国产剧","剧场版","美剧","韩剧","番剧","动漫"]},
 
 {"key": "xml_玩偶","name": "🧙SR┃玩偶哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=04ac499f84ca414699bb6ccf22b37d38","searchable": 1,"quickSearch": 1,"filterable": 1},
 
