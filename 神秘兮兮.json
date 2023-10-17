@@ -7,8 +7,6 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "drpy_js_厂长影视","name": "🍎SR┃主力源＆","type": 3,"api":"./lib/drpy2.min.js","ext":"https://bjson.cf/tvbox/厂长资源.js"},
-
 {"key": "xml_玩偶","name": "🧙SR┃玩偶哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=04ac499f84ca414699bb6ccf22b37d38","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "T4_推送","name": "👽SR┃玩偶推送","type": 4,"changeable": 1,"playerType": 2,"quickSearch":1,"api": "http://home.jundie.top:9520/spider/csp_Push","ext": "./tvbox/tok.txt"},
@@ -58,8 +56,6 @@
 {"key":"360影视","name":"👣SR┃360影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 
 {"key":"爱看","name":"♥SR┃爱看蓝光","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
-
-//{"key": "csp_AppYsV2_嘉靓","name": "🍓SR┃嘉靓极速","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 
 {"key":"tengxun","name":"⭐SR┃腾讯影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
