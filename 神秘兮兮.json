@@ -31,10 +31,6 @@
 
 {"key":"酷影备","name":"💤SR┃酷影备源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:35264/api.php/app/"},
 
-//{"key": "玉米","name": "🌽SR┃玉米极速","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/","jar":"./jar/fix1005.jar"},
-
-{"key": "jojo_open","name": "🐣SR┃啾啾影视","type": 3,"api": "csp_JoJo","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/OpenSpider.jar"},
-
 {"key":"xmL_ 火狐","name":"🦊SR┃火狐影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","爱情片","科幻片","恐怖片","战争片","悬疑片","犯罪片","奇幻片","纪录片","动画片","内地片","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺"]},
 
 {"key": "jszy","name": "🚀SR┃极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable": 1,"changeable": 1,"quickSearch": 1, "filterable": 1,"categories": ["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
