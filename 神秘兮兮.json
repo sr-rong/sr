@@ -139,9 +139,7 @@
 
 {"name": "🔑解析3","type": 1,"url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=","ext": {"flag": ["qq","mgtv","YuMi-vip"]}},
 
-{"name": "🔑解析4","type": 1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-
-{"name": "🔑解析5","type": 1,"url": "https://49zyplayerurl.com/?url="}
+{"name": "🔑解析4","type": 1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
 
 ],
 
