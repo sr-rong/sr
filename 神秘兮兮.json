@@ -57,6 +57,8 @@
 
 {"key": "策驰", "name":"‍🐎SR┃策驰影视", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/策驰影视.json"},
 
+{"key":"真不卡","name":"☎SR┃通通影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/真不卡.json"},
+
 {"key":"UM电影[V2]","name":"💓SR┃UM电影家","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
 {"key":"歪片星球","name":"🌞SR┃歪片星球","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/歪片星球.js"},
