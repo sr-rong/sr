@@ -21,15 +21,13 @@
 
 {"key": "策驰", "name":"🐈‍策驰┃XP", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/策驰影视.json"},
 
-{"key": "jszy","name": "极速采集","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable": 1,"changeable": 1,"quickSearch": 1, "filterable": 1,"categories": ["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key": "jszy","name": "极速采集","type": 1,"api": "http://hao123.daicuo.cc/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1, "filterable": 1,"categories": ["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
 //{"key": "csp_Czsapp","name": "🗯️厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"changeable": 1,"quickSearch": 1,"ext": "https://www.cz01.org/","filterable": 1},
 
 {"key": "畅梦","name": "♻️畅梦秒播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/畅梦.js"},
 
 {"key": "瑞丰","name": "♻️辣辣","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
-
-{"key": "drpy_追忆","name": "🍥SR┃追忆影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
 //{"key":"追忆影视","name":"💞SR┃追忆极速4K","type":3,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./jar/Appto.jar"},
 
