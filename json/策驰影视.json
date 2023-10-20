@@ -4,7 +4,7 @@
     
     "站名":"策驰影视",
     
-    "主页url":"https://www.ospiritech.com/",
+    "主页url":"https://www.szqhdxy.com/",
     
     "简介":"荷城茶秀提醒您请勿相信影片中的广告，以免上当受骗。+('剧情简介','&&','500','350'",
     
@@ -30,7 +30,7 @@
     
     "链接":"href=\"&&\"",
     
-    "搜索url":"/cechi/-------------/?wd={wd}",
+    "搜索url":"/vodsearch/wd/-------------/?wd={wd}",
     
     "搜索数组":"myui-vodlist__thumb&&</a>",
     
@@ -52,7 +52,7 @@
     
     "播放列表":"<li&&</li>",
     
-    "分类url":"https://www.ospiritech.com/{cateid}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak",
+    "分类url":"https://www.szqhdxy.com/{cateid}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
