@@ -52,7 +52,7 @@
     
     "播放列表":"<li&&</li>",
     
-    "分类url":"http://www.siemenszdh.com/list/xingchenyingyuan1-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak",
+    "分类url":"http://www.siemenszdh.com/list/{cateid}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
