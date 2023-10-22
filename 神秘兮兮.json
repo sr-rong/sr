@@ -51,6 +51,8 @@
 
 {"key": "csp_好戏","name": "♻️SR┃好戏影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/好戏影视.json"},
 
+{ "key":"短剧","name":"🍚SR┃短剧影视", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"./jar/DJ.jar"},
+
 {"key": "瑞丰","name": "🌶SR┃辣辣影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
 {"key":"360影视","name":"👣SR┃360影视","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
@@ -75,8 +77,6 @@
 
 {"key": "csp_热播","name": "💥SR┃热播之家","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
-{"key": "yqkan_open","name": "🍚┃短剧影视","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"./jar/OpenSpider.jar"},
-
 {"key": "csp_Free","name": "🌱SR┃Free影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
 
 {"key":"csp_Voflix","name":"🧶SR┃Voflix影视","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/voflix.json"},
@@ -88,8 +88,6 @@
 {"key":"csp_SeedHub","name":"🎅SR┃Hub-私盘","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/83.jar"},
 
 {"key":"磁力熊[磁]","name":"🐻SR┃磁力之熊","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/磁力熊.js"},
-
-//{"key": "drpy_js_Alist","name": "👑SR┃alist磁盘","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
 
 {"key":"csp_XYQHikerAL_4KHDR","name":"🎈SR┃HDR-磁盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json","jar":"./jar/custom_spider.jar"},
 
