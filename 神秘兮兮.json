@@ -75,7 +75,7 @@
 
 {"key": "csp_热播","name": "💥SR┃热播之家","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
-{"key": "新视觉","name": "🌀SR┃视觉影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext": "./json/新视觉1.json"},
+{"key": "yqkan_open","name": "🍚┃短剧影视","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"./jar/OpenSpider.jar"},
 
 {"key": "csp_Free","name": "🌱SR┃Free影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
 
