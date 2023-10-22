@@ -119,7 +119,7 @@
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
-{"name": "⭕官方","type": 1,"url": "https://api.json.icu/api/?key=f1fcc18f0eeaf0d0c8c3a5739c623e81&url=","ext": {"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+//{"name": "⭕官方","type": 1,"url": "https://api.json.icu/api/?key=f1fcc18f0eeaf0d0c8c3a5739c623e81&url=","ext": {"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "🔓世界","type": 1,"url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=","ext": {"flag": ["qq","mgtv","YuMi-vip"]}},
 
@@ -127,7 +127,7 @@
 
 {"name": "🌽玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
 
-{"name": "🔓擦车","type": 1,"url":"http://cache.json.icu/1804857380.php?url="},
+//{"name": "🔓擦车","type": 1,"url":"http://cache.json.icu/1804857380.php?url="},
 
 {"name": "🔑解析","type": 1,"url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
