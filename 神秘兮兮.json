@@ -119,7 +119,7 @@
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
-{"name": "⭕官方","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name": "⭕官方","type": 1,"url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4xY&url="},
 
 {"name": "🔓世界","type": 1,"url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=","ext": {"flag": ["qq","mgtv","YuMi-vip"]}},
 
