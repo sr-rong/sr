@@ -7,7 +7,7 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "csp_woggcli","name": "🧙SR┃玩偶哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=557785d529154455865cc678081943ef","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"./jar/哥哥.jar"},
+{"key": "csp_woggcli","name": "🧙SR┃玩偶哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=557785d529154455865cc678081943ef","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"./jar/哥哥1019.jar"},
 
 {"key": "T4_推送","name": "👽SR┃玩偶推送","type": 4,"changeable": 1,"playerType": 2,"quickSearch":1,"api": "http://home.jundie.top:9520/spider/csp_Push","ext": "./tvbox/tok.txt"},
 
