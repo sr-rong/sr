@@ -36,7 +36,7 @@
 
 {"key":"Gitcafe","name":"📝SR┃纸条搜索","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/custom_spider.jar"},
 
-{"key":"csp_AliPS","name":"📀SR┃喵狸盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt","jar":"./jar/custom_spider.jar"},
+{"key": "七夜","name": "😾SR┃七夜云盘","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},  
 
 {"key": "PanSearch","name": "🙀┃盘se搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
