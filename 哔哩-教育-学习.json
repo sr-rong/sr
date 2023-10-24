@@ -13,7 +13,7 @@
 
 {"key": "吾爱经典","name": "♻️吾爱音乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./jiaoyu/吾爱音乐.json","jar":"./jar/920.jar"},
 
-{"key": "PS","name": "🐼吾爱-PS","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩PS.json","jar":"./jar/吾爱ps.jar"},
+{"key": "PS","name": "🐼吾爱-PS","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/吾爱ps.json","jar":"./jar/吾爱ps.jar"},
 
 {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://weixine.net/js/huyazhibo.js"},
   
