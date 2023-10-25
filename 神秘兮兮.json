@@ -9,8 +9,6 @@
 
 {"key": "xml_玩偶","name": "🧙SR┃玩偶哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=557785d529154455865cc678081943ef","searchable": 1,"quickSearch": 1,"filterable":1},
 
-{"key": "T4_推送","name": "👽SR┃玩偶推送","type": 4,"changeable": 1,"playerType": 2,"quickSearch":1,"api": "http://home.jundie.top:9520/spider/csp_Push","ext": "./tvbox/tok.txt"},
-
 {"key":"csp_FanYY","name":"🧸SR┃玩偶影院","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/玩偶哥哥.jar"},
 
 {"key":"csp_WoGG","name":"💂SR┃玩偶影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/玩偶哥哥.jar"},
@@ -43,7 +41,7 @@
 
 {"key":"北极狐","name":"❄️SR┃极狐影视","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 
-{"key":"米酷视频","name":"🌾SR┃米酷视频","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.129.116:6688/appto/v1","jar":"./jar/fix1170.jar"},
+//{"key":"米酷视频","name":"🌾SR┃米酷视频","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.129.116:6688/appto/v1","jar":"./jar/fix1170.jar"},
 
 {"key":"明帝影视","name":"🤴SR┃明帝影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/明帝.json"},
 
