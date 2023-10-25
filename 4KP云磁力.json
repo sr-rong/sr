@@ -12,8 +12,6 @@
 
 {"key": "xml_玩偶","name": "🧙┃玩偶哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=51aba37d4ab54b3fad36afbad4c313d3","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "T4_推送","name": "👽┃玩偶推送","type": 4,"changeable": 1,"playerType": 2,"quickSearch":1,"api": "http://home.jundie.top:9520/spider/csp_Push","ext": "./tvbox/tok.txt"},
-
 {"key":"csp_FanYY","name":"🧸┃玩偶影院","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/玩偶哥哥.jar"},
 
 {"key":"csp_WoGG","name":"💂┃玩偶影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/玩偶哥哥.jar"},
