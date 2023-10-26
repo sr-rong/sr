@@ -24,8 +24,6 @@
 
 {"key":"蚂蚁","name":"🅱️┃蚂蚁磁力|","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/蚂蚁磁力.json","jar":"./jar/HeChengChaXiu.jar"},
 
-{"key":"磁力熊[磁]","name":"🐻┃磁力熊磁","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/磁力熊.js"},
-
 {"key":"6v","name":"🤘┃6v磁力源","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"csp_XYQHikerAL_4KHDR","name":"🎈┃HDR-磁盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json","jar":"./jar/custom_spider.jar"},
