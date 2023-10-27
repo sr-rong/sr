@@ -69,6 +69,8 @@
 
 {"key": "csp_热播","name": "💥SR┃热播之家","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
+{"key":"csp_达龟","name":"🐢SR┃达龟影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/达达龟.json"},
+
 {"key": "csp_Free","name": "🌱SR┃Free影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
 
 {"key":"csp_Voflix","name":"🧶SR┃Voflix影视","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/voflix.json"},
