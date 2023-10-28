@@ -1,6 +1,6 @@
     var rule = {
         title: '酷影4k', // csp_AppYsV2
-        host: 'http://ys.realdou.cn:23652/api.php/app',
+        host: 'http://cms.realdou.cn:35264/api.php/app',
         hostJs: 'print(HOST);let html=request(HOST,{headers:{"User-Agent":"Dart/3.0 (dart:io)"}});let src = JSON.parse(html).domain;print(src);HOST=src',
         url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
         //     http://ym.dytt996.com:3/api.php/app/video?tid=20&class=&area=&lang=&year=&limit=18&pg=1
