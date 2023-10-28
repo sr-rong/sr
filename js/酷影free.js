@@ -18,6 +18,7 @@
         class_name: '电影&电视剧&动漫&综艺&儿童', // 分类筛选 /api.php/app/nav
         class_url: '1&2&4&3&5',
         play_parse: true,
+        pagecount:{"22":1},
         lazy:'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request("http://jx.realdou.cn/home/api?type=ys&uid=1388822&key=abgklmnoqvIJLPSVZ7&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
         limit: 6,
         推荐: 'json:list[0].vlist;*;*;*;*',
