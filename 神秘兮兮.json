@@ -41,8 +41,6 @@
 
 {"key": "csp_干饭","name": "🍚SR┃饭饭影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/干饭.json"},
 
-{"key": "csp_XBPQ_vstv","name": "♻️SR┃短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},
-
 {"key":"北极狐","name":"❄️SR┃极狐影视","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 
 {"key":"明帝影视","name":"🤴SR┃明帝影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/明帝.json"},
@@ -50,6 +48,8 @@
 {"key": "csp_好戏","name": "♻️SR┃好戏影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/好戏影视.json"},
 
 { "key":"短剧","name":"🍩SR┃短剧影视", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["电视剧","电影","动漫","短剧"],"jar":"./jar/DJ.jar"},
+
+{"key": "csp_XBPQ_vstv","name": "🍒SR┃飞斯短视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},
 
 {"key": "瑞丰","name": "🌶SR┃辣辣影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
