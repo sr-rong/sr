@@ -9,9 +9,9 @@
 
 {"key": "xml_玩偶","name": "🧙SR┃玩偶哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=557785d529154455865cc678081943ef","searchable": 1,"quickSearch": 1,"filterable":1},
 
-{"key":"csp_Wogg","name":"🧸SR┃玩偶影院","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/玩偶哥哥.jar"},
+{"key":"csp_Wogg","name":"🧸SR┃玩偶影院","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/玩偶哥哥.jar"},
 
-{"key":"csp_WoGG","name":"💂SR┃玩偶影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/玩偶哥哥.jar"},
+{"key":"csp_WoGG","name":"💂SR┃玩偶影视","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/玩偶哥哥.jar"},
 
 {"key":"csp_AppYsV2_影探","name":"🕵SR┃影探影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
