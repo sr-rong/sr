@@ -29,6 +29,8 @@
 
 {"key": "盒盒","name": "💋SR┃盒子影视","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/小盒.js"},
 
+{"key":"csp_Kunyu77","name":"☔SR┃七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/七七.jar"},
+
 //{"key":"酷影备","name":"💤SR┃酷影备源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
 
 {"key":"xmL_ 火狐","name":"🦊SR┃火狐影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","爱情片","科幻片","恐怖片","战争片","悬疑片","犯罪片","奇幻片","纪录片","动画片","内地片","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺"]},
