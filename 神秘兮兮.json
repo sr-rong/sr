@@ -53,7 +53,7 @@
 
 {"key": "世界","name": "🌎SR┃世界影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
 
-{"key": "csp_XBP美剧","name": "💲SR┃美剧影视","type": 3,"api": "csp_XBPQ","jar": "./jar/xbpq.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/美剧.json"},
+{"key": "csp_XBP美剧","name": "💲SR┃美剧影视","type": 3,"api": "csp_XBPQ","jar": "./jar/小暴脾气-美剧.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/美剧.json"},
 
 {"key":"一起看 ","name":"👬SR┃一起看吧","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/一起看.jar"},
 
