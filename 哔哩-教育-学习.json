@@ -38,6 +38,8 @@
 {"key":"csp_XBPQ_短剧","name":"♻无脑短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html","分类":"短剧$20"}},
 
 {"key":"yqkan_open","name":"🙈沙雕短剧","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://52bsj.vip:81/api/v3/file/get/170364/OpenSpider.jar?sign=A1cPd2rEz4RhWNviyUVKnlNneqzoG-ki1aMTmnrenCQ%3D%3A0"},
+
+{"key": "短剧和集","name": "😎短剧和集","type": 3,"api": "csp_XBPQ","ext":"http://122.51.37.23/man/xbpq/20duanjuheji.txt"},
  
 {"key":"儿童","name":"🅱幼儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./jiaoyu/幼儿教育.json","jar":".//jar/920.jar"},
  
