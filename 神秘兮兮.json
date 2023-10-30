@@ -11,8 +11,6 @@
 
 {"key":"csp_Wogg","name":"🧸SR┃玩偶影院","type":3,"api":"csp_Wogg","searchable":1,"changeable": 0,"ext":  {"token": "8768212213504d29aa2343fc0321c3a5","filter": "./json/wogg.json"},"jar":"./jar/玩偶哥哥.jar"},
 
-//{"key":"csp_WoGG","name":"💂SR┃玩偶影视","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/玩偶哥哥.jar"},
-
 {"key":"csp_AppYsV2_影探","name":"🕵SR┃影探影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
 {"key":"荐片jp","name":"🎉SR┃荐片影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
@@ -46,6 +44,8 @@
 {"key":"明帝影视","name":"🤴SR┃明帝影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/明帝.json"},
 
 {"key": "csp_好戏","name": "♻️SR┃好戏影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/好戏影视.json"},
+
+{"key": "世界","name": "🌎SR┃世界影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
 
 { "key":"短剧","name":"🍩SR┃短剧影视", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["电视剧","电影","动漫","短剧"],"jar":"./jar/DJ.jar"},
 
