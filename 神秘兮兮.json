@@ -51,6 +51,8 @@
 
 {"key": "世界","name": "🌎SR┃世界影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
 
+{"key":"一起看 ","name":"👬SR┃一起看吧","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/yqk.jar"},
+
 { "key":"短剧","name":"🍩SR┃短剧影视", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["电视剧","电影","动漫","短剧"],"jar":"./jar/DJ.jar"},
 
 {"key": "csp_XBPQ_aoaotv","name": "🍓SR┃嗷嗷影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
