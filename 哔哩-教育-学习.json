@@ -35,6 +35,8 @@
 
 {"key":"py_zyy","name":"🅱️中医药区","type":3,"api":"py_zyy","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/中医药区.json","jar":"./jar/920.jar"},
 
+{"key":"刘公子","name":"🏆短剧好看","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
+
 {"key":"csp_XBPQ_短剧","name":"♻无脑短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html","分类":"短剧$20"}},
 
 {"key":"yqkan_open","name":"🙈沙雕短剧","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://52bsj.vip:81/api/v3/file/get/170364/OpenSpider.jar?sign=A1cPd2rEz4RhWNviyUVKnlNneqzoG-ki1aMTmnrenCQ%3D%3A0"},
