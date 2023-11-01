@@ -23,6 +23,8 @@
 
 {"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"蝴蝶","name":"🦋SR┃蝴蝶影视","type":3,"api":"csp_Hudie","playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn"},
+
 {"key": "琪琪资源","name": "🙇SR┃琪琪影视","type": 1,"api": "https://playersll.gaoxin155.com.cn/api.php/provide/vod/","playerType": 2,"searchable": 1,"changeable": 1,"quickSearch": 1,"categories": ["连续剧","电影","综艺","动漫"]},
 
 {"key": "csp_AppYsV2_GSJ","name": "👿SR┃故事机影","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
