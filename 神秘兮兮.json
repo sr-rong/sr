@@ -29,7 +29,7 @@
 
 {"key": "csp_AppYsV2_GSJ","name": "👿SR┃故事机影","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
-{"key": "盒盒","name": "💋SR┃盒子影视","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/小盒.js"},
+{"key": "神秘","name": "💋SR┃神秘影视","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/神秘.js"},
 
 {"key":"csp_Kunyu77","name":"🌈SR┃七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/七七.jar"},
 
