@@ -16,6 +16,8 @@
 
 {"key":"csp_XYQHikerAL_玩偶哥哥","name":"💂SR┃玩偶影视","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.51.37.23/man/Hiker/05wanou.txt","jar":"./jar/玩偶哥哥1.jar"},
 
+{"key":"csp_WoGG","name":"👽SR┃玩偶云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
+
 {"key":"csp_AppYsV2_影探","name":"🕵┃影探影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
 {"key":"荐片jp","name":"🎉┃荐片影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
