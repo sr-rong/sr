@@ -89,7 +89,7 @@
 
 {"key":"歪片星球","name":"🌞SR┃歪片星球","type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/歪片星球.js"},
 
-{"key":"优酷","name":"🩳SR┃优酷影视","type":3,"playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
+{"key":"优酷","name":"🔥SR┃优酷影视","type":3,"playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 
 {"key":"csp_Bdys","name":"🐞SR┃哔嘀影视","type":3,"api":"csp_Bdys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./jar/custom_spider.jar"},
 
