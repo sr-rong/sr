@@ -21,7 +21,7 @@
 
 {"key":"6v","name":"🤘SR┃6V-影视","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
-{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"米酷视频","name":"🌾SR┃米酷视频","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688","jar":"./jar/miku.jar"},
 
