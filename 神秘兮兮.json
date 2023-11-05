@@ -21,13 +21,13 @@
 
 {"key":"6v","name":"🤘SR┃6V-影视","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
-{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"米酷视频","name":"🌾SR┃米酷视频","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688","jar":"./jar/miku.jar"},
 
-{"key":"蝴蝶","name":"🦋SR┃蝴蝶影视","type":3,"api":"csp_Hudie","playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn","jar":"./jar/qiaoji8.jar"},
+{"key":"蝴蝶","name":"🦋SR┃蝴蝶影视","type":3,"api":"csp_Hudie","playerType":1,"ext":"https://yundun-hdsign.zhuifeng100.cn","jar":"./jar/qiaoji8.jar"},
 
-{"key": "琪琪资源","name": "🙇SR┃琪琪影视","type": 1,"api": "https://playersll.gaoxin155.com.cn/api.php/provide/vod/","playerType": 2,"searchable": 1,"changeable": 1,"quickSearch": 1,"categories": ["连续剧","电影","综艺","动漫"]},
+{"key": "琪琪资源","name": "🙇SR┃琪琪影视","type": 1,"api": "https://playersll.gaoxin155.com.cn/api.php/provide/vod/","playerType": 1,"searchable": 1,"changeable": 1,"quickSearch": 1,"categories": ["连续剧","电影","综艺","动漫"]},
 
 {"key": "csp_AppYsV2_GSJ","name": "👿SR┃故事机影","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
