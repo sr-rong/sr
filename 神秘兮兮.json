@@ -39,7 +39,7 @@
 
 {"key": "lang", "name": "⛽SR┃废物资源", "type": 1,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/"},
 
-{"key": "豪华","name": "📛SR┃豪华资源","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["电视剧","动画片","中国动漫","动作片","科幻片","记录片"]},
+{"key": "豪华","name": "📛SR┃豪华资源","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["内地剧","动画片","中国动漫","动作片","科幻片","记录片"]},
 
 {"key":"Cokemv","name":"🥤SR┃可乐影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.org/xgapp.php/v3/"},
 
