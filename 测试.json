@@ -19,7 +19,7 @@
 
 {"key":"csp_Auete","name":"🥤SR┃奥厄影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/Auete.jar"},
 
-{"key":"csp_农民","name":"🧑🏻农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/来米.json"},
+{"key":"csp_农民","name":"🧑🏻农民影视","type":3,"api":"csp_Hudie","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mac.antsp.top"},
 
 {"key":"酷影4k","name":"👑SR┃酷影svip","type":3,"api":"./lib/drpy2.min.js","searchable":2, "quickSearch":0,"filterable":1,"ext":"./json/新酷影.js"},
 
