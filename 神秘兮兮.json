@@ -11,8 +11,6 @@
 
 {"key":"csp_Wogg","name":"🧸SR┃玩偶影院","type":3,"api":"csp_Wogg","searchable":1,"changeable": 0,"ext":  {"token": "9268455fed8c40ba9f9a78ebb31c82c1","filter": "./json/wogg.json"},"jar":"./jar/玩偶哥哥.jar"},
 
-{"key":"csp_XYQHikerAL_玩偶哥哥","name":"💂SR┃玩偶影视","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.51.37.23/man/Hiker/05wanou.txt","jar":"./jar/玩偶哥哥1.jar"},
-
 {"key":"csp_WoGG","name":"👽SR┃玩偶云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
 {"key":"csp_AppYsV2_影探","name":"🕵SR┃影探影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
@@ -22,8 +20,6 @@
 {"key":"6v","name":"🤘SR┃6V-影视","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json1.php?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-
-//{"key":"米酷视频","name":"🌾SR┃米酷视频","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688","jar":"./jar/miku.jar"},
 
 {"key":"蝴蝶","name":"🦋SR┃蝴蝶影视","type":3,"api":"csp_Hudie","playerType":1,"ext":"https://yundun-hdsign.zhuifeng100.cn","jar":"./jar/qiaoji8.jar"},
 
