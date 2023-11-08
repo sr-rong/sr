@@ -37,6 +37,8 @@
 
 {"key":"酷影备","name":"💤SR┃酷影备源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
 
+{"key": "爱酷","name": "🎡SR┃爱酷资源","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=detail","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["电视剧","动漫","电影"]},
+
 {"key": "lang", "name": "⛽SR┃废物资源", "type": 1,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/"},
 
 {"key": "豪华","name": "📛SR┃豪华资源","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["内地剧","动画片","中国动漫","动作片","科幻片","记录片"]},
