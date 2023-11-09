@@ -49,7 +49,9 @@
 
 {"key":"专线","name":"🎾SR┃专源专线","type":3, "api":"csp_AppYs","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://qq.hhtv.vip:5008/api.php/app/"},
 
-{"key": "xgapp","name": "🍈SR┃西瓜资源","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
+{"key": "私物","name": "🍡SR┃私物影视","type": 1,"api": "http://82.156.187.143/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影","综艺"]},
+
+{"key": "xgapp","name": "🍈SR┃西瓜影视","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key": "畅梦","name": "🍂SR┃畅梦秒播","type": 3,"api": "./min/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/畅梦.js"},
 
