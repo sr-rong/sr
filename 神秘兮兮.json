@@ -17,6 +17,8 @@
 
 {"key":"荐片jp","name":"🎉SR┃荐片影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
+{"key": "爱酷","name": "🎡SR┃爱酷专源","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=detail","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影"]},
+
 {"key":"6v","name":"🤘SR┃6V-影视","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json1.php?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -32,8 +34,6 @@
 {"key":"csp_Kunyu77","name":"🌈SR┃七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/七七.jar"},
 
 {"key":"酷影备","name":"💤SR┃酷影备源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
-
-{"key": "爱酷","name": "🎡SR┃爱酷专源","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=detail","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影"]},
 
 {"key": "lang", "name": "⛽SR┃废物资源", "type": 1,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/"},
 
