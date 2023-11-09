@@ -21,9 +21,9 @@
 
 {"key": "爱酷","name": "🎡SR┃爱酷专源","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=detail","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影"]},
 
-{"key":"专线","name":"🎾SR┃专线专源","type":3, "api":"csp_AppYs","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://qq.hhtv.vip:5008/api.php/app/"},
+{"key":"专线","name":"🍎SR┃专线专源","type":3, "api":"csp_AppYs","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://qq.hhtv.vip:5008/api.php/app/"},
 
-{"key": "私物","name": "🍡SR┃私物专源","type": 1,"api": "http://82.156.187.143/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影","综艺"]},
+{"key": "私物","name": "🍅SR┃私物专源","type": 1,"api": "http://82.156.187.143/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影","综艺"]},
 
 {"key":"6v","name":"🤘SR┃6V-影视","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
