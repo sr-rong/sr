@@ -19,7 +19,7 @@
 
 {"key":"csp_Auete","name":"🥤SR┃奥厄影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/Auete.jar"},
 
-{"key":"csp_农民","name":"🧑🏻农民影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.97.249:3389/lanzpuyun/lanzouyunapi.php/"},
+{"key":"csp_农民","name":"🧑🏻农民影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.csykkj.club/api.php/app/"},
 
 {"key": "飞云","name": "📛┃飞云资源","type": 1,"api": "http://www.csykkj.club/api.php/provide/vod/?ac=videolist","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影","综艺"]},
 
