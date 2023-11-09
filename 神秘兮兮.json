@@ -47,6 +47,8 @@
 
 {"key": "jszy","name": "🚀SR┃极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable": 1,"changeable": 1,"quickSearch": 1, "filterable": 1,"categories": ["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
+{"key":"专线","name":"🎾SR┃专源专线","type":3, "api":"csp_AppYs","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://qq.hhtv.vip:5008/api.php/app/"},
+
 {"key": "xgapp","name": "🍈SR┃西瓜资源","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key": "畅梦","name": "🍂SR┃畅梦秒播","type": 3,"api": "./min/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/畅梦.js"},
