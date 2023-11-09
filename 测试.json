@@ -21,7 +21,7 @@
 
 {"key":"csp_农民","name":"🧑🏻农民影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.97.249:3389/lanzpuyun/lanzouyunapi.php/"},
 
-{"key": "飞云","name": "📛┃飞云资源","type": 1,"api": "http://106.53.113.42/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影","综艺"]},
+{"key": "飞云","name": "📛┃飞云资源","type": 1,"api": "http://www.csykkj.club/api.php/provide/vod?ac=videolist","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影","综艺"]},
 
 {"key":"酷影4k","name":"👑SR┃酷影svip","type":3,"api":"./lib/drpy2.min.js","searchable":2, "quickSearch":0,"filterable":1,"ext":"./js/新酷影.js"},
 
