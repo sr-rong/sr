@@ -17,7 +17,7 @@
 
 {"key":"csy","name":"🥤SR┃csy影视","type": 3,"api":"http://www.csykkj.club/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "miniku","name": "👿┃迷你专源","type": 3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
+{"key": "miniku","name": "👿┃迷你","type": 3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
 {"key":"csp_星影","name":"🧑🏻星影","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.230.51.151:9527/api.php/app/"},
 
