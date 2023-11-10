@@ -23,7 +23,7 @@
 
 {"key":"专线","name":"🎯SR┃专线专源","type":3, "api":"csp_AppYs","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://qq.hhtv.vip:5008/api.php/app/"},
 
-{"key": "私物","name": "🪀SR┃私物专源","type": 1,"api": "http://82.156.187.143/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影","综艺"]},
+{"key": "私物","name": "⭕SR┃私物专源","type": 1,"api": "http://82.156.187.143/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影","综艺"]},
 
 {"key":"刺桐","name":"🧶SR┃刺桐专源","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://pgcms.cttv.vip/api.php/app/"},
 
