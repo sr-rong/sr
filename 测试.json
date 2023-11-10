@@ -29,7 +29,7 @@
 
 {"key": "jszy","name": "极速采集","type": 1,"api": "http://www.xinjuc.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1, "filterable": 1,"categories": ["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
-{"key": "瑞丰","name": "♻️老虎","type": 3,"api": "http://180.188.19.74:2002/api.php/Iptv/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "瑞丰","name": "♻️老虎","type": 3,"api": "https://apps.wueapp.com/sk-api/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_Bdys","name":"🐞哔嘀影视","type":3,"api":"csp_Bdys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./drjs_config.json","jar":"./jar/custom_spider.jar"},
 
