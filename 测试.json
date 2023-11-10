@@ -27,6 +27,8 @@
 
 {"key":"刺桐","name":"刺桐","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://pgcms.cttv.vip/api.php/app/"},
 
+{"key": "TVB云播","name": "⛽┃TVB云播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/TVB云播.json"},
+
 {"key": "jszy","name": "极速采集","type": 1,"api": "http://www.xinjuc.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1, "filterable": 1,"categories": ["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
 {"key": "瑞丰","name": "♻️老虎","type": 3,"api": "https://apps.wueapp.com/sk-api/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
