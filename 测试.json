@@ -31,7 +31,7 @@
 
 {"key": "TVB云播","name": "⛽┃TVB云播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/TVB云播.json"},
 
-{"key": "jszy","name": "极速采集","type": 1,"api":"csp_AppYsV2","ext": "http://www.xinjuc.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"quickSearch": 1},
+{"key": "jszy","name": "极速采集","type": 1,"api": "http://www.xinjuc.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"quickSearch": 1},
 
 {"key": "瑞丰","name": "♻️老虎","type": 3,"api":"http://www.csykkj.club/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
 
