@@ -25,7 +25,7 @@
 
 {"key":"酷影4k","name":"👑SR┃酷影svip","type":3,"api":"./lib/drpy2.min.js","searchable":2, "quickSearch":0,"filterable":1,"ext":"./js/新酷影.js"},
 
-{"key": "嘿嘿","name": "黑黑","type":1,"api":"https://43.241.18.149:11228/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "mino","name": "mino","type":1,"api":"http://118.123.237.174:4621/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "瑞丰","name": "老虎","type":3,"ext":"http://iosa.xn--654a.cc/api.php/app/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_AppYsV2"},
 
