@@ -13,9 +13,9 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "ku","name": "🎡┃ku","type":1,"api": "http://110.42.7.101:2233/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable":1},
+{"key": "qiaoji8站","name": "🎡┃ji8站","type":1,"api": "http://110.42.7.101:2233/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable":1},
 
-{"key":"玉米","name":"🌽SR┃玉米影视","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/at/xml","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"涂成","name":"🌽SR┃涂城","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/at/xml","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "4K电影网","name": "🍂SR┃4k电影","type": 3,"api": "./lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/4K电影网.js"},
 
