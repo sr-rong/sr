@@ -31,6 +31,8 @@
 
 {"key": "miniku","name": "🌀SR┃迷你影视","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
+{"key":"csp_星影","name":"🧑🏻SR┃星影影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.230.51.151:9527/api.php/app/"},
+
 {"key":"蝴蝶","name":"🦋SR┃蝴蝶影视","type":3,"api":"csp_Hudie","playerType":1,"ext":"https://yundun-hdsign.zhuifeng100.cn","jar":"./jar/qiaoji8.jar"},
 
 {"key": "琪琪资源","name": "🙇SR┃琪琪影视","type": 1,"api": "https://playersll.gaoxin155.com.cn/api.php/provide/vod/","playerType": 1,"searchable": 1,"changeable": 1,"quickSearch": 1,"categories": ["连续剧","电影","综艺","动漫"]},
