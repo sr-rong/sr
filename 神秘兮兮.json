@@ -35,8 +35,6 @@
 
 {"key":"蝴蝶","name":"🦋SR┃蝴蝶影视","type":3,"api":"csp_Hudie","playerType":1,"ext":"https://yundun-hdsign.zhuifeng100.cn","jar":"./jar/qiaoji8.jar"},
 
-{"key": "琪琪资源","name": "🙇SR┃琪琪影视","type": 1,"api": "https://playersll.gaoxin155.com.cn/api.php/provide/vod/","playerType": 1,"searchable": 1,"changeable": 1,"quickSearch": 1,"categories": ["连续剧","电影","综艺","动漫"]},
-
 {"key": "csp_AppYsV2_GSJ","name": "👿SR┃故事机影","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key":"csp_Kunyu77","name":"🌈SR┃七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/七七.jar"},
