@@ -59,8 +59,6 @@
 
 {"key": "jiangliang","name": "🧭SR┃嘉靓影视","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://api.jialiangos.com:81/api.php/app/"},
 
-{"key":"Cokemv","name":"🥤SR┃可乐影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.org/xgapp.php/v3/"},
-
 {"key": "TVB云播","name": "🥩SR┃云播影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/TVB云播.json"},
 
 {"key": "csp_干饭","name": "🍚SR┃饭饭影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/干饭.json"},
