@@ -13,7 +13,7 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "qiaoji8站","name": "🎡┃ji8站","type":1,"api": "http://110.42.7.101:2233/api.php/provide/vod/?ac=list","playUrl":"json:http://42.157.129.144:2323/CH/caihong_1993138546.php?url=","searchable": 1,"quickSearch": 1,"filterable":1},
+{"key": "qiaoji8站","name": "🎡┃ji8站","type":1,"api": "http://110.42.7.101:2233/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable":1},
 
 {"key":"蝴蝶","name":"🦋SR┃蝴蝶影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
