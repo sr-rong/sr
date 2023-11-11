@@ -19,7 +19,7 @@
 
 {"key": "神秘","name": "💋SR┃神秘专源","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/神秘.js"},
 
-{"key": "爱酷","name": "🎡SR┃爱酷专源","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=detail","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影"]},
+{"key": "爱酷","name": "🎡SR┃爱酷专源","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=detail","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"专线","name":"🎯SR┃专线专源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://qq.hhtv.vip:5008/api.php/app/"},
 
