@@ -33,7 +33,7 @@
 
 {"key":"csp_星影","name":"🧑🏻SR┃星影影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.230.51.151:9527/api.php/app/"},
 
-{"key":"蝴蝶","name":"🦋SR┃蝴蝶影视","type":3,"api":"csp_Hudie","playerType":1,"ext":"https://yundun-hdsign.zhuifeng100.cn","jar":"./jar/qiaoji8.jar"},
+{"key":"蝴蝶","name":"🦋SR┃蝴蝶大全","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
 {"key": "csp_AppYsV2_GSJ","name": "👿SR┃故事机影","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
