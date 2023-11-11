@@ -13,7 +13,7 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "ku","name": "🎡┃ku","type":1,"api": "http://110.42.7.101:2233/api.php/provide/vod/?ac=list","playUrl":"json:https://www.qiaoji8.com/tvbox/json1.php?url=","searchable": 1,"quickSearch": 1,"filterable":1},
+{"key": "ku","name": "🎡┃ku","type":1,"api": "http://110.42.7.101:2233/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable":1},
 
 {"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/at/xml","playUrl":"json:https://www.qiaoji8.com/tvbox/json1.php?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
