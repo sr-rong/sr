@@ -17,7 +17,7 @@
 
 {"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
-{"key":"布蕾","name":"┃布蕾","type":1,"playerType":1,"api":"http://117.175.212.202:5599/api.php/provide/vod/?ac=list"},
+{"key":"布蕾","name":"┃布蕾","type":1,"playerType":1,"api":"http://117.175.212.202:5599/api.php/provide/vod/at/xml/"},
 
 {"key":"涂成","name":"🌽SR┃涂城","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
