@@ -15,7 +15,7 @@
 
 {"key": "柚子","name": "柚子","type":1,"api":"http://110.42.3.132:880/comment/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable":1},
 
-{"key": "追忆","name": "🎡┃追忆","type":1,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "追忆","name": "🎡┃追忆","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
