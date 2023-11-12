@@ -13,7 +13,7 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "k","name": "k","type":3,"ext":"https://app.cfys.xn--fiqs8s/sk-api/vod/list","searchable": 1,"quickSearch": 1,"filterable":1,"api":"csp_AppYsV2"},
+{"key": "k","name": "k","type":3,"ext":"https://app.cfys.xn--fiqs8s/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable":1,"api":"csp_AppYsV2"},
 
 {"key": "追忆","name": "🎡┃追忆","type":1,"api": "http://110.42.7.101:2233/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable":1},
 
