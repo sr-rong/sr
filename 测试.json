@@ -15,7 +15,7 @@
 
 {"key": "追忆","name": "🎡┃追忆","type":1,"api": "http://110.42.7.101:2233/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable":1},
 
-{"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"aHR0cDovL2NtczEueGluZ3Fpc3AuY29tL2FwaS5waHAvcHJvdmlkZS92b2QvP2FjPWxpc3Q="},
+{"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http%3A%2F%2Fcms1.xingqisp.com%2Fapi.php%2Fprovide%2Fvod%2F%3Fac%3Dlist"},
 
 {"key":"萌米","name":"┃萌米","type":1,"playerType":1,"api":"http://ck.realdou.cn/api.php/app/"},
 
