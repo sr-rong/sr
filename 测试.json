@@ -19,7 +19,7 @@
 
 {"key":"萌米","name":"┃萌米","type":1,"playerType":1,"api":"http://mengmi.yibowang.asia/api.php/provide/vod/at/xml/"},
 
-{"key":"涂成","name":"🌽SR┃涂城","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"涂成","name":"🌽SR┃涂城","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/at/xml/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "4K电影网","name": "🍂SR┃4k电影","type": 3,"api": "./lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/4K电影网.js"},
 
