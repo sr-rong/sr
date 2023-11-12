@@ -13,11 +13,11 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "k","name": "k","type":1,"api":"https://app.cfys.xn--fiqs8s/sk-api/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable":1},
+{"key": "k","name": "k","type":1,"api":"https://app.cfys.xn--fiqs8s/sk-api/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable":1},
 
 {"key": "追忆","name": "🎡┃追忆","type":1,"api": "http://110.42.7.101:2233/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable":1},
 
-{"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/from/TX/at/xml/"},
+{"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/from/TX/at/xml"},
 
 {"key":"萌米","name":"┃萌米","type":1,"playerType":1,"api":"http://ck.realdou.cn/api.php/app/"},
 
