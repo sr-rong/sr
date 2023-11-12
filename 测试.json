@@ -15,7 +15,7 @@
 
 {"key": "k","name": "k","type":1,"api":"https://app.cfys.xn--fiqs8s/sk-api/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable":1},
 
-{"key": "追忆","name": "🎡┃追忆","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","searchable":1,"playUrl":"json:http://106.53.113.42/jiemi.php?key=XD0EMQdkUWRSMl9uBTdSMgpkVmgEYlhoATEAZQE1Uz4GZlduAjsEM1Q2XWgFYFBhAGgENgRiVDgJNFA1AjJabVwvBCAHIlEzUmJfZgVsUjoKMFZiBGNYNQE5","quickSearch":1,"filterable":1},
+{"key": "追忆","name": "🎡┃追忆","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","searchable":1,"playUrl":"json:http://106.53.113.42/jiemi.php?","quickSearch":1,"filterable":1},
 
 {"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
