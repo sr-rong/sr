@@ -31,7 +31,7 @@
 
 {"key": "miniku","name": "🌀SR┃迷你影视","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
-{"key":"星星","name":"🌟SR┃星星源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
+{"key":"星星","name":"💔SR┃心心源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
 {"key": "A8影视","name": "🚭SR┃嗨吧仓源","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
