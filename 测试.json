@@ -19,7 +19,7 @@
 
 {"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
-{"key":"萌米","name":"┃萌米","type":3,"playerType":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v2/","api":"csp_AppYs"},
+{"key":"萌米","name":"┃萌米","type":3,"playerType":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v2/","playUrl":"json:https://api.tyun77.cn/api.php/provide/parseDicturl?url=","api":"csp_AppYs"},
 
 {"key":"涂成","name":"🌽SR┃涂城","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
