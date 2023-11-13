@@ -21,7 +21,7 @@
 
 {"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
-{"key":"测试","name":"┃测试","type":3,"playerType":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v2/","playUrl":"json:http://59.110.10.220:8891/iphone/200.php?url=","api":"csp_AppYs"},
+{"key":"测试","name":"┃测试","type":3,"playerType":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v2/","playUrl":"json:http://59.110.10.220:8891/iphone/500.php?url=","api":"csp_AppYs"},
 
 {"key":"涂成","name":"🌽SR┃涂城","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
@@ -52,7 +52,7 @@
 
 {"name": "🌽玉米","type": 1,"url": "http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url="},
 
-{"name": "feiyun","type": 1,"url": "http://59.110.10.220:8891/iphone/500.php?url="},
+{"name": "feiyun","type": 1,"url": "http://59.110.10.220:8891/iphone/400.php?url="},
 
 {"name": "🌈","type": 1,"url": "http://110.42.2.247:880//analysis//json//?uid=2284&my=cdefgijorsCPSTW138&format=json&url="},
 
