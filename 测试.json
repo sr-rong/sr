@@ -13,7 +13,7 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "长门","name": "┃长门","type":1,"api": "http://www.fyzy.vip/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "长门","name": "┃长门","type":4,"api": "http://59.110.10.220:8099/api.php/Phoneapi/video?pg=1&tid=2&class=&area=&year=2023&appid=10009&device_id=d3d14408f8e2b180&csrf=Aczezc1CoVHv%2BH1Xl4mmJ1L24hX8xr5CoJQFExJLA6a39O%2BW%2BVNrtw0aWEPTef42DuKSLa7LGR4o%0Atl9JDf0cyObQtex%2Bv8QKbx5qdGL01kWyr3nbwulDJGTlS%2B9XTGwcA3LwsP74LiW3w0Leqm1Uj7dV%0AHdJ6nbaujTj0yJi%2B2LI%3D%0A","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "柚子","name": "柚子","type":1,"api":"http://110.42.3.132:880/api.php/provide/vod/at/xml/","searchable": 1,"playUrl":"json:https://daina.hk//api//?key=dfbe2ab87db071e0fc62e436b0a9d5e9&url=","quickSearch": 1,"filterable":1},
 
