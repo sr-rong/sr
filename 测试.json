@@ -15,7 +15,7 @@
 
 {"key": "长门","name": "┃长门","type":0,"api": "http://180.188.22.156:11228/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "柚子","name": "柚子","type":1,"api":"http://110.42.3.132:880/api.php/provide/vod/at/xml/","searchable": 1,"playUrl":"json:https://daina.hk//api//?key=dfbe2ab87db071e0fc62e436b0a9d5e9&url=","quickSearch": 1,"filterable":1},
+{"key": "柚子","name": "柚子","type":1,"api":"http://110.42.3.132:880/api.php/provide/home/at/xml/","searchable": 1,"playUrl":"json:https://daina.hk//api//?key=dfbe2ab87db071e0fc62e436b0a9d5e9&url=","quickSearch": 1,"filterable":1},
 
 {"key": "追忆","name": "🎡┃追忆","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 
