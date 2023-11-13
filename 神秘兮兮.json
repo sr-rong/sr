@@ -35,7 +35,7 @@
 
 {"key":"星星","name":"🌟SR┃星星源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
-{"key": "k影院","name": "🍀SR┃快影源仓","type":3,"ext":"http://iosa.xn--654a.cc/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","api":"csp_AppYs"},
+{"key": "k影院","name": "🍀SR┃快影源仓","type":3,"ext":"http://iosa.xn--654a.cc/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","api":"csp_AppYsV2"},
 
 {"key": "csp_AppYsV2_GSJ","name": "👿SR┃故事机影","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
