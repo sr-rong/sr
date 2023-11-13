@@ -23,6 +23,8 @@
 
 {"key":"测试","name":"┃测试","type":3,"playerType":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v2/","api":"csp_AppYs"},
 
+{"key":"csp_星影","name":"🧑🏻SR┃星影影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.230.51.151:9527/api.php/app/"},
+
 {"key":"涂成","name":"🌽SR┃涂城","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "4K电影网","name": "🍂SR┃4k电影","type": 3,"api": "./lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/4K电影网.js"},
