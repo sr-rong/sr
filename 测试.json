@@ -19,7 +19,7 @@
 
 {"key": "追忆","name": "🎡┃追忆","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "A8影视","name": "🚭SR┃嗨吧仓源","type":3,"api":"csp_AppYs","playerType":1,"searchable": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1/vod"},
+{"key": "A8影视","name": "🚭SR┃嗨吧仓源","type":3,"api":"csp_AppYs","playerType":1,"searchable": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
 {"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
