@@ -21,9 +21,9 @@
 
 {"key": "长门","name": "┃长门","type":4,"api": "http://59.110.10.220:8099/api.php/Phoneapi/videoDetail?id=207544","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "柚子","name": "柚子","type":1,"api":"http://110.42.3.132:880/api.php/provide/vod/at/xml/","searchable": 1,"playUrl":"json:https://daina.hk//api//?key=dfbe2ab87db071e0fc62e436b0a9d5e9&url=","quickSearch": 1,"filterable":1},
+{"key": "柚子","name": "柚子","type":1,"api":"http://110.42.3.132:880/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable":1},
 
-{"key": "追忆","name": "🎡┃追忆","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "追忆","name": "🎡┃追忆","type":1,"ext": "http://110.42.7.101:2233/zhuiyi_api.php/v1.vod","searchable":1,"api":"csp_AppYsV2","quickSearch":1,"filterable":1},
 
 {"key": "A8影视","name": "🚭SR┃嗨吧仓源","type":3,"api":"csp_AppYs","playerType":1,"searchable": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
