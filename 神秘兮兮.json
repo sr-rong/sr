@@ -31,7 +31,7 @@
 
 {"key": "miniku","name": "🌀SR┃迷你影视","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
-{"key":"星星","name":"💔SR┃心心源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list","playUrl":"json:http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url=Feiyun-u7wC3Sm2h0nyUthDUVTEOTYTrIOk97aH6silHgljPW2m2Ww2PFeY|2B4BkpUMnZUgu-FYNB5"},
+{"key":"星星","name":"💔SR┃新奇源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list","playUrl":"json:http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url=Feiyun-u7wC3Sm2h0nyUthDUVTEOTYTrIOk97aH6silHgljPW2m2Ww2PFeY|2B4BkpUMnZUgu-FYNB5"},
 
 {"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","searchable":1,"playUrl":"json:http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url=Feiyun-u7wC3Sm2h0nyUthDUVTEOTYTrIOk97aH6silHgljPW2m2Ww2PFeY|2B4BkpUMnZUgu-FYNB5","quickSearch":1,"filterable":1},
 
