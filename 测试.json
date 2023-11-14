@@ -13,7 +13,7 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key":"Mm","name":"毛毛┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"},
+{"key":"Mm","name":"米酷┃4K","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://43.248.129.116:6688/api.php/provide/vod/?ac=list"},
 
 {"key":"YQ","name":"┃测试","type":3,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://61.136.232.182:18889/appto_api.php/v1.vod"},
 
