@@ -27,11 +27,9 @@
 
 {"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list","playUrl":"json:"},
 
-{"key":"测试","name":"┃测试源","type":3,"playerType":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v2/","api":"csp_AppYs"},
-
 {"key":"csp_星影","name":"🧑🏻SR┃星影影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.230.51.151:9527/api.php/app/"},
 
-{"key":"涂成","name":"🌽SR┃涂城","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"涂成","name":"🌽SR┃涂城","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playUrl":"json:http://124.222.30.115/api/tucheng.php?url=tucheng-379d8e059bb621fc7c8cc8e0ed29c646&mykey=b8e6da523e6aec2826a86375e7a8f811","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "4K电影网","name": "🍂SR┃4k电影","type": 3,"api": "./lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/4K电影网.js"},
 
