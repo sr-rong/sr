@@ -45,8 +45,6 @@
 
 {"key":"酷影备","name":"💤SR┃酷影备源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
 
-{"key":"会员","name":"🍌SR┃自源影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.dytt996.com:8863/api.php/app/","playUrl":"json:http://qq.hhtv.vip:5008/vip.php?url="},
-
 {"key":"测试","name":"☕SR┃测试地址","type":3,"playerType":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v2/","api":"csp_AppYs"},
 
 {"key": "lang", "name": "⛽SR┃废物资源", "type": 1,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/"},
