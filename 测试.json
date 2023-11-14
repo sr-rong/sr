@@ -26,7 +26,7 @@
 
 {"key": "A8影视","name": "🚭SR┃嗨吧仓源","type":3,"api":"csp_AppYs","playerType":1,"searchable": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
-{"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list","playUrl":"json:http://mi.fxwl.vip/api/xiaomiys/m3333.php?sign=ba609227c3761e10a9d6e8a17f79e958ba0b4ef3292a68d1e26c056e1d765a23&url=XmApi96666877f9322b0127c368cc9b8e0312cf31feb4d53fd29322b98be332c16345a5227ce4e5d73d7f624487a1ea0c8730ee6b55bd070024c48226b77c3793515d85debff6bd518e83ec279a4adFXmApi96666&type=XM666.m3u8"},
+{"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
 {"key":"测试","name":"┃测试源","type":3,"playerType":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v2/","api":"csp_AppYs"},
 
@@ -61,7 +61,7 @@
 
 {"name": "💟飞云","type": 1,"url": "http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url=Feiyun-u7wC3Sm2h0nyUthDUVTEOTYTrIOk97aH6silHgljPW2m2Ww2PFeY|2B4BkpUMnZUgu-FYNB5"},
 
-{"name": "小米","type": 1,"url": "http://mi.fxwl.vip/api/xiaomiys/m3333.php?sign=ba609227c3761e10a9d6e8a17f79e958ba0b4ef3292a68d1e26c056e1d765a23&url="},
+//{"name": "小米","type": 1,"url": "http://mi.fxwl.vip/api/xiaomiys/m3333.php?sign=ba609227c3761e10a9d6e8a17f79e958ba0b4ef3292a68d1e26c056e1d765a23&url="},
 
 {"name": "🌈","type": 1,"url": "http://110.42.2.247:880//analysis//json//?uid=2284&my=cdefgijorsCPSTW138&format=json&url="},
 
