@@ -26,7 +26,7 @@
 
 {"key": "A8影视","name": "🚭SR┃嗨吧仓源","type":3,"api":"csp_AppYs","playerType":1,"searchable": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
-{"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
+{"key":"星星","name":"⭐SR┃星星影视","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list","playUrl":"json:http://mi.fxwl.vip/api/xiaomiys/m3333.php?sign=ba609227c3761e10a9d6e8a17f79e958ba0b4ef3292a68d1e26c056e1d765a23&url="},
 
 {"key":"测试","name":"┃测试源","type":3,"playerType":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v2/","api":"csp_AppYs"},
 
