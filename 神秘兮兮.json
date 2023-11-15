@@ -41,7 +41,7 @@
 
 {"key":"csp_星影","name":"🔯SR┃星影影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.230.51.151:9527/api.php/app/"},
 
-{"key":"涂成","name":"🦹SR┃屠城影视","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playUrl":"json:http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"涂成","name":"🦹SR┃屠城影视","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playUrl":"json:http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url=tucheng-58009f4988220f4360c91ac00f9b18ec35f3e759","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"会员","name":"🍌SR┃自源影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.dytt996.com:655/api.php/app/","playUrl":"json:http://qq.hhtv.vip:5008/vip.php?url="},
 
