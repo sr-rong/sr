@@ -39,6 +39,8 @@
 
 {"key": "k影院","name": "♈SR┃快影源仓","type":3,"ext":"http://iosa.xn--654a.cc/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","api":"csp_AppYsV2"},
 
+{"key":"TT","name":"♊SR┃涛哥影院","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.129.187.120:8090/ruifenglb_api.php/v1.vod"},
+
 {"key":"csp_星影","name":"🔯SR┃星影影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.230.51.151:9527/api.php/app/"},
 
 {"key":"涂成","name":"🦹SR┃屠城影视","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playUrl":"json:http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
