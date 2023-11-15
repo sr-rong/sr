@@ -27,7 +27,7 @@
 
 {"key":"刺桐","name":"🧶SR┃刺桐专源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://pgcms.cttv.vip/api.php/app/"},
 
-{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "miniku","name": "🌀SR┃迷你影视","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
@@ -39,7 +39,7 @@
 
 {"key": "k影院","name": "🍀SR┃快影源仓","type":3,"ext":"http://iosa.xn--654a.cc/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","api":"csp_AppYsV2"},
 
-{"key":"涂成","name":"🦹SR┃屠城影视","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playUrl":"json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"涂成","name":"🦹SR┃屠城影视","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playUrl":"json:http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_AppYsV2_GSJ","name": "👿SR┃故事机影","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
