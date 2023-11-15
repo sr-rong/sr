@@ -31,13 +31,15 @@
 
 {"key": "miniku","name": "🌀SR┃迷你影视","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
-{"key":"星星","name":"💔SR┃新奇源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list","playUrl":"json:http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url=Feiyun-u7wC3Sm2h0nyUthDUVTEOTYTrIOk97aH6silHgljPW2m2Ww2PFeY|2B4BkpUMnZUgu-FYNB5"},
+{"key":"星星","name":"⛎SR┃新奇源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list","playUrl":"json:http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url=Feiyun-u7wC3Sm2h0nyUthDUVTEOTYTrIOk97aH6silHgljPW2m2Ww2PFeY|2B4BkpUMnZUgu-FYNB5"},
 
 {"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","searchable":1,"playUrl":"json:http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url=Feiyun-u7wC3Sm2h0nyUthDUVTEOTYTrIOk97aH6silHgljPW2m2Ww2PFeY|2B4BkpUMnZUgu-FYNB5","quickSearch":1,"filterable":1},
 
 {"key": "A8影视","name": "🚭SR┃嗨吧源仓","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
-{"key": "k影院","name": "🍀SR┃快影源仓","type":3,"ext":"http://iosa.xn--654a.cc/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","api":"csp_AppYsV2"},
+{"key": "k影院","name": "♈SR┃快影源仓","type":3,"ext":"http://iosa.xn--654a.cc/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","api":"csp_AppYsV2"},
+
+{"key":"csp_星影","name":"🔯SR┃星影影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.230.51.151:9527/api.php/app/"},
 
 {"key":"涂成","name":"🦹SR┃屠城影视","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
