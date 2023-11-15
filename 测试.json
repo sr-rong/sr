@@ -21,7 +21,7 @@
 
 {"key": "试试","name": "┃柚子","type":1,"api": "http://110.42.3:132:880/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "柚子","name": "柚子","type":1,"ext":"http://110.42.3.132:880/ruifenglb_api.php/v1.vod","searchable": 1,"api":"csp_AppYsV2","quickSearch": 1,"filterable":1},
+{"key": "柚子","name": "柚子","type":3,"ext":"http://110.42.3.132:880/ruifenglb_api.php/v1.vod","searchable": 1,"api":"csp_AppYsV2","quickSearch": 1,"filterable":1},
 
 {"key": "4K电影网","name": "🍂SR┃4k电影","type": 3,"api": "./lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/4K电影网.js"},
 
