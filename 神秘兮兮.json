@@ -43,6 +43,8 @@
 
 {"key":"涂成","name":"🦹SR┃屠城影视","type":1,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/?ac=list","playUrl":"json:https://www.qiaoji8.com/tvbox/json1.php?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"会员","name":"🍌SR┃自源影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.dytt996.com:655/api.php/app/","playUrl":"json:http://qq.hhtv.vip:5008/vip.php?url="},
+
 {"key": "csp_AppYsV2_GSJ","name": "👿SR┃故事机影","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key":"csp_Kunyu77","name":"🌈SR┃七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/七七.jar"},
