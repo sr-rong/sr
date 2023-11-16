@@ -19,7 +19,7 @@
 
 {"key":"YQ","name":"┃测试","type":0,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://dm.otioi.cn/dmku/?ac=list"},
 
-{"key": "试试","name": "┃橘子","type":3,"ext": "http://180.188.22.156:11228/juzivip/api.php/app/","searchable": 1,"api":"csp_AppYsV2","quickSearch": 1,"filterable": 1},
+{"key": "试试","name": "┃橘子","type":3,"ext": "http://180.188.22.156:11228/maccms/api.php/app/","searchable": 1,"api":"csp_AppYsV2","quickSearch": 1,"filterable": 1},
 
 {"key":"会员","name":"🍌SR┃自源影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.dytt996.com:655/api.php/app/","playUrl":"json:http://qq.hhtv.vip:5008/vip.php?url="},
 
