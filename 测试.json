@@ -15,7 +15,7 @@
 
 {"key":"Mm","name":"┃工厂","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://137.220.252.33:1223/lvdou_api.php/v1.vod"},
 
-{"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","playUrl":"json:http://111.180.201.140/yljx/sy999.php?sign=ba609227c3761e10a9d6e9a87671ec59b10e4cf3292a68d1e26c056e1d765a23&url=","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","playUrl":"json:http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url=","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"YQ","name":"┃测试","type":0,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://dm.otioi.cn/dmku/?ac=list"},
 
