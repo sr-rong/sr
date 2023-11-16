@@ -73,8 +73,6 @@
 
 {"key":"北极狐","name":"❄️SR┃极狐影视","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 
-{"key":"明帝影视","name":"🤴SR┃明帝影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/明帝.json"},
-
 {"key": "csp_低调","name": "🙇‍♀️SR┃低端影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/低端拼接.json"},
 
 {"key": "csp_米爱影院","name": "🌺SR┃米爱影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/米爱.json"},
