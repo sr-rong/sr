@@ -17,7 +17,7 @@
 
 {"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","playUrl":"json:http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url=","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"YQ","name":"┃测试","type":1,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://dm.otioi.cn/dmku/?ac=list"},
+{"key":"YQ","name":"┃测试","type":0,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://dm.otioi.cn/dmku/?ac=list"},
 
 {"key": "试试","name": "┃柚子","type":1,"api": "http://110.42.3:132:880/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
 
