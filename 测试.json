@@ -15,7 +15,7 @@
 
 {"key":"影视tv","name":"┃影视聚合","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://app.yuechig.com/api.php/provide/vod/at/xml/"},
 
-{"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","playUrl":"json:","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","playUrl":"json:https://daina.hk/api/?key=cefc688c463e6142df10b7abaacbbba1&url=","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"YQ","name":"┃测试","type":3,"playerType":1,"searchable":1,"api":"csp_AppYsV2","quickSearch":1,"filterable":1,"ext":"http://23.224.135.68:27264/myk.php/app/"},
 
