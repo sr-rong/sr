@@ -19,7 +19,7 @@
 
 {"key":"YQ","name":"┃测试","type":1,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://www.csykkj.club/api.php/provide/vod/at/xml/"},
 
-{"key": "tv酷","name": "┃tv酷","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:https://www.tvkuys.xyz/api.php/v6.Parse/Index?list=0&from=itvbox_play&url="},
+{"key": "tv酷","name": "┃tv酷","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:https://www.tvkuys.xyz/api.php/v6.Parse/Index?list=0&from=itvbox_play&url=XYYDS-e6b5ca637da3a413a8338382448cf51e"},
 
 {"key":"会员","name":"🍌SR┃自源影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.dytt996.com:655/api.php/app/","playUrl":"json:http://qq.hhtv.vip:5008/vip.php?url="},
 
