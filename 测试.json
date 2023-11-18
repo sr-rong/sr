@@ -13,6 +13,9 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
+{"key":"v2","name":"┃v2","type":3,"searchable":1,"quickSearch":1,"api":"./lib/drpy2.min.js","filterable":1,"ext":"./js/飞云V2.js"},
+
+
 {"key":"正确","name":"┃线路屏蔽","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://m51.gotto.top/api.php/v1.vod","playUrl":"json:http://newjiexi.gotto.xyz/keyu4.php?url="},
 
 {"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","playUrl":"json:","searchable":1,"quickSearch":1,"filterable":1},
