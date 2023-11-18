@@ -25,7 +25,7 @@
 
 {"key": "私物","name": "⭕SR┃私物专源","type": 1,"api": "http://82.156.187.143/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影","综艺"]},
 
-{"key":"刺桐","name":"🧶SR┃刺桐专源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://pgcms.cttv.vip/api.php/app/"},
+{"key":"刺桐","name":"🧶SR┃刺桐专源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.cttv.vip/api.php/app/"},
 
 {"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json1.php?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
