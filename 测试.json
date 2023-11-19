@@ -23,6 +23,8 @@
 
 {"key":"csp_星影","name":"🔯SR┃星影影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.230.51.151:9527/api.php/app/"},
 
+{"key":"落攻阁","name":"🎯SR┃落攻专源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":" http://23.224.197.40:5242/api.php/app/"},
+
 {"key": "非凡","name": "非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable":1,"categories": ["国产剧","科幻片","动漫片","综艺片"]},
 
 {"key": "4K电影网","name": "🍂SR┃4k电影","type": 3,"api": "./lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/4K电影网.js"},
