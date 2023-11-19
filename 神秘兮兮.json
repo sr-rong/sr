@@ -45,6 +45,8 @@
 
 {"key": "tv酷","name": "♍SR┃tv酷影APP","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
+{"key":"龙辰影院https://www.yydsok.vip/","name":"♎SR┃龙辰影院","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"https://www.yydsok.vip/api.php/app/"},
+
 {"key": "csp_AppYsV2_GSJ","name": "👿SR┃故事机影","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key":"csp_Kunyu77","name":"🌈SR┃七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/七七.jar"},
