@@ -17,7 +17,7 @@
 
 {"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"YQ","name":"┃测试","type":3,"playerType":1,"searchable":1,"api":"csp_AppYsV2","quickSearch":1,"filterable":1,"ext":"http://154.9.253.8:90/api.php/provide/vod/"},
+{"key":"YQ","name":"┃测试","type":3,"playerType":1,"searchable":1,"api":"csp_AppYs","quickSearch":1,"filterable":1,"ext":"http://154.9.253.8:90/api.php/provide/vod/"},
 
 {"key":"会员","name":"🍌SR┃自源影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.dytt996.com:655/api.php/app/","playUrl":"json:http://qq.hhtv.vip:5008/vip.php?url="},
 
