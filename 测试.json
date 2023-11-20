@@ -31,7 +31,7 @@
 
 {"key":"酷影4k","name":"👑SR┃酷影svip","type":3,"api":"./lib/drpy2.min.js","searchable":2, "quickSearch":0,"filterable":1,"ext":"./js/新酷影.js"},
 
-{"key": "追剧os","name": "追剧os","type":3,"api":"csp_AppYsV2","ext":"http://61.136.166.247:8762/lvdou_api.php/v1.vod","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "追剧os","name": "追剧os","type":3,"api":"csp_AppYsV2","ext":"http://61.136.166.247:8762/ruifenglb_api.php/v1.vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 //{"key":"一起看 ","name":"👬SR┃一起看吧","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/一起看.jar"},
 
