@@ -33,7 +33,7 @@
 
 {"key":"星星","name":"⛎SR┃新奇源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
-{"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","playUrl":"json:http://111.180.201.140/yljx/sy999.php?sign=ba609227c3761e10a9d6e9a87674e550b10844f3292a68d1e26c056e1d765a23&url=XmApi96666877f9322b0127c6ad4d6f0a97e70f35bb20c52ad6d6b3ed9e2617b403b514960c61108249bff2206584ef6c42342e4b20b8726571a1a233825c02e66128700b7fc38d51ceb219c2eb2ac74ce96f2755a2805b8FXmApi96666","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","playUrl":"json:http://111.180.201.140/yljx/sy999.php?sign=ba609227c3761e10a9d6e9a87674e550b10844f3292a68d1e26c056e1d765a23＆FG=1H_PS_PSSID=36559_38831_39027_39024&BDUSS=p5cmw5MjQwRUp-Y1FqNWIzMWNmZ1pEcFFLb08tZjFQU0lDcTljOVg5VVNEZEJrSUFBQUFBJCQAAAAAAQAAAAEAAAAuwYd-ztKwrrG8s9tNSW5pAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABKAqGQSgKhkfl&url=","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "A8影视","name": "🚭SR┃嗨吧源仓","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
