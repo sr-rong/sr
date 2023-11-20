@@ -1,6 +1,6 @@
     var rule = {
         title: '追忆', // csp_AppYsV2
-        host: 'http://222.211.73.157:1122/api.php/app/',
+        host: 'http://110.42.7.101:2233/api.php/app/',
         hostJs: 'print(HOST);let html=request(HOST,{headers:{"User-Agent":"Dart/3.0 (dart:io)"}});let src = JSON.parse(html).domain;print(src);HOST=src',
         url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
         //     http://ym.dytt996.com:3/api.php/app/video?tid=20&class=&area=&lang=&year=&limit=18&pg=1
