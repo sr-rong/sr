@@ -21,7 +21,7 @@
 
 {"key": "爱酷","name": "🎡SR┃爱酷专源","type":1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=detail","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"落攻阁","name":"🎯SR┃落攻专源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":" http://23.224.197.40:5242/api.php/app/"},
+//{"key":"落攻阁","name":"🎯SR┃落攻专源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":" http://23.224.197.40:5242/api.php/app/"},
 
 {"key": "私物","name": "⭕SR┃私物专源","type": 1,"api": "http://82.156.187.143/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影","综艺"]},
 
@@ -195,7 +195,7 @@
 
 {"name": "🌽玉米专链1","type": 1,"url": "http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url="},
 
-//{"name": "⛄戴拿","type": 1,"url": ""},
+{"name": "⛄戴拿","type": 1,"url": "https://daina.hk/api/?key=5e5e24e360e908e1b3d6a0a2f0c4869b&url="},
 
 {"name": "💟飞云","type": 1,"url": "http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url="},
 
