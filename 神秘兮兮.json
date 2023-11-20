@@ -37,7 +37,7 @@
 
 {"key": "A8影视","name": "🚭SR┃嗨吧源仓","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
-{"key":"TT","name":"♊SR┃涛哥影院","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.129.187.120:8090/ruifenglb_api.php/v1.vod"},
+//{"key":"TT","name":"♊SR┃涛哥影院","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.129.187.120:8090/ruifenglb_api.php/v1.vod"},
 
 {"key":"影视tv","name":"♋SR┃影视聚合","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://app.yuechig.com/maccms/api.php/app/"},
 
@@ -50,6 +50,8 @@
 //{"key":"酷影备","name":"♓SR┃酷影备源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:23652/api.php/app/"},
 
 {"key":"测试","name":"☕SR┃测试地址","type":3,"playerType":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v2/","api":"csp_AppYs"},
+
+{"key": "追剧","name": "♈SR┃追剧影视","type":3,"api":"csp_AppYsV2","ext":"http://175.178.27.186:88/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "lang", "name": "⛽SR┃废物资源", "type": 1,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/"},
 
