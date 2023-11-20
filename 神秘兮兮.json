@@ -65,8 +65,6 @@
 
 {"key": "畅梦","name": "🍂SR┃畅梦秒播","type": 3,"api": "./min/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/畅梦.js"},
 
-{"key": "jiangliang","name": "🧭SR┃嘉靓影视","type": 3,"api": "csp_AppYsV2","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://api.jialiangos.com:65533/api.php/app/"},
-
 {"key":"正确","name":"🔰SR┃屏蔽线路","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://m51.gotto.top/api.php/v1.vod","playUrl":"json:http://newjiexi.gotto.xyz/keyu4.php?url="},
 
 {"key": "NOAD","name": "🏧SR┃是非视频","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/novip.json"},
