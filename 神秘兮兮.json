@@ -51,8 +51,6 @@
 
 {"key": "追剧","name": "♈SR┃追剧影视","type":3,"api":"csp_AppYsV2","ext":"http://175.178.27.186:88/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "益达影视","name": "♎SR┃益达影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://myd666.tv/lvdou_api.php/v1.vod"},
-
 {"key": "lang", "name": "⛽SR┃废物资源", "type": 1,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/"},
 
 {"key":"xmL_ 火狐","name":"🦊SR┃火狐资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","爱情片","科幻片","恐怖片","战争片","悬疑片","犯罪片","奇幻片","纪录片","动画片","内地片","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺"]},
