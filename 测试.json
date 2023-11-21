@@ -13,7 +13,7 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key":"龙辰影院https://www.yydsok.vip/","name":"♎SR┃龙辰影院","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"https://www.yydsok.vip/api.php/app/"},
+{"key":"蓝鸟影视","name":"♎SR┃蓝鸟影院","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://llys.juquanwl.top/icciu_api.php/v1.vod"},
 
 {"key": "追忆","name": "💟SR┃追忆源仓","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/追忆.js"},
 
