@@ -31,7 +31,7 @@
 
 {"key": "4K电影网","name": "🍂SR┃4k电影","type": 3,"api": "./lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/4K电影网.js"},
 
-{"key":"qq","name":"👑SR┃qq","type":3,"api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://qq.hhtv.vip:50080/api.php/app/","playUrl":"json:http://qq.hhtv.vip:50080/kjxvx.php?url="},
+{"key":"qq","name":"👑SR┃qq","type":3,"api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://180.188.22.156:11228/api.php/app/"},
 
 {"key": "追剧os","name": "追剧os","type":3,"api":"csp_AppYsV2","ext":"http://175.178.27.186:88/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 1},
 
