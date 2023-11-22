@@ -23,7 +23,7 @@ var rule = {
 	class_url:'2&1&4&3',
 	play_parse:true,
 	pagecount:{"22":1},
-		lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/Feiyun/.test(input)){let purl=request("https://daina.hk/api/?key=5e5e24e360e908e1b3d6a0a2f0c4869b&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/qiqi/.test(input)){let purl=request("http://42.51.37.161:5678/json/520238app8/ml77.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
+		lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/Feiyun/.test(input)){let purl=request("https://daina.hk/api/?key=292e091190c8325e4d7603cc8d7f2dde&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/qiqi/.test(input)){let purl=request("http://42.51.37.161:5678/json/520238app8/ml77.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
 		
 	limit:6,
 	// 推荐:'json:data[0].vlist;*;*;*;*',
