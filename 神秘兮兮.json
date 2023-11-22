@@ -93,7 +93,7 @@
 
 {"key":"爱看","name":"♥SR┃爱看蓝光","type":3,"playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 
-{"key":"tengxun","name":"⭐SR┃腾讯影视","type":3,"playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
+{"key":"tengxun","name":"⭐SR┃腾讯影视","type":3,"playerType":1,"searchable": 2,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
 {"key":"真不卡","name":"☎SR┃通通影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/真不卡.json"},
 
@@ -161,7 +161,7 @@
 
 {"name": "🔓神秘","type":0,"url": "https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 
-{"name": "🔓神秘0","type": 1,"url": "http://23.224.135.68:27264/xg/jx.php/?url="},
+{"name": "🔓神秘0","type": 1,"url": "https://110.42.2.98/api/?key=GqSFIberVFH6Juo1Mb&url="},
 
 {"name": "🔓神秘1","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
 
@@ -183,7 +183,7 @@
 
 {"name": "🔑解析0","type": 1,"url": "http://jx.daenys.vip:2587/tjxdsg.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
-{"name": "🔑解析1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+{"name": "🔑解析1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2297&my=cdgjqrswzDFIMNQY67&format=json&url="},
 
 {"name": "🔑解析2","type": 1,"url": "http://42.157.128.109:2323/CH/app/tv.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
