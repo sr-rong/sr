@@ -25,21 +25,21 @@
 
 {"key": "私物","name": "⭕SR┃私物专源","type": 1,"api": "http://82.156.187.143/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","动漫","电影","综艺"]},
 
-{"key":"刺桐","name":"🧶SR┃刺桐专源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ls.cttv.vip/api.php/app/"},
+{"key":"刺桐TV","name":"🧶SR┃刺桐专源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ls.cttv.vip/api.php/app/"},
 
 {"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "miniku","name": "♉SR┃迷你酷仓","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
-{"key":"星星","name":"⛎SR┃新奇源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
+{"key":"星奇APP","name":"⛎SR┃新奇源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
 //{"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","playUrl":"json:https://qp.xn--2qux23cmstnvb.com/json/api/?time=1700549349&vkey=507316a3d4c00aeead46497699070a88.m3u8","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "A8影视","name": "🚭SR┃嗨吧源仓","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
-{"key":"影视tv","name":"♋SR┃影视聚合","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://app.yuechig.com/maccms/api.php/app/"},
+{"key":"影视tv.http://app.yuechig.com","name":"♋SR┃影视聚合","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://app.yuechig.com/maccms/api.php/app/"},
 
-{"key": "tv酷","name": "♍SR┃tv酷影APP","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key": "tv酷影视APP","name": "♍SR┃tv酷影APP","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
 {"key":"龙辰影院https://www.yydsok.vip/","name":"♎SR┃龙辰影院","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"https://www.yydsok.vip/api.php/app/"},
 
