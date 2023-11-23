@@ -157,7 +157,7 @@
 
 {"name": "🌽玉米专链1","type": 1,"url": "http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url="},
 
-{"name": "⭕官方","type": 1,"url":"http://api.tyun77.cn/api.php/provide/parserUrl?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "⭕官方","type": 1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "🔓神秘","type":1,"url": "https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 
@@ -169,7 +169,7 @@
 
 //{"name": "🔓神秘3","type": 1,"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="},
 
-{"name":"🔓神秘4","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
+//{"name":"🔓神秘4","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
 
 {"name":"🔓神秘5","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2297&my=cdgjqrswzDFIMNQY67&format=json&url="},
 
