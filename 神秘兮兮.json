@@ -151,9 +151,7 @@
 
 {"name": "智能解析","type": 2,"url":"Sequence"},
 
-{"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
-
-{"name": "🌽玉米专链","type": 1,"url": "http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url=","ext": {"flag": ["qq","YuMi-vip","YuMi","腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "🌽玉米专链","type": 1,"url": "http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url="},
 
 {"name": "🌽玉米专链1","type": 1,"url": "http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url="},
 
@@ -165,41 +163,31 @@
 
 {"name": "🔓神秘1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2486&my=bdghlntuwCFHLVXY18&format=json&url="},
 
-{"name": "🔓神秘2","type": 1,"url":"https://jxjson.cf/json.php?url="},
+{"name": "🔓神秘2","type": 1,"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="},
 
-//{"name": "🔓神秘3","type": 1,"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="},
+{"name":"🔓神秘3","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2297&my=cdgjqrswzDFIMNQY67&format=json&url="},
 
-{"name":"🔓神秘4","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
-
-{"name":"🔓神秘5","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2297&my=cdgjqrswzDFIMNQY67&format=json&url="},
-
-//{"name": "🔓神秘6","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url="},
-
-//{"name":"🔓神秘7","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
+{"name":"🔓神秘4","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
 
 //{"name": "🔓解析飞云","type": 1,"url": "http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url="},
 
-{"name": "🔑解析","type": 1,"url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "🔑解析","type": 1,"url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url="},
 
 {"name": "🔑解析0","type": 1,"url": "http://jx.daenys.vip:2587/tjxdsg.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
-//{"name": "🔑解析1","type": 1,"url": "https://jiexi.xn--654a.cc/home/api?type=ys&uid=24479733&key=bcimnopqsCFGIKPR38&url="},
+{"name": "🔑解析1","type": 1,"url": "https://jiexi.xn--654a.cc/home/api?type=ys&uid=24479733&key=bcimnopqsCFGIKPR38&url="},
 
 {"name": "🔑解析2","type": 1,"url": "http://42.157.128.109:2323/CH/app/tv.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "🔑解析3","type": 1,"url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=","ext": {"flag": ["qq","mgtv","YuMi-vip"]}},
 
-{"name": "🔑解析4","type": 1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-
-{"name": "🔑解析5","type":1,"url":"https://vip.lianfaka.com/vip/?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","Referer":"https://www.dy6g.com/"}}},
+{"name": "🔑解析4","type":1,"url":"https://vip.lianfaka.com/vip/?url="},
 
 {"name": "⛄戴拿","type": 1,"url": "https://daina.hk/api/?key=5e5e24e360e908e1b3d6a0a2f0c4869b&url="},
 
-//{"name": "💟飞云","type": 1,"url": "http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url="},
+{"name": "💟飞云","type": 1,"url": "http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url="},
 
 {"name": "🌈快影654","type": 1,"url": "http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url="},
-
-{"name":"🌾米太硬","type":1,"url":"http://luoye.shop/jiexi/米太硬.php?url="},
 
 {"name":"🅿涂城","type":1,"url":"http://23.224.135.68:27264/xg/tucheng.php/?url="}
 
