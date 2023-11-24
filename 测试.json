@@ -50,15 +50,13 @@
 
 {"name": "智能解析","type": 2,"url":"Sequence"},
 
-{"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
-
-{"name": "⭕官方","type": 1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "⭕官方","type": 1,"url":"http://42.51.37.161:5678/json/520239app9/gf2.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "🌽玉米","type": 1,"url": "http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url="},
 
 //{"name": "💟飞云","type": 1,"url": "http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url="},
 
-{"name": "小米","type": 1,"url": "http://mi.fxwl.vip/api/xiaomiys/m3333.php?sign=ba609227c3761e10a9d6e8a17f79e958ba0b4ef3292a68d1e26c056e1d765a23&url="},
+{"name": "小米","type": 1,"url": "http://htp.behds.cn/json/520239app9/mlyb.php?url="},
 
 {"name": "🌈","type": 1,"url": "http://110.42.2.247:880//analysis//json//?uid=2284&my=cdefgijorsCPSTW138&format=json&url="},
 
