@@ -117,8 +117,6 @@
 
 {"key":"6v","name":"🤘SR┃6V-影视","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
-{"key":"csp_SeedHub","name":"🎅SR┃Hub-私盘","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/83.jar"},
-
 {"key":"csp_XYQHikerAL_4KHDR","name":"🎈SR┃HDR-磁盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json","jar":"./jar/custom_spider.jar"},
 
 {"key":"Gitcafe","name":"📝SR┃纸条搜索","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/custom_spider.jar"},
