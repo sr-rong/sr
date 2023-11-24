@@ -29,7 +29,7 @@
 
 {"key":"星奇APP","name":"⛎SR┃新奇源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
-//{"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","playUrl":"json:https://qp.xn--2qux23cmstnvb.com/json/api/?time=1700549349&vkey=507316a3d4c00aeead46497699070a88.m3u8","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","playUrl":"json:http://json.84jia.com/home/api?type=app&uid=10102662&key=abghpswzLPQSTVYZ07&url=","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "A8影视","name": "🚭SR┃嗨吧源仓","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
