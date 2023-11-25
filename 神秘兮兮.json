@@ -35,7 +35,7 @@
 
 {"key":"影视tv.http://app.yuechig.com","name":"♋SR┃影视聚合","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://app.yuechig.com/maccms/api.php/app/"},
 
-{"key": "tv酷影视APP","name": "♍SR┃tv酷影APP","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key": "tv酷影视APP","name": "♍SR┃tv酷影APP","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:https://www.tvkuys.xyz/api.php/v6.Parse/Index?list=0&from=itvbox_play&url="},
 
 {"key":"龙辰影院https://www.yydsok.vip/","name":"♎SR┃龙辰影院","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"https://www.yydsok.vip/api.php/app/"},
 
