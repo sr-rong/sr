@@ -19,7 +19,7 @@
 
 {"key":"久久","name":"┃久久","type":3,"playerType":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.jiujiutv.cn/api.php/app/"},
 
-{"key":"会员会","name":"影视","type":3,"searchable":1,"api":"csp_AppYsV2","quickSearch":1,"filterable":1,"ext":"http://185.243.241.23:7777/sk-api/vod/list/"},
+{"key":"会员会","name":"影视","type":3,"searchable":1,"api":"csp_AppYsV2","quickSearch":1,"filterable":1,"ext":"http://175.24.184.181:7778/api.php/app/"},
 
 {"key":"会员","name":"🍌SR┃自源影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.dytt996.com:785/api.php/app/","playUrl":"json:http://qq.hhtv.vip:5008/vip.php?url="},
 
