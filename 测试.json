@@ -19,7 +19,7 @@
 
 {"key":"久久","name":"┃久久","type":3,"playerType":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.jiujiutv.cn/api.php/app/"},
 
-{"key":"觅影app","name":"觅影影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://zy.xiaomaomi.tv/api.php/app/"},
+{"key":"小猫咪tv","name":"小猫咪影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://zy.xiaomaomi.tv/api.php/app/"},
 
 {"key":"会员","name":"🍌SR┃自源影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.dytt996.com:785/api.php/app/","playUrl":"json:"},
 
