@@ -17,7 +17,7 @@
 
 {"key": "追忆","name": "💟SR┃追忆源仓","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/追忆.js"},
 
-{"key":"久久","name":"┃久久","type":3,"playerType":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.jiujiutv.cn/api.php/app/"},
+{"key":"久久","name":"┃久久","type":3,"playerType":1,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.jiujiutv.cn/api.php/app/"},
 
 {"key":"哇哇app","name":"哇哇影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://39.98.32.241:6688/api.php/zjv2.vod"},
 
