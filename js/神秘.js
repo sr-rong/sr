@@ -1,6 +1,6 @@
 var rule = {
 	title: '自营4k[V2]', // csp_AppYsV2
-	host: 'https://jihulab.com/smxx/sr/-/raw/main/json/99.json',
+	host: 'http://4k.953365.cn:8090/xgapp.php/v2/',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":"Dart/3.0 (dart:io)"}});let src = JSON.parse(html).domain;print(src);HOST=src',
 	homeUrl:'/xgapp.php/v2/index_video',
 	// url: '/xgapp.php/v1/video?tid=fyclass&class=&area=&lang=&year=&limit=20&pg=fypage',
@@ -23,13 +23,13 @@ var rule = {
 	class_url:'2&1&4&3',
 	play_parse:true,
 	pagecount:{"22":1},
-		lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/Feiyun/.test(input)){let purl=request("https://daina.hk/api/?key=292e091190c8325e4d7603cc8d7f2dde&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/qiqi/.test(input)){let purl=request("http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
+		lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/Feiyun/.test(input)){let purl=request("https://daina.hk/api/?key=292e091190c8325e4d7603cc8d7f2dde&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/qiqi/.test(input)){let purl=request("http://42.51.37.161:5678/json/520238app8/ml77.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
 		
 	limit:6,
 	// 推荐:'json:data[0].vlist;*;*;*;*',
 	推荐:'json:data;vlist;*;*;*;*',
 	double:true,
 	一级:'json:data;vod_name;vod_pic;vod_remarks;vod_id',
-	二级:'js:try{let html=request(input);print(html);html=JSON.parse(html);let node=html.data.vod_info;VOD={vod_id:node["vod_id"],vod_name:node["vod_name"],vod_pic:node["vod_pic"],type_name:node["vod_class"],vod_year:node["vod_year"],vod_area:node["vod_area"],vod_remarks:node["vod_remarks"],vod_actor:node["vod_actor"],vod_director:node["vod_director"],vod_content:node["vod_content"].strip()};let episodes=node.vod_url_with_player;let playMap={};if(typeof play_url==="undefined"){var play_url=""}episodes.forEach(function(ep){let source=ep["name"];if(!playMap.hasOwnProperty(source)){playMap[source]=[]}playMap[source].append(ep["url"])});let playFrom=[];let playList=[];Object.keys(playMap).forEach(function(key){playFrom.append(key);playList.append(playMap[key])});let vod_play_from=("神秘1$$$神秘2");let vod_play_url=playList.join("$$$");VOD["vod_play_from"]=vod_play_from;VOD["vod_play_url"]=vod_play_url}catch(e){log("获取二级详情页发生错误:"+e.message)}',
+	二级:'js:try{let html=request(input);print(html);html=JSON.parse(html);let node=html.data.vod_info;VOD={vod_id:node["vod_id"],vod_name:node["vod_name"],vod_pic:node["vod_pic"],type_name:node["vod_class"],vod_year:node["vod_year"],vod_area:node["vod_area"],vod_remarks:node["vod_remarks"],vod_actor:node["vod_actor"],vod_director:node["vod_director"],vod_content:node["vod_content"].strip()};let episodes=node.vod_url_with_player;let playMap={};if(typeof play_url==="undefined"){var play_url=""}episodes.forEach(function(ep){let source=ep["name"];if(!playMap.hasOwnProperty(source)){playMap[source]=[]}playMap[source].append(ep["url"])});let playFrom=[];let playList=[];Object.keys(playMap).forEach(function(key){playFrom.append(key);playList.append(playMap[key])});let vod_play_from=("💕神秘1💕$$$💕神秘2💕");let vod_play_url=playList.join("$$$");VOD["vod_play_from"]=vod_play_from;VOD["vod_play_url"]=vod_play_url}catch(e){log("获取二级详情页发生错误:"+e.message)}',
 	搜索:'*',
 }
