@@ -1,6 +1,6 @@
 var rule = {
 	title: '自营4k[V2]', // csp_AppYsV2
-	host: 'http://4k.953365.cn:8090/xgapp.php/',
+	host: 'http://4k.953365.cn:8090',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":"Dart/3.0 (dart:io)"}});let src = JSON.parse(html).domain;print(src);HOST=src',
 	homeUrl:'/xgapp.php/v2/index_video',
 	// url: '/xgapp.php/v1/video?tid=fyclass&class=&area=&lang=&year=&limit=20&pg=fypage',
