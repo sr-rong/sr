@@ -58,6 +58,8 @@
 
 {"name": "🌽玉米","type": 1,"url": "http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url="},
 
+{"name":"分享飞魚","type":1,"url":"http://103.42.31.123:5821/jx/?url="},
+
 //{"name": "💟飞云","type": 1,"url": "http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url="},
 
 {"name": "小米","type": 1,"url": "http://htp.behds.cn/json/520239app9/mlyb.php?url="},
