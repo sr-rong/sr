@@ -77,6 +77,8 @@
 
 {"key": "世界","name": "🌎SR┃世界影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
 
+{"key":"蓝鸟影视app","name":"♏SR┃蓝鸟影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://llys.juquanwl.top/icciu_api.php/v1.vod"},
+
 { "key":"短剧","name":"🍩SR┃短剧影视", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["电视剧","电影","动漫","短剧"],"jar":"./jar/DJ.jar"},
 
 {"key":"短短","name":"🏆SR┃酷映短剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/","playUrl":"json:http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url="},
