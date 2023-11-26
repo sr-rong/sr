@@ -27,7 +27,7 @@
 
 {"key":"csp_yueai","name":"🔯SR┃越爱影视","type":1,"searchable":1, "quickSearch":1,"filterable":1,"api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/?ac=list"},
 
-{"key":"落攻阁","name":"🎯SR┃落攻专源","type":3, "searchable":1, "api":"csp_AppYsV2","quickSearch":1,"filterable":1,"ext":" http://38.12.25.132:5242/api.php/v1.vod"},
+{"key":"落攻阁","name":"🎯SR┃落攻专源","type":3, "searchable":1, "api":"csp_AppYsV2","quickSearch":1,"filterable":1,"ext":" http://38.12.25.132:5242/xgapp.php/v1.vod"},
 
 {"key": "非凡","name": "非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable":1,"categories": ["国产剧","科幻片","动漫片","综艺片"]},
 
