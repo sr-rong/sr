@@ -68,6 +68,8 @@
 
 {"key": "NOAD","name": "🏧SR┃是非视频","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/novip.json"},
 
+{"key":"小猫咪tv","name":"😸SR┃猫咪影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://zy.xiaomaomi.tv/api.php/app/"},
+
 {"key": "TVB云播","name": "🥩SR┃云播影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/TVB云播.json"},
 
 {"key": "csp_干饭","name": "🍚SR┃饭饭影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/干饭.json"},
