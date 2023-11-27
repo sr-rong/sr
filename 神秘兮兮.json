@@ -154,7 +154,7 @@
 
 "parses": [ 
 
-//{"name":"超级并发","type":2,"url":"Parallel"},
+{"name":"超级并发","type":2,"url":"Parallel"},
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
 
@@ -192,7 +192,7 @@
 
 {"name": "🔑解析3","type": 1,"url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=","ext": {"flag": ["qq","mgtv","YuMi-vip"]}},
 
-{"name": "🔑解析4","type":1,"url":"https://vip.lianfaka.com/vip/?url="},
+{"name": "🔑解析4","type":1,"url":"http://a.liu88.top/api/?key=VCn6XZyCaD3bWlsBfq&url="},
 
 {"name": "⛄戴拿","type": 1,"url": "https://daina.hk/api/?key=5e5e24e360e908e1b3d6a0a2f0c4869b&url="},
 
