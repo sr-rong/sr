@@ -15,8 +15,6 @@
 
 {"key":"蓝鸟影视","name":"♎SR┃蓝鸟影院","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://llys.juquanwl.top/icciu_api.php/v1.vod"},
 
-{"key":"雨晴","name":"💖分享晴天","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
-
 {"key": "追忆","name": "💟SR┃追忆源仓","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/追忆.js"},
 
 {"key":"久久","name":"┃久久","type":3,"playerType":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.jiujiutv.cn/api.php/app/"},
