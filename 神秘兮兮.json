@@ -31,7 +31,7 @@
 
 {"key":"米花影视app","name":"♑SR┃米花源仓","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://cms.kots.top/api.php/provide/vod/?ac=list"},
 
-{"key":"抖剧TVapp","name":"♒SR┃抖剧源仓","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://mengmi.yibowang.asia/api.php/app/"},
+{"key":"抖剧TVapp","name":"♒SR┃抖剧源仓","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://mengmi.yibowang.asia/api.php/app/","playUrl":"json:http://a.liu88.top/api/?key=VCn6XZyCaD3bWlsBfq&url="},
 
 //{"key": "追忆","name": "💟SR┃追忆源仓","type":0,"api": "http://110.42.7.101:2233/api.php/provide/vod/at/xml/","playUrl":"json:http://mi.fxwl.vip/api/xiaomiys/m3333.php?sign=ba609227c3761e10a9d6e9a87677e450b00b4cf3292a68d1e26c056e1d765a23&url=","searchable":1,"quickSearch":1,"filterable":1},
 
