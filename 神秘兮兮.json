@@ -150,7 +150,7 @@
 
 "parses": [ 
 
-{"name":"超级并发","type":2,"url":"Parallel"},
+//{"name":"超级并发","type":2,"url":"Parallel"},
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
 
