@@ -27,7 +27,7 @@
 
 {"key":"csp_yueai","name":"🔯SR┃越爱影视","type":1,"searchable":1, "quickSearch":1,"filterable":1,"api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/?ac=list"},
 
-{"key":"觅影","name":"🎯SR┃觅影","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://mengmi.yibowang.asia/api.php/app/"},
+{"key":"抖剧TVapp","name":"♒SR┃抖剧源仓","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://mengmi.yibowang.asia/api.php/app/"},
 
 {"key": "非凡","name": "非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable":1,"categories": ["国产剧","科幻片","动漫片","综艺片"]},
 
