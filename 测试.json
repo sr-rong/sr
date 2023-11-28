@@ -13,7 +13,7 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key":"K影院","name":"♎SR┃K影院","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://iosa.xn--654a.cc/api.php/provide/vod/from/xinvip/at/xml"},
+{"key":"K影院","name":"♎SR┃K影院","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://iosa.xn--654a.cc/api.php/provide/vod/from/xinvip/at/xml"},
 
 {"key": "追忆","name": "💟SR┃追忆源仓","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/追忆.js"},
 
