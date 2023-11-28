@@ -47,6 +47,8 @@
 
 {"key":"龙辰影院https://www.yydsok.vip/","name":"♎SR┃龙辰影院","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"https://www.yydsok.vip/api.php/app/"},
 
+{"key":"欣琪影视app","name":"🆚SR┃欣琪影视","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://xsym.cc/api.php/provide/vod/"},
+
 {"key":"csp_Kunyu77","name":"🌈SR┃七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/七七.jar"},
 
 //{"key":"酷影备","name":"♓SR┃酷影备源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:23652/api.php/app/"},
