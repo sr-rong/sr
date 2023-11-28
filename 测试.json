@@ -35,7 +35,7 @@
 
 {"key":"沙河","name":"👑SR┃沙河影院","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
 
-{"key": "追剧os","name":"追剧os","type":3,"api":"csp_AppYsV2","ext":"http://154.12.21.186.119/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "追剧os","name":"追剧os","type":3,"api":"csp_AppYsV2","ext":"http://154.12.21.186.4888/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 //{"key":"一起看 ","name":"👬SR┃一起看吧","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/一起看.jar"},
 
