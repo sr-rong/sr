@@ -39,6 +39,8 @@
 
 {"key":"雨晴","name":"♐SR┃晴天源仓","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 
+{"key":"少泽影客TV","name":"♎SR┃少泽源仓","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://yk.770880.cc/api.php/app/"},
+
 {"key":"影视tv.http://app.yuechig.com","name":"♋SR┃影视聚合","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://app.yuechig.com/maccms/api.php/app/"},
 
 {"key": "tv酷影视APP","name": "♍SR┃tv酷影APP","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:https://www.tvkuys.xyz/api.php/v6.Parse/Index?list=0&from=itvbox_play&url="},
