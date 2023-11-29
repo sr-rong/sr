@@ -194,7 +194,7 @@
 
 {"name": "🔑解析","type": 1,"url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url="},
 
-{"name": "🔑解析0","type": 1,"url": "http://jx.daenys.vip:2587/tjxdsg.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "🔑解析0","type": 1,"url": "https://json.oorl.cn/api/?key=IBSn1OTxtREAlTComL&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 //{"name": "🔑解析1","type": 1,"url": "https://jiexi.xn--654a.cc/home/api?type=ys&uid=24479733&key=bcimnopqsCFGIKPR38&url="},
 
