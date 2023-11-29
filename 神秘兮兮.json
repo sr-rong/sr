@@ -15,7 +15,7 @@
 
 {"key": "神秘","name": "💋SR┃神秘专源","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/神秘.js"},
 
-{"key": "爱酷","name": "🎡SR┃爱酷专源","type":1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=detail","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "爱酷","name": "🎡SR┃艾酷专源","type":1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=detail","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"落攻阁APP","name":"🎯SR┃落攻专源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":" http://38.12.25.132:5242/api.php/app/"},
 
@@ -44,6 +44,8 @@
 {"key":"影视tv.http://app.yuechig.com","name":"♋SR┃影视聚合","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://app.yuechig.com/maccms/api.php/app/"},
 
 {"key": "tv酷影视APP","name": "♍SR┃tv酷影APP","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:https://www.tvkuys.xyz/api.php/v6.Parse/Index?list=0&from=itvbox_play&url="},
+
+{"key": "爱酷tvAPP","name": "♓┃SR爱酷影院","type":3,"api":"csp_AppYsV2","ext":"https://aiku.earxo.com/api.php/app/","searchable": 1,"quickSearch": 1,"filterable":1},
 
 {"key":"TT","name":"♊SR┃涛哥影院","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.129.187.120:8090/ruifenglb_api.php/v1.vod"},
 
