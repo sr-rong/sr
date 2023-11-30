@@ -19,7 +19,7 @@
 
 {"key":"久久","name":"┃久久","type":3,"playerType":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.jiujiutv.cn/api.php/app/"},
 
-{"key":"米花影视app","name":"♑SR┃米花影视","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://cms.kots.top/api.php/provide/vod/?ac=list"},
+{"key":"米花影视app","name":"♑SR┃米花影视","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://www.freeok.vip/api.php/provide/vod/?ac=list"},
 
 {"key":"欣琪影视app","name":"🆚SR┃欣琪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xsym.cc/lvdou_api.php/v1.vod"},
 
