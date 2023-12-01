@@ -25,7 +25,7 @@
 
 //{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "miniku","name": "♉SR┃迷你酷仓","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
+{"key": "miniku","name": "♉SR┃迷你酷仓②","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
 {"key":"星奇APP","name":"⛎SR┃新奇源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
@@ -37,11 +37,11 @@
 
 {"key": "A8影视","name": "🚭SR┃嗨吧源仓","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
-{"key":"雨晴","name":"♐SR┃晴天源仓","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
+{"key":"雨晴","name":"♐SR┃晴天源仓③","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 
-{"key":"小城追剧app","name":"♒SR┃小城源仓","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://115.231.232.61:8866/api.php/app/"},
+{"key":"小城追剧app","name":"♒SR┃小城源仓①","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://115.231.232.61:8866/api.php/app/"},
 
-{"key":"少泽影客TV","name":"♎SR┃少泽源仓","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://yk.770880.cc/api.php/app/"},
+{"key":"少泽影客TV","name":"♎SR┃少泽源仓④","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://yk.770880.cc/api.php/app/"},
 
 {"key":"影视tv.http://app.yuechig.com","name":"♋SR┃影视聚合","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://app.yuechig.com/maccms/api.php/app/"},
 
@@ -102,7 +102,7 @@
 
 { "key":"短剧","name":"🍩SR┃短剧影视", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["电视剧","电影","动漫","短剧"],"jar":"./jar/DJ.jar"},
 
-{"key":"短短","name":"🏆SR┃酷映短剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/","playUrl":"json:http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url="},
+{"key":"短短","name":"🏆SR┃酷映短剧⑤","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/","playUrl":"json:http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url="},
 
 {"key": "csp_XBPQ_aoaotv","name": "🍓SR┃嗷嗷影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
 
