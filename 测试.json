@@ -35,7 +35,7 @@
 
 {"key": "4K电影网","name": "🍂SR┃4k电影","type": 3,"api": "./lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./js/4K电影网.js"},
 
-{"key":"沙河","name":"👑SR┃沙河影院","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
+{"key":"沙河","name":"👑SR┃沙河影院","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://115.231.232.61:8866/api.php/provide/vod/"},
 
 {"key": "追剧os","name":"追剧os","type":3,"api":"csp_AppYsV2","ext":"http://103.42.31.123:5820/api.php/app/","searchable": 1,"quickSearch": 1,"filterable": 1},
 
