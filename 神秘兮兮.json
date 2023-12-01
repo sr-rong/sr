@@ -178,21 +178,21 @@
 
 {"name": "⭕官方","type": 1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
+{"name": "⭕官方0","type": 1,"url": "https://json.oorl.cn/api/?key=IBSn1OTxtREAlTComL&url="},
+
 //{"name": "🔓神秘","type":1,"url": "http://42.51.37.161:5678/json/520239app9/gf2.php?url="},
 
 {"name": "🔓神秘0","type": 1,"url": "https://110.42.2.98/api/?key=GqSFIberVFH6Juo1Mb&url="},
 
 {"name": "🔓神秘1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2486&my=bdghlntuwCFHLVXY18&format=json&url="},
 
-{"name": "🔓神秘2-自","type": 1,"url": "http://json.84jia.com/home/api?type=jxsq&uid=10102662&key=abghpswzLPQSTVYZ07&url="},
+{"name": "🔓神秘2-自","type": 1,"url": "http://json.84jia.com/home/api?type=app&uid=10102662&key=abghpswzLPQSTVYZ07&url="},
 
 {"name":"🔓神秘3","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2297&my=cdgjqrswzDFIMNQY67&format=json&url="},
 
-//{"name":"🔓神秘4","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
+{"name":"🔓神秘4","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
 
 {"name": "🔓神秘5","type": 1,"url": "http://39.98.32.241:6789/skaqyk.php?url="},
-
-{"name": "⭕官方0","type": 1,"url": "https://json.oorl.cn/api/?key=IBSn1OTxtREAlTComL&url="},
 
 {"name": "🔑解析","type": 1,"url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url="},
 
