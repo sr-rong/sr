@@ -178,7 +178,7 @@
 
 {"name": "⭕官方","type": 1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
-{"name": "⭕官方0","type": 1,"url": "https://json.oorl.cn/api/?key=IBSn1OTxtREAlTComL&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "⭕官方0","type": 1,"url": "https://json.oorl.cn/api/?key=IBSn1OTxtREAlTComL&url="},
 
 {"name": "🔓神秘","type":1,"url": "http://42.51.37.161:5678/json/520239app9/gf2.php?url="},
 
