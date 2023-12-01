@@ -108,6 +108,8 @@
 
 {"key":"哇哇app","name":"🐸SR┃哇哇影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://39.98.32.241:6688/api.php/zjv2.vod"},
 
+{"key":"速映app","name":"💰SR┃速映影视","type":3,"searchable":1,"api":"csp_XBPQ","quickSearch":1,"filterable":1,"ext":"./json/速映.json"},
+
 {"key":"360影视","name":"👣SR┃360影视","type":3,"playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 
 {"key":"爱看","name":"♥SR┃爱看蓝光","type":3,"playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
