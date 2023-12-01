@@ -21,7 +21,7 @@
 
 {"key":"米花影视app","name":"♑SR┃米花影视","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://162.209.174.251:12345/xsz.php/v6/"},
 
-{"key":"玉米","name":"🌽SR┃玉米影视","type":1,"api":"http://124.222.116.5/mb/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"欣琪影视app","name":"🆚SR┃欣琪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xsym.cc/lvdou_api.php/v1.vod"},
 
