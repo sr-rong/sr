@@ -19,7 +19,7 @@
 
 {"key":"久久","name":"┃久久","type":3,"playerType":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.jiujiutv.cn/api.php/app/"},
 
-{"key":"米花影视app","name":"♑SR┃米花影视","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://103.108.66.112:84/index.php/label/week.html"},
+{"key":"米花影视app","name":"♑SR┃米花影视","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://103.108.66.112:84/api.php/provide/vod/?ac=list"},
 
 {"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
