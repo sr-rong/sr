@@ -13,7 +13,7 @@
 
 {"key": "꧔ꦿ᭄💞沈秘兮兮","name": "꧔ꦿ᭄💞沈秘兮兮꧔｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key":"K影院","name":"♎SR┃K影院","type":3,"api":"csp_AppYsV2","ext":"http://61.136.232.184:44/api.php/app/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url="},
+{"key":"K影院","name":"♎SR┃K影院","type":3,"api":"csp_AppYsV2","ext":"http://61.136.232.184:44/api.php/app/","vod_play_url":"1$SMDAkNXbnQYgNEkUQaEmQ4E-hbnp0S3pMSzJ0d3Baak1jSC9YSjdrZXV2emYzWmFYQkdrR1hz#2$SMDBef0cD-OoFUNlnaRkbxNbPbnp0S3pMSzJ0d3Baak1jSC9YSjdrZjZ2emYzWmZpTVJ5SGYw#3$SMDDH38rRX1OgbOxkWGW_ISJ0bnp0S3pMSzJ0d3Baak1jSC9YSjdrZSt2emYzWmYzb1B6bUho#4$SMDCeS8uIUGzebci3mbm4f1W8bnp0S3pMSzJ0d3Baak1jSC9YSjdrZm12emYzWmR5WVpoMlR3$$$\u7b2c01\u96c6$xinvip-da0950bbbcd7a10037c467d07ec1432e#\u7b2c02\u96c6$xinvip-ab2b22f26cbba3f445b410844fb3c4ad#\u7b2c03\u96c6$xinvip-d4ea55884a0e1303987961d77c75d06e#\u7b2c04\u96c6$xinvip-35ef76d5e8b98431f3dec1fc1d9edc87$$$\u7b2c01\u96c6$XYYDS-6b4f00ebc59407f24bd15bd339864042#\u7b2c02\u96c6$XYYDS-db51d2e63882678516113d55c02ae12a#\u7b2c03\u96c6$XYYDS-fe9a1806410c96652bbbb1cb2e7072b2#\u7b2c04\u96c6$XYYDS-66b8f052b343572282fd3a587edcd9cb"},
 
 {"key": "追忆","name": "💟SR┃追忆源仓","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/追忆.js"},
 
