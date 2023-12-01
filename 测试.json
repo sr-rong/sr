@@ -20,10 +20,10 @@
 {"key":"久久","name":"┃久久","type":3,"playerType":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.jiujiutv.cn/api.php/app/"},
 
 {"key":"来米影视TV app","name":"♑SR┃来米影视","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://tv.open.laimi.tv/api.php/provide/vod/","playUrl":"json:http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
+//macos
+{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/mb/api.php/provide/vod/at/xml/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"欣琪影视app","name":"🆚SR┃欣琪影视","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://180.188.22.134:97/api.php/seaxml/vod/at/xml"},
+{"key":"欣琪影视app","name":"🆚SR┃欣琪影视","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://180.188.22.134:97/api.php/seaxml/vod/at/xml/"},
 
 {"key":"TT","name":"♊SR┃涛哥影院","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.129.187.120:8090/ruifenglb_api.php/v1.vod"},
 
