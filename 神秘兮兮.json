@@ -15,7 +15,7 @@
 
 {"key": "神秘","name": "💋SR┃神秘专源","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/神秘.js"},
 
-{"key": "嘉靓tv","name": "✊SR┃加量专源","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/嘉良.js"},
+{"key": "嘉靓tv","name": "✊SR┃加量专源③","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/嘉良.js"},
 
 {"key": "爱酷","name": "🎡SR┃艾酷专源","type":1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=detail","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -39,7 +39,7 @@
 
 {"key": "A8影视","name": "🚭SR┃嗨吧源仓","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 
-{"key":"雨晴","name":"♐SR┃晴天源仓③","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
+{"key":"雨晴","name":"♐SR┃晴天源仓⑧","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 
 {"key":"小城追剧app","name":"♒SR┃小城源仓①","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.222.47.162:8899/api.php/app/"},
 
@@ -86,7 +86,7 @@
 
 {"key":"小猫咪tv","name":"😸SR┃猫咪影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://zy.xiaomaomi.tv/api.php/app/"},
 
-{"key": "新视觉影视","name": "💟SR┃视觉影视⑦","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/新视觉影视.js"},
+{"key": "新视觉影视","name": "💟SR┃视觉影视⑧","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/新视觉影视.js"},
 
 {"key": "TVB云播","name": "🥩SR┃云播影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/TVB云播.json"},
 
