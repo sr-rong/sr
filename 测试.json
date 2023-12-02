@@ -15,7 +15,7 @@
 
 {"key":"K影院","name":"♎SR┃K影院","type":3,"api":"csp_AppYsV2","ext":"http://61.136.232.184:44/api.php/app/"},
 
-{"key": "追忆","name": "💟SR┃追忆源仓","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/左岸.js"},
+{"key": "追忆","name": "💟SR┃追忆源仓","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/新视觉影视.js"},
 
 {"key":"久久","name":"┃久久","type":3,"playerType":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.jiujiutv.cn/api.php/app/"},
 
