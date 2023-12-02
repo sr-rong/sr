@@ -3,7 +3,7 @@ muban.mxpro.二级.tabs = '#y-playList&&.module-tab-item';
 var rule = {
     title:'酷客影院',
     模板:'mxpro',
-    host:'http://tv.open.laimi.tv',
+    host:'https://www.laimi.me',
     // url:'/vodshow/fyclass--------fypage---.html',
     url:'/vodshow/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
