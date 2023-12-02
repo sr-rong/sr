@@ -45,7 +45,7 @@
 
 {"key":"影视tv.http://app.yuechig.com","name":"♋SR┃影视聚合","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://app.yuechig.com/maccms/api.php/app/"},
 
-{"key": "tv酷影视APP","name": "♍SR┃tv酷影APP","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:https://www.tvkuys.xyz/api.php/v6.Parse/Index?list=0&from=itvbox_play&url="},
+{"key": "tv酷影视APP","name": "♍SR┃tv酷影视","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:https://www.tvkuys.xyz/api.php/v6.Parse/Index?list=0&from=itvbox_play&url="},
 
 {"key": "爱酷tvAPP","name": "♓SR┃爱酷影院","type":3,"api":"csp_AppYsV2","ext":"https://aiku.earxo.com/api.php/app/","searchable": 1,"quickSearch": 1,"filterable":1},
 
@@ -84,7 +84,7 @@
 
 {"key":"小猫咪tv","name":"😸SR┃猫咪影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://zy.xiaomaomi.tv/api.php/app/"},
 
-{"key": "新视觉影视","name": "💟SR┃视觉影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/新视觉影视.js"},
+{"key": "新视觉影视","name": "💟SR┃视觉影视⑦","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/新视觉影视.js"},
 
 {"key": "TVB云播","name": "🥩SR┃云播影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/TVB云播.json"},
 
