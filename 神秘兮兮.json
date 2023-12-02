@@ -15,6 +15,8 @@
 
 {"key": "神秘","name": "💋SR┃神秘专源","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/神秘.js"},
 
+{"key": "嘉靓tv","name": "✊SR┃加量专源","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/嘉良.js"},
+
 {"key": "爱酷","name": "🎡SR┃艾酷专源","type":1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=detail","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"落攻阁APP","name":"🎯SR┃落攻专源","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":" http://38.12.25.132:5242/api.php/app/"},
