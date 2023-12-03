@@ -21,7 +21,7 @@
 
 {"key":"来米影视TV app","name":"♑SR┃来米影视","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://tv.open.laimi.tv/api.php/provide/vod/","playUrl":"json:http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
 //macos
-{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/api.php/provide/vod/from/jsm3u8/at/xml","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"欣琪影视app","name":"🆚SR┃欣琪影视","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://47.106.251.246:5566/api.php/provide/vod/at/xml/"},
 
