@@ -15,7 +15,9 @@
 
 {"key": "神秘","name": "💋SR┃神秘专源","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/神秘.js"},
 
-{"key": "嘉靓tv","name": "✊SR┃加量专源③","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/嘉良.js"},
+{"key":"短短","name":"🏆SR┃酷映专源②","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/","playUrl":"json:http://121.4.51.101:86/api/?key=sVXA14h1adWLCRmUj5&url="},
+
+{"key": "嘉靓tv","name": "✊SR┃加量专源⑤","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/嘉良.js"},
 
 {"key": "爱酷","name": "🎡SR┃艾酷专源","type":1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=detail","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -27,7 +29,7 @@
 
 //{"key":"玉米","name":"🌽SR┃玉米影视","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "miniku","name": "♉SR┃迷你酷仓②","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
+{"key": "miniku","name": "♉SR┃迷你酷仓③","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
 {"key":"星奇APP","name":"⛎SR┃新奇源仓","type":1,"playerType":1,"api":"http://cms1.xingqisp.com/api.php/provide/vod/?ac=list"},
 
