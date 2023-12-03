@@ -86,7 +86,7 @@
 
 {"key":"小猫咪tv","name":"😸SR┃猫咪影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://zy.xiaomaomi.tv/api.php/app/"},
 
-{"key": "新视觉影视","name": "💟SR┃视觉影视⑧","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/新视觉影视.js"},
+{"key": "新视觉影视","name": "💟SR┃视觉影视⑦","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/新视觉影视.js"},
 
 {"key": "TVB云播","name": "🥩SR┃云播影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/TVB云播.json"},
 
